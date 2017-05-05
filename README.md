@@ -6,10 +6,11 @@
 ```
 cd <magento2 path>
 composer require benheart/magento2_zh_hans_cn:dev-master
+php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Hans_CN
 ```
 **手动安装**
-- [下载中文包](https://github.com/benheart/magento2_zh_hans_cn)
-- 解压并上传文件到指定目录：<magento2 path>/app/i18n/benheart/magento2_zh_hans_cn
+- [下载 Magento2 中文包](https://github.com/benheart/magento2_zh_hans_cn/archive/master.zip)
+- 解压并上传文件到指定目录：\<magento2 path\>/app/i18n/benheart/magento2_zh_hans_cn
 - 登录Magento2管理后台，清缓存：System -> Cache Management -> Flush Magento Cache
 - 选择中文语言包：Stores -> Configuration -> General > General -> Locale options -> Chinese (China)
 
