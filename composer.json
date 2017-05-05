@@ -1,0 +1,30 @@
+{
+  "name": "benheart/magento2_zh_hans_cn",
+  "description": "Chinese language package for Magento 2",
+  "homepage": "https://github.com/benheart/magento2_zh_hans_cn",
+  "require": {
+    "magento/framework": "~100.0"
+  },
+  "type": "magento2-language",
+  "version": "1.0.0",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Ben Hu",
+      "email": "benheart.hu@gmail.com",
+      "homepage": "https://github.com/benheart",
+      "role": "Leader"
+    },
+    {
+      "name": "Magento official translations project for Magento 2",
+      "homepage": "https://crowdin.com/project/magento-2"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
