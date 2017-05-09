@@ -11599,7 +11599,7 @@ Title,标题,module,Magento_UrlRewrite
 "URL Key",网址,module,Magento_UrlRewrite
 "Store View",商店界面,module,Magento_UrlRewrite
 "Edit URL Rewrite","编辑 URL 重写",module,Magento_UrlRewrite
-"Add New URL Rewrite",添加新网址重写,module,Magento_UrlRewrite
+"Add New URL Rewrite",新建 URL 重写,module,Magento_UrlRewrite
 Reset,重置,module,Magento_UrlRewrite
 Back,后退,module,Magento_UrlRewrite
 Delete,删除,module,Magento_UrlRewrite
@@ -11618,14 +11618,14 @@ Custom,自定义,module,Magento_UrlRewrite
 "For Category",给分类,module,Magento_UrlRewrite
 "For Product",给商品,module,Magento_UrlRewrite
 "For CMS page","给CMS页面",module,Magento_UrlRewrite
-"Create URL Rewrite",创建URL重写,module,Magento_UrlRewrite
+"Create URL Rewrite","创建 URL 重写",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","你删除 URL 重写。",module,Magento_UrlRewrite
-"We can't delete URL Rewrite right now.","我们不能删除 URL 重写现在。",module,Magento_UrlRewrite
-"URL Rewrites",URL重写,module,Magento_UrlRewrite
+"We can't delete URL Rewrite right now.","当前无法删除 URL 重写。",module,Magento_UrlRewrite
+"URL Rewrites","URL 重写",module,Magento_UrlRewrite
 "The product you chose is not associated with the selected store or category.",您选择的商品不是与所选的存储或类别相关联的。,module,Magento_UrlRewrite
 "The category you chose is not associated with the selected store.",您选择的类别不是与所选存储相关联的。,module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","URL 重写已被保存。",module,Magento_UrlRewrite
-"Something went wrong while saving URL Rewrite.","保存 URL 重写时，出了错。",module,Magento_UrlRewrite
+"Something went wrong while saving URL Rewrite.","保存 URL 重写出错。",module,Magento_UrlRewrite
 "Do not use two or more consecutive slashes in the request path.",在请求路径不使用两个或更多连续的斜线。,module,Magento_UrlRewrite
 "Anchor symbol (#) is not supported in request path.","锚点符号 (#) 不支持请求的路径。",module,Magento_UrlRewrite
 "Do not use two or more consecutive slashes in the url rewrite suffix.","不使用两个或更多连续的斜线在 url 重写后缀。",module,Magento_UrlRewrite
