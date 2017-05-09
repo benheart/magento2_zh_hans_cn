@@ -898,7 +898,7 @@ Rollback,回滚,module,Magento_Backup
 "Scheduled Backup Settings",计划的备份设置,module,Magento_Backup
 "Enable Scheduled Backup",启用定时的备份,module,Magento_Backup
 "Backup Type",备份类型,module,Magento_Backup
-"Start Time",平率,module,Magento_Backup
+"Start Time",开始时间,module,Magento_Backup
 Frequency,频率,module,Magento_Backup
 "Maintenance Mode",维护模式,module,Magento_Backup
 Delete,删除,module,Magento_Backup
@@ -1795,7 +1795,7 @@ Required,必填,module,Magento_Catalog
 %1,%1,module,Magento_Catalog
 "This item has weight",这件物品有重量,module,Magento_Catalog
 "This item has no weight",这件物品没有重量,module,Magento_Catalog
-"Set Product as New From",作为新商品开始于,module,Magento_Catalog
+"Set Product as New From",设为新商品从,module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells",相关商品，向上销售和交叉销售,module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.",客户浏览商品时显示相关商品,module,Magento_Catalog
 "Add Related Products",添加相关的商品,module,Magento_Catalog
@@ -2043,14 +2043,14 @@ Set,设置名称,module,Magento_Catalog
 "Include in Menu",在菜单中包含,module,Magento_Catalog
 Content,内容,module,Magento_Catalog
 "Category Image",类别图像,module,Magento_Catalog
-Description,Description,module,Magento_Catalog
+Description,描述,module,Magento_Catalog
 "Add CMS Block","添加 CMS 块",module,Magento_Catalog
 "Display Settings",显示设置,module,Magento_Catalog
-"Display Mode","Display Mode",module,Magento_Catalog
+"Display Mode","显示模式",module,Magento_Catalog
 Anchor,锚点,module,Magento_Catalog
-"Available Product Listing Sort By","Available Product Listing Sort By",module,Magento_Catalog
+"Available Product Listing Sort By","可使用的商品排序依据",module,Magento_Catalog
 "Use All",使用所有,module,Magento_Catalog
-"Default Product Listing Sort By","Default Product Listing Sort By",module,Magento_Catalog
+"Default Product Listing Sort By","默认商品列表排序依据",module,Magento_Catalog
 "Layered Navigation Price Step",分层的导航价格步。,module,Magento_Catalog
 "URL Key",网址,module,Magento_Catalog
 "Meta Title","Meta 标题",module,Magento_Catalog
@@ -2304,7 +2304,7 @@ Save,保存,module,Magento_CatalogRule
 "Add New Rule",添加新规则,module,Magento_CatalogRule
 "Apply Rules",应用规则,module,Magento_CatalogRule
 Conditions,条件,module,Magento_CatalogRule
-"Conditions (don't add conditions if rule is applied to all products)","条件 (如果规则应用于所有商品不添加条件)",module,Magento_CatalogRule
+"Conditions (don't add conditions if rule is applied to all products)","条件(如果没有添加条件则应用于所有的商品)",module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRule
 Type,类型,module,Magento_CatalogRule
 "Attribute Set",属性集,module,Magento_CatalogRule
@@ -2340,10 +2340,10 @@ Promo,促销,module,Magento_CatalogRule
 "By Fixed value",按固定值,module,Magento_CatalogRule
 "By Percentage",按百分比,module,Magento_CatalogRule
 "Update product's %1 %2: %3","更新商品的 %1 %2: %3",module,Magento_CatalogRule
-"Apply as percentage of original",申请作为原始大小的百分比,module,Magento_CatalogRule
-"Apply as fixed amount",申请作为固定金额,module,Magento_CatalogRule
-"Adjust final price to this percentage",调整这一比例最终价格,module,Magento_CatalogRule
-"Adjust final price to discount value",调整最终价格以价值大打折扣,module,Magento_CatalogRule
+"Apply as percentage of original",应用为原始价格的百分比,module,Magento_CatalogRule
+"Apply as fixed amount",应用为固定金额,module,Magento_CatalogRule
+"Adjust final price to this percentage",调整最终价格为此百分比,module,Magento_CatalogRule
+"Adjust final price to discount value",调整最终价格为此折扣,module,Magento_CatalogRule
 "Conditions Combination",条件组合,module,Magento_CatalogRule
 "Product Attribute",商品属性,module,Magento_CatalogRule
 "Updated rules applied.",应用的更新的规则。,module,Magento_CatalogRule
@@ -2502,7 +2502,7 @@ Layout,布局,module,Magento_CatalogStaging
 50,50,module,Magento_CatalogStaging
 100,100,module,Magento_CatalogStaging
 200,200,module,Magento_CatalogStaging
-"Start Time",平率,module,Magento_CatalogStaging
+"Start Time",开始时间,module,Magento_CatalogStaging
 "End Time",结束时间,module,Magento_CatalogStaging
 ID,编号,module,Magento_CatalogStaging
 Thumbnail,缩略图,module,Magento_CatalogStaging
@@ -2515,7 +2515,7 @@ SKU,商品编号SKU,module,Magento_CatalogStaging
 Price,价格,module,Magento_CatalogStaging
 "Remove Product from Update","Remove Product from Update",module,Magento_CatalogStaging
 "The product will be removed from the update and all scheduled changes will be lost.","The product will be removed from the update and all scheduled changes will be lost.",module,Magento_CatalogStaging
-"Currently Active","Currently Active",module,Magento_CatalogStaging
+"Currently Active",当前活动,module,Magento_CatalogStaging
 Products,商品,module,Magento_CatalogStaging
 "Remove Product from Campaign",从活动中删除类别,module,Magento_CatalogStaging
 Categories,类别,module,Magento_CatalogStaging
@@ -3389,10 +3389,10 @@ Email,邮箱,module,Magento_CustomAttributeManagement
 "Edit Address",更改地址,module,Magento_Customer
 "Add New Address",添加新地址,module,Magento_Customer
 region,地区,module,Magento_Customer
-"Create Order",未指定项目,module,Magento_Customer
+"Create Order",创建订单,module,Magento_Customer
 "Save Customer",保存客户,module,Magento_Customer
 "Delete Customer",删除客户,module,Magento_Customer
-"Reset Password",你的密码重设链接已过期。,module,Magento_Customer
+"Reset Password",重置密码,module,Magento_Customer
 "Are you sure you want to revoke the customer's tokens?",你确定你想要撤销客户的令牌?,module,Magento_Customer
 "Force Sign-In",强制登录,module,Magento_Customer
 "New Customer",新用户,module,Magento_Customer
@@ -3410,12 +3410,12 @@ Action,操作,module,Magento_Customer
 Configure,配置,module,Magento_Customer
 Delete,删除,module,Magento_Customer
 "Shopping Cart from %1","从 %1 购物车",module,Magento_Customer
-Newsletter,已暂停,module,Magento_Customer
+Newsletter,资讯,module,Magento_Customer
 "Newsletter Information",资讯信息,module,Magento_Customer
 "Subscribed to Newsletter",订阅资讯,module,Magento_Customer
 "Last Date Subscribed",订阅的最后日期,module,Magento_Customer
 "Last Date Unsubscribed",取消订阅的最后日期,module,Magento_Customer
-"No Newsletter Found",发现没有资讯,module,Magento_Customer
+"No Newsletter Found",没有发现资讯,module,Magento_Customer
 "Start date",开始日期,module,Magento_Customer
 "End Date",结束日期,module,Magento_Customer
 "Receive Date",接收日期,module,Magento_Customer
@@ -3667,11 +3667,11 @@ Customer,客户,module,Magento_Customer
 "Personal Information",个人信息,module,Magento_Customer
 "Last Logged In:",上次登录:,module,Magento_Customer
 "Last Logged In (%1):","上次登录在 (%1):",module,Magento_Customer
-"Account Lock:","Account Lock:",module,Magento_Customer
+"Account Lock:","账户状态:",module,Magento_Customer
 "Confirmed email:",已确认的电子邮件:,module,Magento_Customer
-"Account Created:",创建的帐户:,module,Magento_Customer
+"Account Created:",账户创建于:,module,Magento_Customer
 "Account Created on (%1):","(%1) 上创建的帐户:",module,Magento_Customer
-"Account Created in:",在中创建的帐户:,module,Magento_Customer
+"Account Created in:",账户所属于:,module,Magento_Customer
 "Customer Group:",客户组,module,Magento_Customer
 "New Addresses",新地址,module,Magento_Customer
 "Default Billing Address",默认账单地址,module,Magento_Customer
@@ -4485,7 +4485,7 @@ Enabled,启动,module,Magento_Directory
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Directory
 Frequency,频率,module,Magento_Directory
 Service,服务,module,Magento_Directory
-"Start Time",平率,module,Magento_Directory
+"Start Time",开始时间,module,Magento_Directory
 "Installed Currencies",已安装的货币,module,Magento_Directory
 "Zip/Postal Code is Optional for",邮政编码是可选的,module,Magento_Directory
 "State Options",状态选项,module,Magento_Directory
@@ -4789,9 +4789,9 @@ Reset,重置,module,Magento_Email
 "Currently Used For",目前用于,module,Magento_Email
 "Template Name",模板名称,module,Magento_Email
 "Template Subject",模板主题,module,Magento_Email
-"Insert Variable...",插入变量。。。,module,Magento_Email
+"Insert Variable...",插入变量...,module,Magento_Email
 "Template Content",模板内容,module,Magento_Email
-"Template Styles",模板中的样式,module,Magento_Email
+"Template Styles",模板样式,module,Magento_Email
 Preview,预览,module,Magento_Email
 Unknown,未知,module,Magento_Email
 "You deleted the email template.",你删除了电子邮件模板。,module,Magento_Email
@@ -6661,7 +6661,7 @@ Pause,暂停,module,Magento_Newsletter
 Cancel,取消,module,Magento_Newsletter
 Resume,简历,module,Magento_Newsletter
 Preview,预览,module,Magento_Newsletter
-"Add New Template",模板类型,module,Magento_Newsletter
+"Add New Template",新建模板,module,Magento_Newsletter
 "Newsletter Templates",邮件列表订阅者,module,Magento_Newsletter
 "Convert to Plain Text",转换为纯文本,module,Magento_Newsletter
 "Return HTML Version","返回 HTML 版本",module,Magento_Newsletter
@@ -6674,7 +6674,7 @@ Preview,预览,module,Magento_Newsletter
 "Template Name",模板名称,module,Magento_Newsletter
 "Template Subject",模板主题,module,Magento_Newsletter
 "Template Content",模板内容,module,Magento_Newsletter
-"Template Styles",模板中的样式,module,Magento_Newsletter
+"Template Styles",模板样式,module,Magento_Newsletter
 "No Templates Found",没有找到模板,module,Magento_Newsletter
 ID,ID,module,Magento_Newsletter
 Template,模板,module,Magento_Newsletter
@@ -6693,7 +6693,7 @@ Action,操作,module,Magento_Newsletter
 "Please correct the newsletter template and try again.",请更正资讯模板，再试一次。,module,Magento_Newsletter
 "You saved the newsletter queue.",资讯队列已保存。,module,Magento_Newsletter
 "Newsletter Subscribers",资讯订阅列表,module,Magento_Newsletter
-Newsletter,已暂停,module,Magento_Newsletter
+Newsletter,资讯,module,Magento_Newsletter
 Subscribers,订阅用户,module,Magento_Newsletter
 "Please select one or more subscribers.",请选择一个或多个订阅服务器。,module,Magento_Newsletter
 "Total of %1 record(s) were deleted.",共有%1结果已被删除。,module,Magento_Newsletter
@@ -7589,7 +7589,7 @@ Price:,价格:,module,Magento_ProductAlert
 "Alert Email Sender",警报电子邮件发件人,module,Magento_ProductAlert
 "Product Alerts Run Settings",商品警报运行设置,module,Magento_ProductAlert
 Frequency,频率,module,Magento_ProductAlert
-"Start Time",平率,module,Magento_ProductAlert
+"Start Time",开始时间,module,Magento_ProductAlert
 "Error Email Recipient",错误邮件模板,module,Magento_ProductAlert
 "Error Email Sender",错误的电子邮件发件人,module,Magento_ProductAlert
 "Error Email Template",错误的电子邮件模板,module,Magento_ProductAlert
@@ -7848,7 +7848,7 @@ Interval,周期,module,Magento_Reminder
 "Set this value equal or greater to your Magento cron job launch period.","Set this value equal or greater to your Magento cron job launch period.",module,Magento_Reminder
 "Minute of the Hour",小时的分钟部分,module,Magento_Reminder
 "Valid range: 0-59 (default 0).","有效范围: 0-59 (默认值 0)。",module,Magento_Reminder
-"Start Time",平率,module,Magento_Reminder
+"Start Time",开始时间,module,Magento_Reminder
 "Maximum Emails per One Run",最大的电子邮件，每一次运行,module,Magento_Reminder
 "Email Send Failure Threshold",电子邮件发送失败阈值,module,Magento_Reminder
 "Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.",请确保输入某一极限值，或提示电子邮件将重新发放给客户在一个循环中。,module,Magento_Reminder
@@ -8029,8 +8029,8 @@ Error,错误,module,Magento_Reports
 "Learn More",了解更多,module,Magento_Reports
 Marketing,市场营销,module,Magento_Reports
 "Products in Cart","购物车中商品",module,Magento_Reports
-"Abandoned Cart","Abandoned Cart",module,Magento_Reports
-"Search Terms","Search Terms",module,Magento_Reports
+"Abandoned Cart",遗弃的购物车,module,Magento_Reports
+"Search Terms",搜索词,module,Magento_Reports
 "By Customers","用户评论",module,Magento_Reports
 "By Products","商品评论",module,Magento_Reports
 Refunds,Refunds,module,Magento_Reports
@@ -8084,8 +8084,8 @@ Report,报告,module,Magento_Reports
 Description,描述,module,Magento_Reports
 undefined,未定义,module,Magento_Reports
 "Save Review",保存评价,module,Magento_Review
-"New Review",新的审查,module,Magento_Review
-"Review Details",查看详细信息,module,Magento_Review
+"New Review",新建评论,module,Magento_Review
+"Review Details",评论详情,module,Magento_Review
 Product,商品,module,Magento_Review
 "Product Rating",商品评级,module,Magento_Review
 Status,状态,module,Magento_Review
@@ -8778,7 +8778,7 @@ Add,添加,module,Magento_Rule
 Remove,删除,module,Magento_Rule
 ALL,所有,module,Magento_Rule
 ANY,任何,module,Magento_Rule
-TRUE,真正,module,Magento_Rule
+TRUE,真,module,Magento_Rule
 FALSE,假,module,Magento_Rule
 "If %1 of these conditions are %2:","如果这些条件 %1 %2:",module,Magento_Rule
 "Conditions Combination",条件组合,module,Magento_Rule
@@ -9665,7 +9665,7 @@ Reset,重置,module,Magento_SalesRule
 "Save and Continue Edit",保存并继续编辑,module,Magento_SalesRule
 Save,保存,module,Magento_SalesRule
 Actions,动作,module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","仅在满足以下条件时应用规则 (留空所有商品)。",module,Magento_SalesRule
 "Apply To",应用给,module,Magento_SalesRule
 Conditions,条件,module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","仅在满足以下条件时应用规则 (留空所有商品)。",module,Magento_SalesRule
@@ -9703,15 +9703,15 @@ Promotions,促销活动,module,Magento_SalesRule
 "We can't find a rule to delete.",我们找不到要删除的规则。,module,Magento_SalesRule
 "This rule no longer exists.",该规则已不存在。,module,Magento_SalesRule
 "Edit Rule",修改规则,module,Magento_SalesRule
-"New Rule",新规则,module,Magento_SalesRule
-"New Cart Price Rule",新车价格规则,module,Magento_SalesRule
+"New Rule",新建规则,module,Magento_SalesRule
+"New Cart Price Rule",新建购物车价格规则,module,Magento_SalesRule
 "Rule is not defined",没有定义规则,module,Magento_SalesRule
 "Invalid data provided",提供无效数据,module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 coupon(s) 已生成。",module,Magento_SalesRule
 "Something went wrong while generating coupons. Please review the log and try again.",在生成优惠券时出了错。请查看日志并再试一次。,module,Magento_SalesRule
 Catalog,目录,module,Magento_SalesRule
 "The wrong rule is specified.",指定了错误的规则。,module,Magento_SalesRule
-"You saved the rule.",你保存的规则。,module,Magento_SalesRule
+"You saved the rule.",你已保存规则。,module,Magento_SalesRule
 "Something went wrong while saving the rule data. Please review the error log.",保存规则数据时出了错。请查看错误日志。,module,Magento_SalesRule
 Alphanumeric,字母表,module,Magento_SalesRule
 Alphabetical,字母表,module,Magento_SalesRule
@@ -9724,8 +9724,8 @@ Numeric,数字,module,Magento_SalesRule
 "Discount (%1)","折扣 (%1)",module,Magento_SalesRule
 Discount,折扣,module,Magento_SalesRule
 "Coupon with the same code",优惠券使用相同的代码,module,Magento_SalesRule
-"No Coupon",没有优惠券,module,Magento_SalesRule
-"Specific Coupon",具体的优惠券,module,Magento_SalesRule
+"No Coupon",无优惠券,module,Magento_SalesRule
+"Specific Coupon",特定的优惠券,module,Magento_SalesRule
 Auto,自动,module,Magento_SalesRule
 "Can't acquire coupon.",无法获取优惠券。,module,Magento_SalesRule
 "Update the Product",商品更新,module,Magento_SalesRule
@@ -9790,7 +9790,7 @@ Promotion,Promotion,module,Magento_SalesRule
 Priority,优先级,module,Magento_SalesRule
 "Cart Price Rule",购物车价格规则,module,Magento_SalesRule
 Back,Back,module,Magento_SalesRule
-"Currently Active","Currently Active",module,Magento_SalesRule
+"Currently Active",当前活动,module,Magento_SalesRule
 "Rule Information",规则信息,module,Magento_SalesRule
 "Rule Name",规则名称,module,Magento_SalesRule
 Description,描述,module,Magento_SalesRule
@@ -9799,55 +9799,55 @@ Websites,网站,module,Magento_SalesRule
 Coupon,折扣券,module,Magento_SalesRule
 "Use Auto Generation",使用自动生成,module,Magento_SalesRule
 "If you select and save the rule you will be able to generate multiple coupon codes.","If you select and save the rule you will be able to generate multiple coupon codes.",module,Magento_SalesRule
-"Uses per Coupon",每张优惠券的使用,module,Magento_SalesRule
-"Uses per Customer",每个客户的用途,module,Magento_SalesRule
-"Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only.",module,Magento_SalesRule
+"Uses per Coupon",每张优惠券允许使用次数,module,Magento_SalesRule
+"Uses per Customer",每个客户允许使用次数,module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","使用次数限制仅对登录客户有效.",module,Magento_SalesRule
 From,从,module,Magento_SalesRule
 To,至,module,Magento_SalesRule
-"Public In RSS Feed","公众在 rss 订阅源",module,Magento_SalesRule
+"Public In RSS Feed","在RSS订阅源发布",module,Magento_SalesRule
 Apply,应用,module,Magento_SalesRule
 "Discount Amount",折扣金额,module,Magento_SalesRule
 "Maximum Qty Discount is Applied To",最大数量折扣是应用于,module,Magento_SalesRule
 "Discount Qty Step (Buy X)","折扣数量步 (买 X)",module,Magento_SalesRule
 "Discount amount is applied to subtotal only","Discount amount is applied to subtotal only",module,Magento_SalesRule
 "Discount amount is applied to subtotal and shipping amount separately","Discount amount is applied to subtotal and shipping amount separately",module,Magento_SalesRule
-"Apply to Shipping Amount",适用于航运量,module,Magento_SalesRule
+"Apply to Shipping Amount",适用于运费金额,module,Magento_SalesRule
 "Discard subsequent rules",放弃后续规则,module,Magento_SalesRule
 "Default Rule Label for All Store Views",所有存储视图的默认规则标签,module,Magento_SalesRule
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2",module,Magento_SalesRuleStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.",将来的更新，在此时间范围内已存在。选择一个不同的范围，以添加一个新的未来更新。,module,Magento_SalesRuleStaging
 ID,ID,module,Magento_SalesRuleStaging
 Rule,规则,module,Magento_SalesRuleStaging
-"Coupon Code",优惠券,module,Magento_SalesRuleStaging
+"Coupon Code",优惠码,module,Magento_SalesRuleStaging
 Priority,优先级,module,Magento_SalesRuleStaging
 Status,状态,module,Magento_SalesRuleStaging
 Active,启用,module,Magento_SalesRuleStaging
 Inactive,Inactive,module,Magento_SalesRuleStaging
 "Web Site","Web 站点",module,Magento_SalesRuleStaging
-Action,Action,module,Magento_SalesRuleStaging
+Action,操作,module,Magento_SalesRuleStaging
 Edit,编辑,module,Magento_SalesRuleStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_SalesRuleStaging
 Name,名称,module,Magento_SalesRuleStaging
-Description,Description,module,Magento_SalesRuleStaging
+Description,描述,module,Magento_SalesRuleStaging
 "Update Information","Update Information",module,Magento_SalesRuleStaging
 "Remove Cart Price Rule from Update","Remove Cart Price Rule from Update",module,Magento_SalesRuleStaging
 "Update Name","Update Name",module,Magento_SalesRuleStaging
-"Start Date","Start Date",module,Magento_SalesRuleStaging
-"End Date","End Date",module,Magento_SalesRuleStaging
-"Rule Information","Rule Information",module,Magento_SalesRuleStaging
+"Start Date",开始时间,module,Magento_SalesRuleStaging
+"End Date",结束时间,module,Magento_SalesRuleStaging
+"Rule Information",规则信息,module,Magento_SalesRuleStaging
 Websites,网站,module,Magento_SalesRuleStaging
 "Customer Groups",用户组,module,Magento_SalesRuleStaging
 "Public In RSS Feed","Public In RSS Feed",module,Magento_SalesRuleStaging
 Conditions,Conditions,module,Magento_SalesRuleStaging
 Actions,Actions,module,Magento_SalesRuleStaging
 Apply,Apply,module,Magento_SalesRuleStaging
-"Discount Amount","Discount Amount",module,Magento_SalesRuleStaging
-"Maximum Qty Discount is Applied To","Maximum Qty Discount is Applied To",module,Magento_SalesRuleStaging
+"Discount Amount",折扣金额,module,Magento_SalesRuleStaging
+"Maximum Qty Discount is Applied To","适用的最大折扣数量",module,Magento_SalesRuleStaging
 "Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
-"Apply to Shipping Amount","Apply to Shipping Amount",module,Magento_SalesRuleStaging
-"Discard subsequent rules","Discard subsequent rules",module,Magento_SalesRuleStaging
-Labels,Labels,module,Magento_SalesRuleStaging
-"Default Rule Label for All Store Views","Default Rule Label for All Store Views",module,Magento_SalesRuleStaging
+"Apply to Shipping Amount",适用于运费金额,module,Magento_SalesRuleStaging
+"Discard subsequent rules","放弃后续规则",module,Magento_SalesRuleStaging
+Labels,标签,module,Magento_SalesRuleStaging
+"Default Rule Label for All Store Views","所有商店视图的默认价格标签",module,Magento_SalesRuleStaging
 "Save as a New Update","Save as a New Update",module,Magento_SalesRuleStaging
 "Move to Another Update","Move to Another Update",module,Magento_SalesRuleStaging
 "Delete the Update","Delete the Update",module,Magento_SalesRuleStaging
@@ -9857,8 +9857,8 @@ Labels,Labels,module,Magento_SalesRuleStaging
 50,50,module,Magento_SalesRuleStaging
 100,100,module,Magento_SalesRuleStaging
 200,200,module,Magento_SalesRuleStaging
-"Start Time","Start Time",module,Magento_SalesRuleStaging
-"End Time","End Time",module,Magento_SalesRuleStaging
+"Start Time",开始时间,module,Magento_SalesRuleStaging
+"End Time",结束时间,module,Magento_SalesRuleStaging
 "Cart Price Rules","购物车价格规则",module,Magento_SalesRuleStaging
 "Remove Cart Price Rule from Campaign","Remove Cart Price Rule from Campaign",module,Magento_SalesRuleStaging
 "Entity Sequence profile not added to meta active profile",实体序列配置文件不会添加到元活动配置文件,module,Magento_SalesSequence
@@ -9889,7 +9889,7 @@ Backorders,延期交货,module,Magento_ScalableInventory
 Name,名字,module,Magento_ScheduledImportExport
 Description,描述,module,Magento_ScheduledImportExport
 "Entity Type",实体类型,module,Magento_ScheduledImportExport
-"Start Time",平率,module,Magento_ScheduledImportExport
+"Start Time",开始时间,module,Magento_ScheduledImportExport
 Frequency,频率,module,Magento_ScheduledImportExport
 Status,状态,module,Magento_ScheduledImportExport
 "Server Type",服务器类型,module,Magento_ScheduledImportExport
@@ -10008,9 +10008,9 @@ Run,跑,module,Magento_ScheduledImportExport
 "Search Term",搜索词,module,Magento_Search
 Results,结果,module,Magento_Search
 Uses,应用,module,Magento_Search
-"Search Terms",搜索条件,module,Magento_Search
+"Search Terms",搜索词,module,Magento_Search
 "Search Synonyms",搜索同义词,module,Magento_Search
-"New Synonym Group",新同义词组,module,Magento_Search
+"New Synonym Group",新建同义词组,module,Magento_Search
 Back,后退,module,Magento_Search
 "Delete Synonym Group","Delete Synonym Group",module,Magento_Search
 "Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?",module,Magento_Search
@@ -10018,16 +10018,16 @@ Reset,重置,module,Magento_Search
 "Save and Continue Edit",保存并继续编辑,module,Magento_Search
 "Save Synonym Group","Save Synonym Group",module,Magento_Search
 Search,搜索,module,Magento_Search
-"Add New Search Term",同义词,module,Magento_Search
+"Add New Search Term",新建搜索词,module,Magento_Search
 "Save Search",保存搜索,module,Magento_Search
 "Delete Search",删除搜索,module,Magento_Search
 "Edit Search '%1'","编辑搜索 '%1'",module,Magento_Search
-"New Search",新的搜索,module,Magento_Search
+"New Search",新建搜索,module,Magento_Search
 "Search Information",搜索信息,module,Magento_Search
 "General Information",常规信息,module,Magento_Search
 No,否,module,Magento_Search
 Yes,是,module,Magento_Search
-"Search Query",重定向URL,module,Magento_Search
+"Search Query",搜索请求,module,Magento_Search
 Store,商店,module,Magento_Search
 "Number of results",结果数量：,module,Magento_Search
 "Number of results (For the last time placed)","(为最后一次放置) 结果数目",module,Magento_Search
@@ -10035,7 +10035,7 @@ Store,商店,module,Magento_Search
 "Number of Uses",使用次数,module,Magento_Search
 "Redirect URL","重定向 URL",module,Magento_Search
 "ex. http://domain.com","如: http://domain.com",module,Magento_Search
-"Display in Suggested Terms",在显示建议的措辞,module,Magento_Search
+"Display in Suggested Terms",在建议词中显示,module,Magento_Search
 "The synonym group has been deleted.","The synonym group has been deleted.",module,Magento_Search
 "An error was encountered while performing delete operation.","An error was encountered while performing delete operation.",module,Magento_Search
 "We can't find a synonym group to delete.","We can't find a synonym group to delete.",module,Magento_Search
@@ -10057,7 +10057,7 @@ Marketing,市场营销,module,Magento_Search
 "Please select searches.",请选择搜索。,module,Magento_Search
 "Total of %1 record(s) were deleted.",共有%1结果已被删除。,module,Magento_Search
 Reports,报告,module,Magento_Search
-"Search Terms Report",搜索字词报告,module,Magento_Search
+"Search Terms Report",搜索词报告,module,Magento_Search
 "You saved the search term.",您保存的搜索词。,module,Magento_Search
 "Something went wrong while saving the search query.",保存搜索查询时，出了错。,module,Magento_Search
 "You already have an identical search term query.",你已经有一个相同的搜索词查询。,module,Magento_Search
@@ -10084,17 +10084,17 @@ no,否,module,Magento_Search
 Action,操作,module,Magento_Search
 Edit,编辑,module,Magento_Search
 Scope,范围,module,Magento_Search
-"You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
-Synonyms,Synonyms,module,Magento_Search
+"You can adjust the scope of this synonym group by selecting an option from the list.",你可以通过在下拉菜单选择一项来调整统一词组的范围,module,Magento_Search
+Synonyms,同义词,module,Magento_Search
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”",module,Magento_Search
-"Merge existing synonyms","Merge existing synonyms",module,Magento_Search
+"Merge existing synonyms","合并已有同义词",module,Magento_Search
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.",module,Magento_Search
 "Store View",商店界面,module,Magento_Search
 Website,网站,module,Magento_Search
 "Delete items",删除项目,module,Magento_Search
 "Are you sure you want to delete the selected synonym groups?","Are you sure you want to delete the selected synonym groups?",module,Magento_Search
 "Advanced Search",高级搜索,module,Magento_SearchStaging
-"Search Terms",搜索条件,module,Magento_SearchStaging
+"Search Terms",搜索词,module,Magento_SearchStaging
 "Account Activity",帐户活动,module,Magento_Security
 "All other open sessions for this account were terminated.",此帐户所有其他打开的会话将被终止。,module,Magento_Security
 "We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
@@ -10383,7 +10383,7 @@ Signifyd,Signifyd,module,Magento_Signifyd
 "API URL","API URL",module,Magento_Signifyd
 Debug,Debug,module,Magento_Signifyd
 "Save & Generate","保存 & 生成",module,Magento_Sitemap
-"Edit Sitemap",编辑站点地图,module,Magento_Sitemap
+"Edit Sitemap",编辑网站地图,module,Magento_Sitemap
 "New Sitemap",新网站地图,module,Magento_Sitemap
 "Sitemap Information",网站地图信息,module,Magento_Sitemap
 Sitemap,网站地图,module,Magento_Sitemap
@@ -10396,14 +10396,14 @@ Generate,生成,module,Magento_Sitemap
 "XML Sitemap","XML 网站地图",module,Magento_Sitemap
 "Add Sitemap",添加网站地图,module,Magento_Sitemap
 Catalog,商品列表,module,Magento_Sitemap
-"You deleted the sitemap.",你删除的站点地图。,module,Magento_Sitemap
+"You deleted the sitemap.",你删除的网站地图。,module,Magento_Sitemap
 "We can't find a sitemap to delete.",我们找不到要删除一个网站地图。,module,Magento_Sitemap
 "This sitemap no longer exists.",这个网站地图不再存在。,module,Magento_Sitemap
-"Site Map",站点地图,module,Magento_Sitemap
+"Site Map",网站地图,module,Magento_Sitemap
 "New Site Map",新站点图,module,Magento_Sitemap
 "The sitemap ""%1"" has been generated.","已生成网站地图""%1""。",module,Magento_Sitemap
-"We can't generate the sitemap right now.",我们现在无法生成站点地图。,module,Magento_Sitemap
-"We can't find a sitemap to generate.",我们找不到生成站点地图。,module,Magento_Sitemap
+"We can't generate the sitemap right now.",我们现在无法生成网站地图。,module,Magento_Sitemap
+"We can't find a sitemap to generate.",我们找不到生成网站地图。,module,Magento_Sitemap
 "You saved the sitemap.",你保存的网站地图。,module,Magento_Sitemap
 "The priority must be between 0 and 1.","优先级必须介于 0 和 1 之间。",module,Magento_Sitemap
 Always,总是,module,Magento_Sitemap
@@ -10415,7 +10415,7 @@ Yearly,每年,module,Magento_Sitemap
 Never,永不,module,Magento_Sitemap
 "File handler unreachable",文件处理程序无法访问,module,Magento_Sitemap
 "Please define a correct path.",请定义正确的路径。,module,Magento_Sitemap
-"Please create the specified folder ""%1"" before saving the sitemap.","请保存站点地图之前创建指定的文件夹""%1""。",module,Magento_Sitemap
+"Please create the specified folder ""%1"" before saving the sitemap.","请保存网站地图之前创建指定的文件夹""%1""。",module,Magento_Sitemap
 "Please make sure that ""%1"" is writable by the web-server.","请确保""%1""是由 web 服务器可写。",module,Magento_Sitemap
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","请在文件名中使用唯一的字母 (a 到 z 或 A 到 Z)，数字 (0-9) 或下划线 (_)。允许不能有空格或其他字符。",module,Magento_Sitemap
 None,无,module,Magento_Sitemap
@@ -10429,7 +10429,7 @@ Frequency,频率,module,Magento_Sitemap
 Priority,优先级,module,Magento_Sitemap
 "Valid values range from 0.0 to 1.0.","有效值范围从 0.0 到 1.0。",module,Magento_Sitemap
 "Products Options",商品选项,module,Magento_Sitemap
-"Add Images into Sitemap",将图像添加到站点地图,module,Magento_Sitemap
+"Add Images into Sitemap",将图像添加到网站地图,module,Magento_Sitemap
 "CMS Pages Options","CMS 页选项",module,Magento_Sitemap
 "Generation Settings",生成设置,module,Magento_Sitemap
 Enabled,启动,module,Magento_Sitemap
@@ -10437,7 +10437,7 @@ Enabled,启动,module,Magento_Sitemap
 "Error Email Sender",错误的电子邮件发件人,module,Magento_Sitemap
 "Error Email Template",错误的电子邮件模板,module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Sitemap
-"Start Time",平率,module,Magento_Sitemap
+"Start Time",开始时间,module,Magento_Sitemap
 "Sitemap File Limits",网站地图文件限制,module,Magento_Sitemap
 "Maximum No of URLs Per File","不是的每个文件的 Url 的最大值",module,Magento_Sitemap
 "Maximum File Size",最大文件大小,module,Magento_Sitemap
@@ -10529,7 +10529,7 @@ General,基本的,module,Magento_Staging
 Status,Status,module,Magento_Staging
 "Update Name","Update Name",module,Magento_Staging
 Includes,Includes,module,Magento_Staging
-"Start Time",平率,module,Magento_Staging
+"Start Time",开始时间,module,Magento_Staging
 "End Time",结束时间,module,Magento_Staging
 Description,描述,module,Magento_Staging
 Action,操作,module,Magento_Staging
@@ -10825,7 +10825,7 @@ Stores,商店,module,Magento_Support
 "Add Swatch",添加色板,module,Magento_Swatches
 "Sort Option",排序选项,module,Magento_Swatches
 Swatch,色板,module,Magento_Swatches
-Description,Description,module,Magento_Swatches
+Description,描述,module,Magento_Swatches
 Delete,删除,module,Magento_Swatches
 "The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Swatches
 "Choose a color","Choose a color",module,Magento_Swatches
@@ -11615,10 +11615,10 @@ Store,商店,module,Magento_UrlRewrite
 "URL Rewrite Management","URL 重写管理",module,Magento_UrlRewrite
 "Add URL Rewrite","添加 URL 重写",module,Magento_UrlRewrite
 Custom,自定义,module,Magento_UrlRewrite
-"For Category","For Category",module,Magento_UrlRewrite
-"For Product","For Product",module,Magento_UrlRewrite
-"For CMS page","给CMS 页面",module,Magento_UrlRewrite
-"Create URL Rewrite","Create URL Rewrite",module,Magento_UrlRewrite
+"For Category",给分类,module,Magento_UrlRewrite
+"For Product",给商品,module,Magento_UrlRewrite
+"For CMS page","给CMS页面",module,Magento_UrlRewrite
+"Create URL Rewrite",创建URL重写,module,Magento_UrlRewrite
 "You deleted the URL rewrite.","你删除 URL 重写。",module,Magento_UrlRewrite
 "We can't delete URL Rewrite right now.","我们不能删除 URL 重写现在。",module,Magento_UrlRewrite
 "URL Rewrites",URL重写,module,Magento_UrlRewrite
@@ -11730,7 +11730,7 @@ username,username,module,Magento_User
 "Your password must be at least %1 characters.","您的密码必须至少 %1 字符。",module,Magento_User
 "Your password must include both numeric and alphabetic characters.",您的密码必须包含数字和字母的字符。,module,Magento_User
 "Your password confirmation must match your password.",您确认密码必须匹配您的密码。,module,Magento_User
-"It's time to change your password.",是时候改变你的密码了。,module,Magento_User
+"It's time to change your password.",你需要更换密码了。,module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","现在是时候<a href=""%1"">更改您的密码</a>。",module,Magento_User
 "Your password has expired; please contact your administrator.",您的密码已过期;请联系您的管理员联系。,module,Magento_User
 "Password Help",密码帮助,module,Magento_User
@@ -11741,7 +11741,7 @@ username,username,module,Magento_User
 "Forgot your password?",忘记密码?,module,Magento_User
 "Reset a Password",重置密码,module,Magento_User
 "Confirm New Password",确认新密码,module,Magento_User
-"Reset Password",你的密码重设链接已过期。,module,Magento_User
+"Reset Password",重置密码,module,Magento_User
 "Roles Resources",角色资源,module,Magento_User
 "Resource Access",资源,module,Magento_User
 Custom,自定义,module,Magento_User
@@ -11932,7 +11932,7 @@ Yes,是,module,Magento_Variable
 "You saved the custom variable.",你保存的自定义的变量。,module,Magento_Variable
 "Variable Code must be unique.",变量的代码必须是唯一的。,module,Magento_Variable
 "Validation has failed.",验证已失败。,module,Magento_Variable
-"Insert Variable...",插入变量。。。,module,Magento_Variable
+"Insert Variable...",插入变量...,module,Magento_Variable
 "Variable ID","可变的 ID",module,Magento_Variable
 Name,名字,module,Magento_Variable
 "No token found.",发现没有标记。,module,Magento_Vault
@@ -12182,7 +12182,7 @@ Message,信息,module,Magento_Webapi
 "Create Customer","Create Customer",module,Magento_Webapi
 "Edit Customer",编辑客户,module,Magento_Webapi
 "Get Customer","Get Customer",module,Magento_Webapi
-"Delete Customer","Delete Customer",module,Magento_Webapi
+"Delete Customer","删除客户",module,Magento_Webapi
 "Magento Web API","Magento API Web",module,Magento_Webapi
 "SOAP Settings","SOAP 设置",module,Magento_Webapi
 "Default Response Charset",默认响应字符集,module,Magento_Webapi
