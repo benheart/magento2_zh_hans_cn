@@ -11,7 +11,10 @@ php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Ha
 **手动安装**
 - [下载 Magento2 中文包](https://github.com/benheart/magento2_zh_hans_cn/archive/master.zip)
 - 解压并上传文件到指定目录：\<magento2 path\>/app/i18n/benheart/magento2_zh_hans_cn
-- 在Magento2根目录执行命令： php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Hans_CN
+- 在Magento2根目录执行命令：
+```
+php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Hans_CN
+```
 - 登录Magento2管理后台，选择中文语言包：Stores -> Configuration -> General > General -> Locale options -> Chinese (China)
 
 ### 卸载语言包

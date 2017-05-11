@@ -1018,7 +1018,7 @@ Payment,Payment,module,Magento_Braintree
 Braintree,布伦特里,module,Magento_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
 "Enable this Solution",启用此解决方案,module,Magento_Braintree
-"Enable PayPal through Braintree",启用通过布伦特里贝宝,module,Magento_Braintree
+"Enable PayPal through Braintree",启用通过布伦特里PayPal,module,Magento_Braintree
 "Vault Enabled","Vault Enabled",module,Magento_Braintree
 "Basic Braintree Settings","基本Braintree 设置",module,Magento_Braintree
 Title,标题,module,Magento_Braintree
@@ -1040,10 +1040,10 @@ Debug,调试,module,Magento_Braintree
 "Payment from Applicable Countries",来自特定国家的付款,module,Magento_Braintree
 "Payment from Specific Countries",具体国家的付款,module,Magento_Braintree
 "Country Specific Credit Card Types",国家特定的信用卡类型,module,Magento_Braintree
-"PayPal through Braintree",布伦特里通过贝宝,module,Magento_Braintree
+"PayPal through Braintree",布伦特里通过PayPal,module,Magento_Braintree
 "Override Merchant Name",重写商户名称,module,Magento_Braintree
 "Require Customer's Billing Address",需要客户的帐单地址,module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允许编辑航运贝宝一边在结帐时输入地址,module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允许编辑航运PayPal一边在结帐时输入地址,module,Magento_Braintree
 "Display on Shopping Cart",在购物车上的显示,module,Magento_Braintree
 "Skip Order Review","Skip Order Review",module,Magento_Braintree
 "3D Secure Verification Settings","3D 安全验证设置",module,Magento_Braintree
@@ -1060,7 +1060,7 @@ Select...,选择...,module,Magento_Braintree
 Status,状态,module,Magento_Braintree
 "Transaction Type",交易类型,module,Magento_Braintree
 "Payment Type",支付方式,module,Magento_Braintree
-"PayPal Payment ID","贝宝PayPal付款 ID",module,Magento_Braintree
+"PayPal Payment ID","PayPal付款 ID",module,Magento_Braintree
 "Created At",创建于,module,Magento_Braintree
 "Transaction ID","交易记录 ID",module,Magento_Braintree
 "Order ID",订单编号：,module,Magento_Braintree
@@ -1085,7 +1085,7 @@ Authorize,授权,module,Magento_BraintreeTwo
 "Authorize and Capture",授权和获取,module,Magento_BraintreeTwo
 "--Please Select--","-- 请选择 --",module,Magento_BraintreeTwo
 "Please agree to all the terms and conditions before placing the order.",请在下订单前同意所有的条款和条件。,module,Magento_BraintreeTwo
-"Paypal account",贝宝Paypal帐户,module,Magento_BraintreeTwo
+"Paypal account",PayPal帐户,module,Magento_BraintreeTwo
 "Coinbase account","Coinbase 帐户",module,Magento_BraintreeTwo
 "Europe bank account",欧洲银行帐户,module,Magento_BraintreeTwo
 "Credit card",信用卡,module,Magento_BraintreeTwo
@@ -1128,7 +1128,7 @@ YY,年,module,Magento_BraintreeTwo
 BraintreeTwo,BraintreeTwo,module,Magento_BraintreeTwo
 &nbsp;,&nbsp;,module,Magento_BraintreeTwo
 "Enable this Solution",启用此解决方案,module,Magento_BraintreeTwo
-"Enable PayPal through Braintree",通过Batintree启用贝宝Paypal,module,Magento_BraintreeTwo
+"Enable PayPal through Braintree",通过Batintree启用PayPal,module,Magento_BraintreeTwo
 "Basic BraintreeTwo Settings","基本的 BraintreeTwo 设置",module,Magento_BraintreeTwo
 Title,标题,module,Magento_BraintreeTwo
 Environment,环境,module,Magento_BraintreeTwo
@@ -1148,10 +1148,10 @@ Debug,调试,module,Magento_BraintreeTwo
 "Payment from Applicable Countries",来自特定国家的付款,module,Magento_BraintreeTwo
 "Payment from Specific Countries",具体国家的付款,module,Magento_BraintreeTwo
 "Country Specific Credit Card Types",国家特定的信用卡类型,module,Magento_BraintreeTwo
-"PayPal through Braintree",通过Batintree使用贝宝Paypal,module,Magento_BraintreeTwo
+"PayPal through Braintree",通过Batintree使用PayPal,module,Magento_BraintreeTwo
 "Override Merchant Name",覆写商户名称,module,Magento_BraintreeTwo
 "Require Customer's Billing Address",需要客户的帐单地址,module,Magento_BraintreeTwo
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允许在贝宝Paypal结账时编辑快递地址,module,Magento_BraintreeTwo
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允许在PayPal结账时编辑快递地址,module,Magento_BraintreeTwo
 "Display on Shopping Cart",在购物车上显示,module,Magento_BraintreeTwo
 "3D Secure Verification Settings","3D 安全验证设置",module,Magento_BraintreeTwo
 "3D Secure Verification","3D 安全验证",module,Magento_BraintreeTwo
@@ -1162,7 +1162,7 @@ Debug,调试,module,Magento_BraintreeTwo
 Select...,选择...,module,Magento_BraintreeTwo
 Status,状态,module,Magento_BraintreeTwo
 "Transaction Type",交易类型,module,Magento_BraintreeTwo
-"PayPal Payment ID","贝宝PayPal付款 ID",module,Magento_BraintreeTwo
+"PayPal Payment ID","PayPal付款 ID",module,Magento_BraintreeTwo
 "Transaction ID","交易记录 ID",module,Magento_BraintreeTwo
 "Order ID",订单编号ID：,module,Magento_BraintreeTwo
 "Payment Type",支付方式,module,Magento_BraintreeTwo
@@ -1332,7 +1332,7 @@ Position,位置,module,Magento_Catalog
 "Add Subcategory",添加子类别,module,Magento_Catalog
 "Add Root Category",添加根类别,module,Magento_Catalog
 Day,天,module,Magento_Catalog
-Month,年,module,Magento_Catalog
+Month,月,module,Magento_Catalog
 Year,年,module,Magento_Catalog
 "<label class=""label""><span>from</span></label>","<label class=""label""> <span>从</span></label>",module,Magento_Catalog
 "<label class=""label""><span>to</span></label>","<label class=""label""> <span>到</span></label>",module,Magento_Catalog
@@ -2793,14 +2793,14 @@ Status,状态,module,Magento_Cms
 Disabled,禁用,module,Magento_Cms
 Enabled,启动,module,Magento_Cms
 "Manage Pages",默认被禁用,module,Magento_Cms
-"Add New Page",添加新页面,module,Magento_Cms
+"Add New Page",新建页面,module,Magento_Cms
 "Delete Page",删除页面,module,Magento_Cms
 "Save Page",保存页面,module,Magento_Cms
 "URL Key",网址,module,Magento_Cms
 Layout,布局,module,Magento_Cms
 "Store View",商店界面,module,Magento_Cms
-Created,创建,module,Magento_Cms
-Modified,已修改,module,Magento_Cms
+Created,创建时间,module,Magento_Cms
+Modified,修改时间,module,Magento_Cms
 Action,操作,module,Magento_Cms
 Preview,预览,module,Magento_Cms
 "Media Storage",多媒体储存,module,Magento_Cms
@@ -2917,10 +2917,10 @@ Content,内容,module,Magento_Cms
 "Meta Title","Meta Title",module,Magento_Cms
 "Meta Keywords","Meta 关键字",module,Magento_Cms
 "Meta Description","Meta 描述",module,Magento_Cms
-"Page in Websites",网站中的页面,module,Magento_Cms
+"Page in Websites",页面所属网站,module,Magento_Cms
 Design,设计,module,Magento_Cms
 "Layout Update XML","布局更新 XML",module,Magento_Cms
-"Custom Design Update",自定义设计更新,module,Magento_Cms
+"Custom Design Update",自定义设计更新任务,module,Magento_Cms
 From,从,module,Magento_Cms
 To,至,module,Magento_Cms
 "New Theme",新主题,module,Magento_Cms
@@ -3927,8 +3927,8 @@ Comment,评论,module,Magento_CustomerBalance
 "Please enter a store ID to send email notifications.","请输入一个商店 ID 发送电子邮件通知。",module,Magento_CustomerBalance
 "Please specify a customer ID.","请指定一个客户 id。",module,Magento_CustomerBalance
 "Please specify a valid customer.",请指定一个有效的客户。,module,Magento_CustomerBalance
-Created,创建,module,Magento_CustomerBalance
-Updated,已更新,module,Magento_CustomerBalance
+Created,创建时间,module,Magento_CustomerBalance
+Updated,更新时间,module,Magento_CustomerBalance
 Used,已使用,module,Magento_CustomerBalance
 Refunded,已退款,module,Magento_CustomerBalance
 Reverted,回复,module,Magento_CustomerBalance
@@ -4856,7 +4856,7 @@ Communications,通讯,module,Magento_Email
 "No Templates Found",没有找到模板,module,Magento_Email
 ID,ID,module,Magento_Email
 Added,已经添加,module,Magento_Email
-Updated,已更新,module,Magento_Email
+Updated,更新时间,module,Magento_Email
 Subject,主题,module,Magento_Email
 "Template Type",模板类型,module,Magento_Email
 Action,操作,module,Magento_Email
@@ -5156,8 +5156,8 @@ Redeemed,赎回,module,Magento_GiftCardAccount
 Expired,已过期,module,Magento_GiftCardAccount
 "Please enter a valid customer ID.","请输入一个有效的客户 id。",module,Magento_GiftCardAccount
 "Gift Card Redeemed: %1. For customer #%2.","代金卡兑换: %1。为客户 #%2。",module,Magento_GiftCardAccount
-Created,创建,module,Magento_GiftCardAccount
-Updated,已更新,module,Magento_GiftCardAccount
+Created,创建时间,module,Magento_GiftCardAccount
+Updated,更新时间,module,Magento_GiftCardAccount
 Sent,已发送,module,Magento_GiftCardAccount
 "Order #%1.","订单 #%1",module,Magento_GiftCardAccount
 "Recipient: %1.","收件人: %1。",module,Magento_GiftCardAccount
@@ -5878,7 +5878,7 @@ Indexer,索引器,module,Magento_Indexer
 Description,描述,module,Magento_Indexer
 Mode,模式,module,Magento_Indexer
 Status,状态,module,Magento_Indexer
-Updated,已更新,module,Magento_Indexer
+Updated,更新时间,module,Magento_Indexer
 Integrations,集成,module,Magento_Integration
 "Add New Integration",添加新的集成,module,Magento_Integration
 API,API,module,Magento_Integration
@@ -6458,7 +6458,7 @@ Remove,删除,module,Magento_MultipleWishlist
 "Delete Wish List",删除收藏清单,module,Magento_MultipleWishlist
 Owner,所有者,module,Magento_MultipleWishlist
 Name,名字,module,Magento_MultipleWishlist
-Updated,已更新,module,Magento_MultipleWishlist
+Updated,更新时间,module,Magento_MultipleWishlist
 "Wish List Items",收藏清单项目,module,Magento_MultipleWishlist
 "You must select items to add to the cart.",您必须选择要添加到购物车项目。,module,Magento_MultipleWishlist
 "Add to Cart",添加到购物车,module,Magento_MultipleWishlist
@@ -6679,7 +6679,7 @@ Preview,预览,module,Magento_Newsletter
 ID,ID,module,Magento_Newsletter
 Template,模板,module,Magento_Newsletter
 Added,已经添加,module,Magento_Newsletter
-Updated,已更新,module,Magento_Newsletter
+Updated,更新时间,module,Magento_Newsletter
 Sender,发送方,module,Magento_Newsletter
 "Template Type",模板类型,module,Magento_Newsletter
 Action,操作,module,Magento_Newsletter
@@ -6765,7 +6765,7 @@ Subscribe,订阅,module,Magento_Newsletter
 "We found no problems.",我们没有发现问题。,module,Magento_Newsletter
 Subscriber,订阅用户,module,Magento_Newsletter
 "Queue Start Date",队列开始日期,module,Magento_Newsletter
-"Queue Subject",队列问题,module,Magento_Newsletter
+"Queue Subject",队列主题,module,Magento_Newsletter
 "Error Code",错误代码,module,Magento_Newsletter
 "Error Text",错误文本,module,Magento_Newsletter
 "Queue Start",队列开始,module,Magento_Newsletter
@@ -6956,9 +6956,9 @@ Email,邮箱,module,Magento_Paypal
 "Last Name",姓,module,Magento_Paypal
 "Reference ID","引用 ID",module,Magento_Paypal
 Status,状态,module,Magento_Paypal
-Created,创建,module,Magento_Paypal
+Created,创建时间,module,Magento_Paypal
 N/A,N/A,module,Magento_Paypal
-Updated,已更新,module,Magento_Paypal
+Updated,更新时间,module,Magento_Paypal
 Back,后退,module,Magento_Paypal
 "Are you sure you want to do this?",您确认要这么做么？,module,Magento_Paypal
 Cancel,取消,module,Magento_Paypal
@@ -6975,9 +6975,9 @@ Purchased,已购买,module,Magento_Paypal
 "View Transaction Details",查看交易记录详细信息,module,Magento_Paypal
 "Reference Information",参考信息,module,Magento_Paypal
 "Transaction Information",交易信息,module,Magento_Paypal
-"PayPal Fee Information",贝宝收费信息,module,Magento_Paypal
+"PayPal Fee Information",PayPal收费信息,module,Magento_Paypal
 " Reports",PayPal处理报告,module,Magento_Paypal
-"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","我们正在连接到贝宝 SFTP 服务器以检索新的报告。你确定要继续吗?",module,Magento_Paypal
+"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","我们正在连接到PayPal SFTP 服务器以检索新的报告。你确定要继续吗?",module,Magento_Paypal
 "Fetch Updates",获取更新,module,Magento_Paypal
 button_label,按钮名称,module,Magento_Paypal
 sandbox_button_label,sandbox_button_label,module,Magento_Paypal
@@ -7010,7 +7010,7 @@ Sales,销售,module,Magento_Paypal
 "We can't start the billing agreement wizard.",我们不能开始计费的协议向导。,module,Magento_Paypal
 "Billing Agreement # %1","计费协议 # %1",module,Magento_Paypal
 "We can't initialize Express Checkout.",我们不能初始化快速结账。,module,Magento_Paypal
-"PayPal Express Checkout Token does not exist.",贝宝表示签出令牌并不存在。,module,Magento_Paypal
+"PayPal Express Checkout Token does not exist.",PayPal表示签出令牌并不存在。,module,Magento_Paypal
 "A wrong PayPal Express Checkout Token is specified.",指定了一个错误的支付宝快捷结帐令牌。,module,Magento_Paypal
 "Express Checkout and Order have been canceled.",快速结账和订单已被取消。,module,Magento_Paypal
 "Express Checkout has been canceled.",快速结账已取消,module,Magento_Paypal
@@ -7025,7 +7025,7 @@ Sales,销售,module,Magento_Paypal
 "Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Paypal
 "Your payment has been declined. Please try again.",你的付款已经被拒绝，请重试,module,Magento_Paypal
 "Requested payment method does not match with order.",请求的付款方法与订单不符。,module,Magento_Paypal
-"Would you like to sign a billing agreement to streamline further purchases with PayPal?",你想签账单的协议，以进一步精简与贝宝购买吗?,module,Magento_Paypal
+"Would you like to sign a billing agreement to streamline further purchases with PayPal?",你想签账单的协议，以进一步精简与PayPal购买吗?,module,Magento_Paypal
 "Error processing payment, please try again later.",错误处理付款，请稍后再试。,module,Magento_Paypal
 "Payment Gateway is unreachable at the moment. Please use another payment option.",目前，支付网关是遥不可及。请使用另一种付款方式。,module,Magento_Paypal
 "PayPal response hasn't required fields.",支付宝回应并没有要求领域。,module,Magento_Paypal
@@ -7227,7 +7227,7 @@ Funding,资金,module,Magento_Paypal
 "General Redemption",一般赎回,module,Magento_Paypal
 "General Withdrawal from PayPal Account","PayPal 帐户一般的撤军",module,Magento_Paypal
 "General. Product no longer supported",一般。不再支持的商品,module,Magento_Paypal
-"General: Use of PayPal account for purchasing as well as receiving payments","一般: 使用贝宝帐户的采购，并且接收付款",module,Magento_Paypal
+"General: Use of PayPal account for purchasing as well as receiving payments","一般: 使用PayPal帐户的采购，并且接收付款",module,Magento_Paypal
 "General: Withdrawal from PayPal Account","一般情况: 撤出 PayPal 帐户",module,Magento_Paypal
 "General: Withdrawal to Non-Bank Entity","一般情况: 撤回到非银行实体",module,Magento_Paypal
 "General: adjustment of a type not belonging to the other T12xx categories","一般情况: 调整不属于其他 T12xx 类别类型的",module,Magento_Paypal
@@ -7247,11 +7247,11 @@ Incentive,激励,module,Magento_Paypal
 "Mobile Payment (made via a mobile phone)","移动支付 (手机)",module,Magento_Paypal
 "Negative Balance",负平衡,module,Magento_Paypal
 "Open Authorization",打开授权,module,Magento_Paypal
-"PayPal Balance Manager function of PayPal account","贝宝平衡管理器功能的 PayPal 帐户",module,Magento_Paypal
-"PayPal Buyer Warranty Bonus",贝宝买家保修奖金,module,Magento_Paypal
-"PayPal Debit Card Cash Advance",贝宝借记卡卡预付现金,module,Magento_Paypal
-"PayPal Debit Card Withdrawal from ATM","贝宝付款卡退出 ATM",module,Magento_Paypal
-"PayPal Protection Bonus",贝宝保护奖金,module,Magento_Paypal
+"PayPal Balance Manager function of PayPal account","PayPal平衡管理器功能的 PayPal 帐户",module,Magento_Paypal
+"PayPal Buyer Warranty Bonus",PayPal买家保修奖金,module,Magento_Paypal
+"PayPal Debit Card Cash Advance",PayPal借记卡卡预付现金,module,Magento_Paypal
+"PayPal Debit Card Withdrawal from ATM","PayPal付款卡退出 ATM",module,Magento_Paypal
+"PayPal Protection Bonus",PayPal保护奖金,module,Magento_Paypal
 "Payment Refund initiated by merchant",商人发起退款,module,Magento_Paypal
 "Points Incentive Redemption",指出激励救赎,module,Magento_Paypal
 "Postage Payment to either USPS or UPS","美国邮政或 UPS 邮资支付",module,Magento_Paypal
@@ -7266,15 +7266,15 @@ Reversal,逆转,module,Magento_Paypal
 "Settlement Consolidation",解决整合,module,Magento_Paypal
 "Subscription Payment, either payment sent or payment received",订阅付款，付款发送或收到付款,module,Magento_Paypal
 "User-initiated Currency Conversion",用户启动货币换算,module,Magento_Paypal
-"Virtual PayPal Debit Card Transaction",借记卡贝宝虚拟交易,module,Magento_Paypal
+"Virtual PayPal Debit Card Transaction",借记卡PayPal虚拟交易,module,Magento_Paypal
 "Virtual Terminal Payment",虚拟终端支付,module,Magento_Paypal
 Void,创建于,module,Magento_Paypal
 "WorldLink Withdrawal",威撤出,module,Magento_Paypal
 "eBay Auction Payment","eBay 拍卖付款",module,Magento_Paypal
-"The PayPal certificate file is empty.",贝宝的证书文件是空的。,module,Magento_Paypal
+"The PayPal certificate file is empty.",PayPal的证书文件是空的。,module,Magento_Paypal
 "Header (center)","标题 (中心)",module,Magento_Paypal
 "Sidebar (right)","侧边栏 (右)",module,Magento_Paypal
-"Near PayPal Credit checkout button",贝宝信用卡结帐按钮附近,module,Magento_Paypal
+"Near PayPal Credit checkout button",PayPal信用卡结帐按钮附近,module,Magento_Paypal
 "--Please Select--","-- 请选择 --",module,Magento_Paypal
 Daily,每天,module,Magento_Paypal
 "Every 3 days","每隔 3 天",module,Magento_Paypal
@@ -7287,9 +7287,9 @@ Daily,每天,module,Magento_Paypal
 "Yes (PayPal recommends this option)","是的 (PayPal 建议此选项)",module,Magento_Paypal
 "Created billing agreement #%1.","创建计费协议 #%1。",module,Magento_Paypal
 "We can't create a billing agreement for this order.",我们无法创建此订单的账单协议。,module,Magento_Paypal
-"Pending PayPal",挂起贝宝,module,Magento_Paypal
-"PayPal Reversed",贝宝逆转,module,Magento_Paypal
-"PayPal Canceled Reversal",贝宝取消逆转,module,Magento_Paypal
+"Pending PayPal",挂起PayPal,module,Magento_Paypal
+"PayPal Reversed",PayPal逆转,module,Magento_Paypal
+"PayPal Canceled Reversal",PayPal取消逆转,module,Magento_Paypal
 Error,错误,module,Magento_Paypal
 "Billing Agreement",付帐协议,module,Magento_Paypal
 "Please Select",请选择,module,Magento_Paypal
@@ -7298,13 +7298,13 @@ Customer,客户,module,Magento_Paypal
 "Updated At",更新,module,Magento_Paypal
 ending,ending,module,Magento_Paypal
 expires,expires,module,Magento_Paypal
-"Not sure what PayPal payment method to use? Click",不能确定使用什么贝宝付款方法?单击,module,Magento_Paypal
+"Not sure what PayPal payment method to use? Click",不能确定使用什么PayPal付款方法?单击,module,Magento_Paypal
 here,在这里,module,Magento_Paypal
 "to learn more.",要了解更多。,module,Magento_Paypal
 Important:,重要:,module,Magento_Paypal
-"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.",若要使用贝宝付款先进，必须在贝宝网站上配置您的贝宝付款高级帐户。,module,Magento_Paypal
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.",若要使用PayPal付款先进，必须在PayPal网站上配置您的PayPal付款高级帐户。,module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登录到您的 PayPal 高级帐户、 导航到服务设置-主办结帐页面-设置菜单和设置选项如下所述",module,Magento_Paypal
-"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","若要使用 PayPal 转账链接，您必须在贝宝网站上配置您的 PayPal 转账链接帐户。",module,Magento_Paypal
+"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","若要使用 PayPal 转账链接，您必须在PayPal网站上配置您的 PayPal 转账链接帐户。",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","一旦你登录到您的 PayPal 转账链接帐户、 导航到服务设置-主办结帐页面-设置菜单和设置选项如下所述",module,Magento_Paypal
 "Credit Card Type","Credit Card Type",module,Magento_Paypal
 "Credit Card Number","Credit Card Number",module,Magento_Paypal
@@ -7376,7 +7376,7 @@ Manage,Manage,module,Magento_Paypal
 "Recommended Solutions:","Recommended Solutions:",module,Magento_Paypal
 "Other PayPal Payment Solutions:","Other PayPal Payment Solutions:",module,Magento_Paypal
 "Other Payment Methods:","Other Payment Methods:",module,Magento_Paypal
-"PayPal Express Checkout",贝宝快递签出,module,Magento_Paypal
+"PayPal Express Checkout",PayPal快递签出,module,Magento_Paypal
 "Add another payment method to your existing solution or as a stand-alone option.",为现有的解决方案或作为一个独立的选项，将添加另一种付款方法。,module,Magento_Paypal
 "PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.",选择安全捆绑的支付解决方案为您的业务。,module,Magento_Paypal
@@ -7389,15 +7389,15 @@ Manage,Manage,module,Magento_Paypal
 "Process payments using your own internet merchant account.",使用您自己的互联网商家帐户的处理付款。,module,Magento_Paypal
 "Website Payments Pro","Website Payments Pro",module,Magento_Paypal
 "Express Checkout",快速结帐,module,Magento_Paypal
-"Add PayPal as an additional payment method to your checkout page.",贝宝作为一种额外的付款方法添加到结帐页面。,module,Magento_Paypal
-"Required PayPal Settings",所需的贝宝设置,module,Magento_Paypal
-"Email Associated with PayPal Merchant Account (Optional)","与贝宝商人帐户 (可选) 关联的电子邮件",module,Magento_Paypal
-"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal""> 开始接受通过贝宝付款!</a>",module,Magento_Paypal
+"Add PayPal as an additional payment method to your checkout page.",PayPal作为一种额外的付款方法添加到结帐页面。,module,Magento_Paypal
+"Required PayPal Settings",所需的PayPal设置,module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","与PayPal商人帐户 (可选) 关联的电子邮件",module,Magento_Paypal
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal""> 开始接受通过PayPal付款!</a>",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","难道没有一个 PayPal 帐户吗?只需输入您的电子邮件地址。",module,Magento_Paypal
 "API Authentication Methods","API 的身份验证方法",module,Magento_Paypal
 "API Username","API 用户名",module,Magento_Paypal
 "API Password","API 密码",module,Magento_Paypal
-"Get Credentials from PayPal",从贝宝获取凭据,module,Magento_Paypal
+"Get Credentials from PayPal",从PayPal获取凭据,module,Magento_Paypal
 "Sandbox Mode",沙盒模式,module,Magento_Paypal
 "API Uses Proxy","API 使用代理服务器",module,Magento_Paypal
 "Proxy Host",代理主机,module,Magento_Paypal
@@ -7406,13 +7406,13 @@ Manage,Manage,module,Magento_Paypal
 "Enable In-Context Checkout Experience","Enable In-Context Checkout Experience",module,Magento_Paypal
 "See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.",module,Magento_Paypal
 "Merchant Account ID","Merchant Account ID",module,Magento_Paypal
-"Enable PayPal Credit",启用贝宝信用,module,Magento_Paypal
-"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.<a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal 快速结账让你给客户访问融资通过贝宝信用 ®-在没有额外的费用给你。                        即使客户有更多时间来支付，你前面，得到报酬。预集成的付款按钮让客户快速支付贝宝信用 ®。                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing""target=""_blank""> 了解更多</a>",module,Magento_Paypal
+"Enable PayPal Credit",启用PayPal信用,module,Magento_Paypal
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.<a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal 快速结账让你给客户访问融资通过PayPal信用 ®-在没有额外的费用给你。                        即使客户有更多时间来支付，你前面，得到报酬。预集成的付款按钮让客户快速支付PayPal信用 ®。                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing""target=""_blank""> 了解更多</a>",module,Magento_Paypal
 "Sort Order PayPal Credit","Sort Order PayPal Credit",module,Magento_Paypal
-"Advertise PayPal Credit",广告贝宝信用,module,Magento_Paypal
+"Advertise PayPal Credit",广告PayPal信用,module,Magento_Paypal
 "Publisher ID","Publisher ID",module,Magento_Paypal
 "Required to display a banner",需要显示横幅,module,Magento_Paypal
-"Get Publisher ID from PayPal","发布者 ID 得到贝宝",module,Magento_Paypal
+"Get Publisher ID from PayPal","发布者 ID 得到PayPal",module,Magento_Paypal
 "Home Page",主页,module,Magento_Paypal
 Display,显示,module,Magento_Paypal
 Position,位置,module,Magento_Paypal
@@ -7420,18 +7420,18 @@ Size,尺寸,module,Magento_Paypal
 "Catalog Category Page",目录类别页,module,Magento_Paypal
 "Catalog Product Page",目录商品页,module,Magento_Paypal
 "Checkout Cart Page",签出购物车页面,module,Magento_Paypal
-"Basic Settings - PayPal Express Checkout",基本设置-贝宝快速结帐,module,Magento_Paypal
+"Basic Settings - PayPal Express Checkout",基本设置-PayPal快速结帐,module,Magento_Paypal
 Title,标题,module,Magento_Paypal
-"It is recommended to set this value to ""PayPal"" per store views.","它建议设置此值与""贝宝""每一个商店界面。",module,Magento_Paypal
+"It is recommended to set this value to ""PayPal"" per store views.","它建议设置此值与""PayPal""每一个商店界面。",module,Magento_Paypal
 "Sort Order",排序,module,Magento_Paypal
 "Payment Action",支付行为,module,Magento_Paypal
 "Display on Product Details Page",显示商品详细信息页,module,Magento_Paypal
 "Authorization Honor Period (days)","授权荣誉期 (天)",module,Magento_Paypal
-"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","指定授权荣誉时期是商人的 PayPal 帐户上。它必须镜像中贝宝的设置。",module,Magento_Paypal
+"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","指定授权荣誉时期是商人的 PayPal 帐户上。它必须镜像中PayPal的设置。",module,Magento_Paypal
 "Order Valid Period (days)","订单有效期 (天)",module,Magento_Paypal
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","指定命令有效期是商人的 PayPal 帐户上。它必须镜像中贝宝的设置。",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","指定命令有效期是商人的 PayPal 帐户上。它必须镜像中PayPal的设置。",module,Magento_Paypal
 "Number of Child Authorizations",孩子授权数量,module,Magento_Paypal
-"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","孩子授权在您的贝宝帐户的默认数量为 1。要做多个授权请联系贝宝要求增加。",module,Magento_Paypal
+"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","孩子授权在您的PayPal帐户的默认数量为 1。要做多个授权请联系PayPal要求增加。",module,Magento_Paypal
 "Advanced Settings",高级设置,module,Magento_Paypal
 "Display on Shopping Cart",在购物车上显示,module,Magento_Paypal
 "Also affects mini-shopping cart.",也会影响迷你购物车。,module,Magento_Paypal
@@ -7441,16 +7441,16 @@ Title,标题,module,Magento_Paypal
 "Enable SSL verification","启用 SSL 验证",module,Magento_Paypal
 "Transfer Cart Line Items",车线物料转移,module,Magento_Paypal
 "Transfer Shipping Options",转让送货选项,module,Magento_Paypal
-"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","如果启用此选项，则客户可以更改送货地址和送货方式在贝宝网站上。在实时模式中工作通过 HTTPS 协议只。",module,Magento_Paypal
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","如果启用此选项，则客户可以更改送货地址和送货方式在PayPal网站上。在实时模式中工作通过 HTTPS 协议只。",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","请注意，PayPal 可以处理达 10 送货选项。这就是为什么 Magento 将转移只有首先 10 最便宜的运输选项，如果超过 10。",module,Magento_Paypal
 "Shortcut Buttons Flavor",快捷方式按钮风味,module,Magento_Paypal
-"Enable PayPal Guest Checkout",启用贝宝来宾结帐,module,Magento_Paypal
+"Enable PayPal Guest Checkout",启用PayPal来宾结帐,module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","买方购买没有 PayPal 帐户的能力。",module,Magento_Paypal
 "Require Customer's Billing Address",需要客户的帐单地址,module,Magento_Paypal
-"This feature needs be enabled first for the merchant account through PayPal technical support.",通过贝宝技术支持的商人帐户，需要首先启用此功能。,module,Magento_Paypal
+"This feature needs be enabled first for the merchant account through PayPal technical support.",通过PayPal技术支持的商人帐户，需要首先启用此功能。,module,Magento_Paypal
 "Billing Agreement Signup",计费协议注册,module,Magento_Paypal
 "Whether to create a billing agreement, if there are no active billing agreements available.",是否要创建一个计费的协议，如果没有积极的自动扣款协议。,module,Magento_Paypal
-"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","商人需要向 PayPal 申请启用计费协议功能。直到贝宝确认你的商人帐户启用的自动扣款协议，请不要启用此选项。",module,Magento_Paypal
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","商人需要向 PayPal 申请启用计费协议功能。直到PayPal确认你的商人帐户启用的自动扣款协议，请不要启用此选项。",module,Magento_Paypal
 "Skip Order Review Step",跳过顺序审查步骤,module,Magento_Paypal
 "PayPal Billing Agreement Settings",paypal付款协议设置,module,Magento_Paypal
 Enabled,启动,module,Magento_Paypal
@@ -7870,7 +7870,7 @@ From,从,module,Magento_Reports
 To,至,module,Magento_Reports
 Yes,是,module,Magento_Reports
 No,否,module,Magento_Reports
-"Empty Rows",空的行,module,Magento_Reports
+"Empty Rows",空行,module,Magento_Reports
 "Invalid date specified",指定的日期无效,module,Magento_Reports
 Refresh,刷新,module,Magento_Reports
 "We can't find records for this period.",我们这段时间找不到记录。,module,Magento_Reports
@@ -7898,7 +7898,7 @@ Views,视图,module,Magento_Reports
 Customer,客户,module,Magento_Reports
 Title,标题,module,Magento_Reports
 Detail,详细信息,module,Magento_Reports
-Created,创建,module,Magento_Reports
+Created,创建时间,module,Magento_Reports
 "Products Reviews",商品评论,module,Magento_Reports
 "Products Bestsellers Report",商品畅销报告,module,Magento_Reports
 "Order Quantity",订购数量,module,Magento_Reports
@@ -7923,7 +7923,7 @@ Orders,订单,module,Magento_Reports
 "Online Refunds",在线退款,module,Magento_Reports
 "Offline Refunds",脱机退款,module,Magento_Reports
 "Total Ordered Report",共订购报告,module,Magento_Reports
-"Sales Items",销售物料,module,Magento_Reports
+"Sales Items",销售物品,module,Magento_Reports
 Items,商品,module,Magento_Reports
 Revenue,收入,module,Magento_Reports
 Profit,利润,module,Magento_Reports
@@ -7932,12 +7932,12 @@ Paid,最近查看过的,module,Magento_Reports
 Refunded,已退款,module,Magento_Reports
 "Sales Tax",消费税,module,Magento_Reports
 Tax,税,module,Magento_Reports
-"Sales Shipping",销售航运,module,Magento_Reports
+"Sales Shipping",销售运费,module,Magento_Reports
 Shipping,运费,module,Magento_Reports
 Canceled,已取消,module,Magento_Reports
 "Total Shipped Report",共出货报告,module,Magento_Reports
 Carrier/Method,载体的方法,module,Magento_Reports
-"Total Sales Shipping",总销售航运,module,Magento_Reports
+"Total Sales Shipping",总销售运费,module,Magento_Reports
 "Total Shipping",总航运,module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rate",订单税报表按税率,module,Magento_Reports
 Rate,费率,module,Magento_Reports
@@ -7947,7 +7947,7 @@ Email,邮箱,module,Magento_Reports
 Products,商品,module,Magento_Reports
 Quantity,数量,module,Magento_Reports
 "Applied Coupon",应用的优惠券,module,Magento_Reports
-Updated,已更新,module,Magento_Reports
+Updated,更新时间,module,Magento_Reports
 "IP Address","IP 地址",module,Magento_Reports
 Customers,客户,module,Magento_Reports
 ID,ID,module,Magento_Reports
@@ -7963,7 +7963,7 @@ Name,名字,module,Magento_Reports
 "Times Deleted",删除的次数,module,Magento_Reports
 "Index type is not valid",索引类型无效,module,Magento_Reports
 Reports,报告,module,Magento_Reports
-"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.",module,Magento_Reports
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","最近更新于: %1. 更新最近一天的<a href=""%2"">统计</a>, 点击<a href=""%3"">这里</a>.",module,Magento_Reports
 "New Accounts Report",新帐户报告,module,Magento_Reports
 "Customers by Number of Orders",客户订单号,module,Magento_Reports
 "Order Count Report",订单计数报告,module,Magento_Reports
@@ -8065,18 +8065,18 @@ Average,平均,module,Magento_Reports
 "Stock Quantity",库存数量,module,Magento_Reports
 "Ordered Quantity",订购的数量,module,Magento_Reports
 "The report displays the top 5 most viewed products for each interval.","The report displays the top 5 most viewed products for each interval.",module,Magento_Reports
-"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",准确的报告，一定要刷新生存时间统计，每当您更改时区。,module,Magento_Reports
+"For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",为报告精准，在更换时区后一定要刷新统计信息,module,Magento_Reports
 Guest,访客,module,Magento_Reports
 Action,操作,module,Magento_Reports
 "Average (Approved)","平均 (批准)",module,Magento_Reports
-"Last Review",最近一次检讨,module,Magento_Reports
-"Order Created",创建顺序,module,Magento_Reports
-"Order Updated",顺序更新,module,Magento_Reports
+"Last Review",最新评论时间,module,Magento_Reports
+"Order Created",订单创建时间,module,Magento_Reports
+"Order Updated",订单更新时间,module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.",订单更新报告中实时创建，并不需要进行刷新。,module,Magento_Reports
 "Last Invoice Created Date",最后发票创建的日期,module,Magento_Reports
 "Last Credit Memo Created Date",最后创建的日期的贷项通知单,module,Magento_Reports
 "First Invoice Created Date",第一张发票，创建日期,module,Magento_Reports
-"Refresh Lifetime Statistics",刷新生存时间统计,module,Magento_Reports
+"Refresh Lifetime shuStatistics",刷新生存时间统计,module,Magento_Reports
 "Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",你确定你想要现在刷新生存时间统计?此操作可能会放慢您的客户的购物体验。,module,Magento_Reports
 "Refresh Statistics for the Last Day",最后一天刷新统计信息,module,Magento_Reports
 "Are you sure you want to refresh statistics for the last day?",你确定你想要的最后一天刷新统计信息?,module,Magento_Reports
@@ -8107,7 +8107,7 @@ Author,作者,module,Magento_Review
 "Summary Rating",摘要评级,module,Magento_Review
 "Detailed Rating",详细的评分,module,Magento_Review
 ID,ID,module,Magento_Review
-Created,创建,module,Magento_Review
+Created,创建时间,module,Magento_Review
 Title,标题,module,Magento_Review
 Type,类型,module,Magento_Review
 SKU,SKU,module,Magento_Review
@@ -8381,7 +8381,7 @@ Registration,注册,module,Magento_Reward
 "Entering no value or a value greater than the expiration lifetime disables the warning notification.",进入没有价值或价值大于到期一生禁用警告通知。,module,Magento_Reward
 "Reward Points Rates",奖励分率,module,Magento_Reward
 "Amount Balance",总量平衡,module,Magento_Reward
-Created,创建,module,Magento_Reward
+Created,创建时间,module,Magento_Reward
 Expires,到期,module,Magento_Reward
 ID,ID,module,Magento_Reward
 "Add Reward Points",添加奖励积分,module,Magento_Reward
@@ -9553,7 +9553,7 @@ Phone,电话,module,Magento_Sales
 "Signed-up Point",签署了点,module,Magento_Sales
 Website,网站,module,Magento_Sales
 "Bill-to Name",收件人姓名,module,Magento_Sales
-Created,创建,module,Magento_Sales
+Created,创建时间,module,Magento_Sales
 "Invoice Date",发票日期,module,Magento_Sales
 "Ship-to Name",Ship-to名称,module,Magento_Sales
 "Ship Date",运送日期,module,Magento_Sales
@@ -9607,7 +9607,7 @@ Add,添加,module,Magento_SalesArchive
 "Purchased From",从购买,module,Magento_SalesArchive
 "PDF Credit Memos","PDF 贷项通知单",module,Magento_SalesArchive
 "Credit Memo",信用备忘录,module,Magento_SalesArchive
-Created,创建,module,Magento_SalesArchive
+Created,创建时间,module,Magento_SalesArchive
 Order,订单,module,Magento_SalesArchive
 "Order Date",订单日期,module,Magento_SalesArchive
 "Bill-to Name",账单姓名,module,Magento_SalesArchive
@@ -9680,7 +9680,7 @@ Conditions,条件,module,Magento_SalesRule
 "If empty no separation.",如果空没有分离。,module,Magento_SalesRule
 Generate,生成,module,Magento_SalesRule
 "Coupon Code",优惠劵,module,Magento_SalesRule
-Created,创建,module,Magento_SalesRule
+Created,创建时间,module,Magento_SalesRule
 Uses,应用,module,Magento_SalesRule
 No,否,module,Magento_SalesRule
 Yes,是,module,Magento_SalesRule
@@ -12244,7 +12244,7 @@ Widget,部件,module,Magento_Widget
 "Widget Type",部件类型,module,Magento_Widget
 "-- Please Select --","-- 请选择 --",module,Magento_Widget
 "Manage Widget Instances",管理小部件实例,module,Magento_Widget
-"Add Widget",添加挂件,module,Magento_Widget
+"Add Widget",添加组件,module,Magento_Widget
 "Save and Continue Edit",保存并继续编辑,module,Magento_Widget
 "Widget ""%1""","""%1""的小部件",module,Magento_Widget
 "New Widget Instance",新的小部件实例,module,Magento_Widget
