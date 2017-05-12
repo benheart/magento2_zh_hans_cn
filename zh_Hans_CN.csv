@@ -1029,7 +1029,7 @@ Environment,环境,module,Magento_Braintree
 "Private Key",密钥,module,Magento_Braintree
 "Advanced Braintree Settings","先进的Braintree 设置",module,Magento_Braintree
 "Vault Title",保密支付标题,module,Magento_Braintree
-"Merchant Account ID","商人帐户 ID",module,Magento_Braintree
+"Merchant Account ID","商户 ID",module,Magento_Braintree
 "Advanced Fraud Protection",先进的防欺诈保护,module,Magento_Braintree
 "Kount Merchant ID",Kount自动欺诈交易检查服务账号ID,module,Magento_Braintree
 Debug,调试,module,Magento_Braintree
@@ -1137,7 +1137,7 @@ Environment,环境,module,Magento_BraintreeTwo
 "Public Key",公共密钥,module,Magento_BraintreeTwo
 "Private Key",密钥,module,Magento_BraintreeTwo
 "Advanced Braintree Settings","先进的Braintree 设置",module,Magento_BraintreeTwo
-"Merchant Account ID","商人帐户 ID",module,Magento_BraintreeTwo
+"Merchant Account ID","商户 ID",module,Magento_BraintreeTwo
 "Advanced Fraud Protection",先进的防欺诈保护,module,Magento_BraintreeTwo
 "Kount Merchant ID","把商人 ID",module,Magento_BraintreeTwo
 Debug,调试,module,Magento_BraintreeTwo
@@ -1845,7 +1845,7 @@ Groups,团体,module,Magento_Catalog
 "Maximum number of characters:",最大字符数:,module,Magento_Catalog
 "start typing to search template",开始键入搜索模板,module,Magento_Catalog
 "Product online",商品在线,module,Magento_Catalog
-"Product offline",商品脱机,module,Magento_Catalog
+"Product offline",商品线下,module,Magento_Catalog
 "Product online status",商品在线状态,module,Magento_Catalog
 "Manage Stock",数量增加,module,Magento_Catalog
 Qty,数量,module,Magento_Catalog
@@ -6890,7 +6890,7 @@ Import,导入,module,Magento_OfflineShipping
 "Page Cache",页面缓存,module,Magento_PageCache
 "Full page caching",整页缓存,module,Magento_PageCache
 "We cannot retrieve the payment method model object.",我们无法检索的付款方法模型对象。,module,Magento_Payment
-Month,年,module,Magento_Payment
+Month,月,module,Magento_Payment
 Year,年,module,Magento_Payment
 "We cannot retrieve the payment info model object.",我们不能获取支付信息模型对象。,module,Magento_Payment
 N/A,N/A,module,Magento_Payment
@@ -6931,7 +6931,7 @@ No,否,module,Magento_Payment
 "Failure #2","Failure #2",module,Magento_Payment
 "Expiration Date",过期日期,module,Magento_Payment
 "Card Verification Number",信用卡验证号码,module,Magento_Payment
-"is not available. You still can process offline actions.",不是可用的。你仍然可以处理脱机操作。,module,Magento_Payment
+"is not available. You still can process offline actions.",不是可用的。你仍然可以处理线下操作。,module,Magento_Payment
 "Please Select",请选择,module,Magento_Payment
 "We'll ask for your payment details before you place an order.",之前您下订单时，我们会问您的付款细节。,module,Magento_Payment
 "--Please Select--","-- 请选择 --",module,Magento_Payment
@@ -7082,7 +7082,7 @@ Never,永不,module,Magento_Paypal
 "The payment currency doesn't match any of the merchant's balances currency.",付款币种不匹配任何商人的余额的货币。,module,Magento_Paypal
 "The payment is pending while it is being reviewed by PayPal for risk.",该付款正在等待，而它正在审查通过支付宝的风险。,module,Magento_Paypal
 "The payment is pending because it was made to an email address that is not yet registered or confirmed.",该付款正在等待，因为它是由一个电子邮件地址，尚未登记或确认。,module,Magento_Paypal
-"The merchant account is not yet verified.",商人帐户尚未证明。,module,Magento_Paypal
+"The merchant account is not yet verified.",商户尚未证明。,module,Magento_Paypal
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.",通过信用卡付款。为了得到资金商人必须升级帐户到业务或总理的地位。,module,Magento_Paypal
 "Sorry, but something went wrong. Please contact PayPal customer service.","对不起，但东西走错了。请联系 PayPal 客户服务。",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a chargeback by your customer.",由于您的客户计费的这笔交易发生了逆转。,module,Magento_Paypal
@@ -7173,7 +7173,7 @@ CPF,中央公积金,module,Magento_Paypal
 "We can't issue a refund transaction because there is no capture transaction.",我们不能发出退款交易，因为没有捕捉交易。,module,Magento_Paypal
 "We cannot create a target file for reading reports.",我们不能为创建一个目标文件阅读报告。,module,Magento_Paypal
 "Report Date",报告日期,module,Magento_Paypal
-"Merchant Account",商人帐户,module,Magento_Paypal
+"Merchant Account",商户,module,Magento_Paypal
 "Transaction ID",交易 ID,module,Magento_Paypal
 "Invoice ID","发票 ID",module,Magento_Paypal
 "PayPal Reference ID","支付参考引用 ID",module,Magento_Paypal
@@ -7181,7 +7181,7 @@ CPF,中央公积金,module,Magento_Paypal
 "Event Code",事件代码,module,Magento_Paypal
 Event,事件,module,Magento_Paypal
 "Start Date",起始日期,module,Magento_Paypal
-"Finish Date",完成日期,module,Magento_Paypal
+"Finish Date",结束日期,module,Magento_Paypal
 "Debit or Credit",借方或贷方,module,Magento_Paypal
 "Gross Amount",总金额,module,Magento_Paypal
 "Fee Debit or Credit",费用借方或贷方,module,Magento_Paypal
@@ -7391,7 +7391,7 @@ Manage,Manage,module,Magento_Paypal
 "Express Checkout",快速结帐,module,Magento_Paypal
 "Add PayPal as an additional payment method to your checkout page.",PayPal作为一种额外的付款方法添加到结帐页面。,module,Magento_Paypal
 "Required PayPal Settings",所需的PayPal设置,module,Magento_Paypal
-"Email Associated with PayPal Merchant Account (Optional)","与PayPal商人帐户 (可选) 关联的电子邮件",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","与PayPal商户 (可选) 关联的电子邮件",module,Magento_Paypal
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal""> 开始接受通过PayPal付款!</a>",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","难道没有一个 PayPal 帐户吗?只需输入您的电子邮件地址。",module,Magento_Paypal
 "API Authentication Methods","API 的身份验证方法",module,Magento_Paypal
@@ -7405,7 +7405,7 @@ Manage,Manage,module,Magento_Paypal
 "Enable this Solution",启用此解决方案,module,Magento_Paypal
 "Enable In-Context Checkout Experience","Enable In-Context Checkout Experience",module,Magento_Paypal
 "See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.",module,Magento_Paypal
-"Merchant Account ID","Merchant Account ID",module,Magento_Paypal
+"Merchant Account ID","商户 ID",module,Magento_Paypal
 "Enable PayPal Credit",启用PayPal信用,module,Magento_Paypal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.<a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal 快速结账让你给客户访问融资通过PayPal信用 ®-在没有额外的费用给你。                        即使客户有更多时间来支付，你前面，得到报酬。预集成的付款按钮让客户快速支付PayPal信用 ®。                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing""target=""_blank""> 了解更多</a>",module,Magento_Paypal
 "Sort Order PayPal Credit","Sort Order PayPal Credit",module,Magento_Paypal
@@ -7447,10 +7447,10 @@ Title,标题,module,Magento_Paypal
 "Enable PayPal Guest Checkout",启用PayPal来宾结帐,module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","买方购买没有 PayPal 帐户的能力。",module,Magento_Paypal
 "Require Customer's Billing Address",需要客户的帐单地址,module,Magento_Paypal
-"This feature needs be enabled first for the merchant account through PayPal technical support.",通过PayPal技术支持的商人帐户，需要首先启用此功能。,module,Magento_Paypal
+"This feature needs be enabled first for the merchant account through PayPal technical support.",通过PayPal技术支持的商户，需要首先启用此功能。,module,Magento_Paypal
 "Billing Agreement Signup",计费协议注册,module,Magento_Paypal
 "Whether to create a billing agreement, if there are no active billing agreements available.",是否要创建一个计费的协议，如果没有积极的自动扣款协议。,module,Magento_Paypal
-"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","商人需要向 PayPal 申请启用计费协议功能。直到PayPal确认你的商人帐户启用的自动扣款协议，请不要启用此选项。",module,Magento_Paypal
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","商人需要向 PayPal 申请启用计费协议功能。直到PayPal确认你的商户启用的自动扣款协议，请不要启用此选项。",module,Magento_Paypal
 "Skip Order Review Step",跳过顺序审查步骤,module,Magento_Paypal
 "PayPal Billing Agreement Settings",paypal付款协议设置,module,Magento_Paypal
 Enabled,启动,module,Magento_Paypal
@@ -7474,7 +7474,7 @@ Schedule,计划任务,module,Magento_Paypal
 "Displays on catalog pages and homepage.",在目录页和主页上显示。,module,Magento_Paypal
 "PayPal Merchant Pages Style",paypal商人页样式,module,Magento_Paypal
 "Page Style",页面样式,module,Magento_Paypal
-"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","允许的值:""paypal""，""主""(默认值)，your_custom_value (从你的商人帐户配置文件自定义付款页面样式)。",module,Magento_Paypal
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","允许的值:""paypal""，""主""(默认值)，your_custom_value (从你的商户配置文件自定义付款页面样式)。",module,Magento_Paypal
 "Header Image URL","标题图像 URL",module,Magento_Paypal
 "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","图像在顶部留下的结帐页面。最大大小是 750 × 90 像素。<strong style=""color:red""> https</strong> 是非常鼓舞。",module,Magento_Paypal
 "Header Background Color",标题背景颜色,module,Magento_Paypal
@@ -7863,7 +7863,7 @@ Website,网站,module,Magento_Reminder
 Filter,过滤器,module,Magento_Reports
 "Date Used",使用日期,module,Magento_Reports
 Day,天,module,Magento_Reports
-Month,年,module,Magento_Reports
+Month,月,module,Magento_Reports
 Year,年,module,Magento_Reports
 Period,期间,module,Magento_Reports
 From,从,module,Magento_Reports
@@ -7906,22 +7906,22 @@ Created,创建时间,module,Magento_Reports
 Subtotal,小计,module,Magento_Reports
 "Coupon Code",优惠劵,module,Magento_Reports
 "Price Rule",价格规则,module,Magento_Reports
-Uses,应用,module,Magento_Reports
+Uses,使用次数,module,Magento_Reports
 "Sales Subtotal",销售小计,module,Magento_Reports
 "Sales Discount",销售折扣,module,Magento_Reports
 "Sales Total",销售总额,module,Magento_Reports
 Discount,折扣,module,Magento_Reports
 "Total Invoiced vs. Paid Report",总开票额与收入报表,module,Magento_Reports
 Orders,订单,module,Magento_Reports
-"Invoiced Orders",已开票的订单,module,Magento_Reports
-"Total Invoiced",总开票额,module,Magento_Reports
+"Invoiced Orders",已出发票的订单,module,Magento_Reports
+"Total Invoiced",总发票额,module,Magento_Reports
 "Paid Invoices",已付的发票,module,Magento_Reports
 "Unpaid Invoices",未付的发票,module,Magento_Reports
 "Total Refunded Report",共退还报告,module,Magento_Reports
-"Refunded Orders",退还的订单,module,Magento_Reports
+"Refunded Orders",退款订单,module,Magento_Reports
 "Total Refunded",退款总计,module,Magento_Reports
 "Online Refunds",在线退款,module,Magento_Reports
-"Offline Refunds",脱机退款,module,Magento_Reports
+"Offline Refunds",线下退款,module,Magento_Reports
 "Total Ordered Report",共订购报告,module,Magento_Reports
 "Sales Items",销售物品,module,Magento_Reports
 Items,商品,module,Magento_Reports
@@ -7936,9 +7936,9 @@ Tax,税,module,Magento_Reports
 Shipping,运费,module,Magento_Reports
 Canceled,已取消,module,Magento_Reports
 "Total Shipped Report",共出货报告,module,Magento_Reports
-Carrier/Method,载体的方法,module,Magento_Reports
+Carrier/Method,物流商,module,Magento_Reports
 "Total Sales Shipping",总销售运费,module,Magento_Reports
-"Total Shipping",总航运,module,Magento_Reports
+"Total Shipping",总运费,module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rate",订单税报表按税率,module,Magento_Reports
 Rate,费率,module,Magento_Reports
 "Tax Amount",税额,module,Magento_Reports
@@ -7989,8 +7989,8 @@ Coupons,优惠券,module,Magento_Reports
 "Invoice Report",发票报表,module,Magento_Reports
 "Refunds Report",退款报告,module,Magento_Reports
 "Sales Report",销售报告,module,Magento_Reports
-"Orders Report","Orders Report",module,Magento_Reports
-"Shipping Report",发运情况报告,module,Magento_Reports
+"Orders Report",订单报告,module,Magento_Reports
+"Shipping Report",物流报告,module,Magento_Reports
 "Tax Report",税务报表,module,Magento_Reports
 "Shopping Cart",购物车,module,Magento_Reports
 "Abandoned Carts",遗弃的购物车,module,Magento_Reports
@@ -8072,10 +8072,10 @@ Action,操作,module,Magento_Reports
 "Last Review",最新评论时间,module,Magento_Reports
 "Order Created",订单创建时间,module,Magento_Reports
 "Order Updated",订单更新时间,module,Magento_Reports
-"The Order Updated report is created in real time and does not require a refresh.",订单更新报告中实时创建，并不需要进行刷新。,module,Magento_Reports
-"Last Invoice Created Date",最后发票创建的日期,module,Magento_Reports
-"Last Credit Memo Created Date",最后创建的日期的贷项通知单,module,Magento_Reports
-"First Invoice Created Date",第一张发票，创建日期,module,Magento_Reports
+"The Order Updated report is created in real time and does not require a refresh.",订单更新报告实时创建，并不需要进行刷新。,module,Magento_Reports
+"Last Invoice Created Date",最新发票创建时间,module,Magento_Reports
+"Last Credit Memo Created Date",最新贷项通知单创建日期,module,Magento_Reports
+"First Invoice Created Date",首张发票创建时间,module,Magento_Reports
 "Refresh Lifetime shuStatistics",刷新生存时间统计,module,Magento_Reports
 "Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",你确定你想要现在刷新生存时间统计?此操作可能会放慢您的客户的购物体验。,module,Magento_Reports
 "Refresh Statistics for the Last Day",最后一天刷新统计信息,module,Magento_Reports
@@ -8948,7 +8948,7 @@ Transactions,交易记录,module,Magento_Sales
 "Order View",订单查看,module,Magento_Sales
 Any,任何,module,Magento_Sales
 Specified,指定,module,Magento_Sales
-"Applies to Any of the Specified Order Statuses except canceled orders",适用于任何指定的订单状态，除了取消订单,module,Magento_Sales
+"Applies to Any of the Specified Order Statuses except canceled orders",适用于任何指定的订单状态，除了取消的订单,module,Magento_Sales
 "Cart Price Rule",购物车价格规则,module,Magento_Sales
 Yes,是,module,Magento_Sales
 No,否,module,Magento_Sales
@@ -9135,14 +9135,14 @@ Returned,已退回,module,Magento_Sales
 Partial,部分,module,Magento_Sales
 Mixed,混合,module,Magento_Sales
 "Registered a Void notification.",注册无效的通知。,module,Magento_Sales
-"If the invoice was created offline, try creating an offline credit memo.",如果创建了一种脱机的发票，请尝试创建脱机贷项通知单。,module,Magento_Sales
-"We refunded %1 online.","我们退还您在线 %1。",module,Magento_Sales
-"We refunded %1 offline.","我们退还您 %1 脱机。",module,Magento_Sales
-"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN""退还""。由商人发出退款。登记通知关于 %1 的退款金额。交易记录 ID:""%2""。尚未创建贷项通知单。请创建脱机贷项通知单。",module,Magento_Sales
+"If the invoice was created offline, try creating an offline credit memo.",如果创建了一种线下的发票，请尝试创建线下贷项通知单。,module,Magento_Sales
+"We refunded %1 online.","我们在线退还您 %1。",module,Magento_Sales
+"We refunded %1 offline.","我们线下退还您 %1 。",module,Magento_Sales
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN""退还""。由商人发出退款。登记通知关于 %1 的退款金额。交易记录 ID:""%2""。尚未创建贷项通知单。请创建线下贷项通知单。",module,Magento_Sales
 "The credit memo has been created automatically.",贷项通知单已自动创建。,module,Magento_Sales
 "Registered notification about refunded amount of %1.","登记通知关于 %1 的退款金额。",module,Magento_Sales
 "Canceled order online",取消的订单在线,module,Magento_Sales
-"Canceled order offline",取消的订单脱机,module,Magento_Sales
+"Canceled order offline",取消的订单线下,module,Magento_Sales
 "Approved the payment online.",通过在线支付。,module,Magento_Sales
 "There is no need to approve this payment.",那里是没有需要批准这笔付款。,module,Magento_Sales
 "Denied the payment online",否认在线支付,module,Magento_Sales
@@ -9358,9 +9358,9 @@ Message:,消息：,module,Magento_Sales
 "Invoice Totals",发票合计,module,Magento_Sales
 Amount,数量,module,Magento_Sales
 "Capture Online",捕获在线,module,Magento_Sales
-"Capture Offline",捕获脱机,module,Magento_Sales
+"Capture Offline",捕获线下,module,Magento_Sales
 "Not Capture",不捕获,module,Magento_Sales
-"The invoice will be created offline without the payment gateway.",发票将创建脱机没有支付网关。,module,Magento_Sales
+"The invoice will be created offline without the payment gateway.",发票将创建线下没有支付网关。,module,Magento_Sales
 "Email Copy of Invoice",发票的电子邮件副本,module,Magento_Sales
 "Items Invoiced",商品开票,module,Magento_Sales
 "Total Tax",总税款,module,Magento_Sales
@@ -9681,7 +9681,7 @@ Conditions,条件,module,Magento_SalesRule
 Generate,生成,module,Magento_SalesRule
 "Coupon Code",优惠劵,module,Magento_SalesRule
 Created,创建时间,module,Magento_SalesRule
-Uses,应用,module,Magento_SalesRule
+Uses,使用次数,module,Magento_SalesRule
 No,否,module,Magento_SalesRule
 Yes,是,module,Magento_SalesRule
 "Times Used",使用时间,module,Magento_SalesRule
@@ -9832,7 +9832,7 @@ Description,描述,module,Magento_SalesRuleStaging
 "Update Information","Update Information",module,Magento_SalesRuleStaging
 "Remove Cart Price Rule from Update","Remove Cart Price Rule from Update",module,Magento_SalesRuleStaging
 "Update Name","Update Name",module,Magento_SalesRuleStaging
-"Start Date",开始时间,module,Magento_SalesRuleStaging
+"Start Date",开始日期,module,Magento_SalesRuleStaging
 "End Date",结束时间,module,Magento_SalesRuleStaging
 "Rule Information",规则信息,module,Magento_SalesRuleStaging
 Websites,网站,module,Magento_SalesRuleStaging
@@ -10007,7 +10007,7 @@ Edit,编辑,module,Magento_ScheduledImportExport
 Run,跑,module,Magento_ScheduledImportExport
 "Search Term",搜索词,module,Magento_Search
 Results,结果,module,Magento_Search
-Uses,应用,module,Magento_Search
+Uses,使用次数,module,Magento_Search
 "Search Terms",搜索词,module,Magento_Search
 "Search Synonyms",搜索同义词,module,Magento_Search
 "New Synonym Group",新建同义词组,module,Magento_Search
@@ -10668,7 +10668,7 @@ Void,创建于,module,Magento_Support
 "Partial Capture Online",局部捕捉在线,module,Magento_Support
 "Refund Online",网上退款,module,Magento_Support
 "Partial Refund Online",部分退款在线,module,Magento_Support
-"Capture Offline",捕获脱机,module,Magento_Support
+"Capture Offline",捕获线下,module,Magento_Support
 "Partial Capture Offline",局部捕捉离线,module,Magento_Support
 "Refund Offline",离线获取,module,Magento_Support
 "Partial Refund Offline",部分退款离线,module,Magento_Support
