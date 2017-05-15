@@ -696,7 +696,7 @@ Advanced,高级,module,Magento_Backend
 "Sender Email",发件人的电子邮件,module,Magento_Backend
 "Sender Name",发件人姓名,module,Magento_Backend
 "Custom Email 2","自定义电子邮件 2",module,Magento_Backend
-"General Contact",一般接触,module,Magento_Backend
+"General Contact",基本联系方式,module,Magento_Backend
 "Sales Representative",销售代表,module,Magento_Backend
 "Customer Support",客户支持,module,Magento_Backend
 Developer,开发人员,module,Magento_Backend
@@ -733,12 +733,12 @@ Debug,调试,module,Magento_Backend
 Timezone,时区,module,Magento_Backend
 Locale,区域,module,Magento_Backend
 "First Day of Week",每周的第一天,module,Magento_Backend
-"Weekend Days",周末天,module,Magento_Backend
+"Weekend Days",周末,module,Magento_Backend
 "Store Name",店铺名称,module,Magento_Backend
 "Store Phone Number",店铺电话号码,module,Magento_Backend
 "Store Hours of Operation",商店营业时间,module,Magento_Backend
 Country,国家,module,Magento_Backend
-Region/State,地区/国家,module,Magento_Backend
+Region/State,地区/州,module,Magento_Backend
 "ZIP/Postal Code",邮编,module,Magento_Backend
 City,城市,module,Magento_Backend
 "Street Address",街道地址,module,Magento_Backend
@@ -759,7 +759,7 @@ Admin,管理员,module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","采用""默认""选项时电子邮件模板基于回退主题。",module,Magento_Backend
 "Forgot and Reset Email Sender",遗忘和重置电子邮件发件人,module,Magento_Backend
 "Startup Page",起始页,module,Magento_Backend
-"Admin Base URL",管理原始URL,module,Magento_Backend
+"Admin Base URL",管理基本URL,module,Magento_Backend
 "Use Custom Admin URL","使用自定义 Admin URL",module,Magento_Backend
 "Custom Admin URL","自定义 Admin URL",module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","请确保，基 URL 以 '/' (斜线)，例如 http://yourdomain/magento/",module,Magento_Backend
@@ -775,26 +775,28 @@ Security,安全,module,Magento_Backend
 "Please enter at least 60 and at most 31536000 (one year).","请输入至少 60 或最 大31536000 （一年）。",module,Magento_Backend
 "Enable Charts",启用图表,module,Magento_Backend
 Web,Web,module,Magento_Backend
-"Url Options","Url 选项",module,Magento_Backend
-"Add Store Code to Urls","将存储代码添加到 Urls",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red""> 警告!</strong>当在 URL中使用店铺代码，如果第三方服务 (如 PayPal 等)URLs链接未带有店铺代码，某些情况下系统可能工作不正常。",module,Magento_Backend
-"Auto-redirect to Base URL",自动重定向到原始URL,module,Magento_Backend
+"Url Options","URL 选项",module,Magento_Backend
+"Add Store Code to Urls","将店铺代码添加到 URLs",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red""> 警告!</strong> 当在 URL中使用店铺代码，如果第三方服务 (如 PayPal 等)URLs链接为指定店铺代码，某些情况下系统可能工作不正常。",module,Magento_Backend
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","例如：从http://example.com/store/重定向到http://www.example.com/store/",module,Magento_Backend
+"<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">警告</strong>:  不要设置为“否”，用户的安全可能会受到影响。",module,Magento_Backend
+"Auto-redirect to Base URL",自动重定向到基本URL,module,Magento_Backend
 "Search Engine Optimization",搜索引擎优化,module,Magento_Backend
 "Use Web Server Rewrites","使用 Web 服务器重写",module,Magento_Backend
-"Base URLs",原始URLs,module,Magento_Backend
-"Base URL",原始URL,module,Magento_Backend
+"Base URLs",基本URLs,module,Magento_Backend
+"Base URL",基本URL,module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","指定 URL 或 {{base_url}} 的占位符。",module,Magento_Backend
-"Base Link URL","原始链接 URL",module,Magento_Backend
-"Base URL for Static View Files","原始URL 静态视图文件",module,Magento_Backend
+"Base Link URL","基本链接 URL",module,Magento_Backend
+"Base URL for Static View Files","基本URL 静态视图文件",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","可能为空或启动与 {{unsecure_base_url}} 占位符。",module,Magento_Backend
-"Base URL for User Media Files",用户媒体文件的的原始URL,module,Magento_Backend
-"Base URLs (Secure)","原始URLs (安全)",module,Magento_Backend
-"Secure Base URL",加密原始URL,module,Magento_Backend
+"Base URL for User Media Files",用户媒体文件的的基本URL,module,Magento_Backend
+"Base URLs (Secure)","基本URLs (安全)",module,Magento_Backend
+"Secure Base URL",安全的基本URL,module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","指定 URL 或 {{base_url}} 或 {{unsecure_base_url}} 的占位符。",module,Magento_Backend
-"Secure Base Link URL",加密原始URL,module,Magento_Backend
-"Secure Base URL for Static View Files",静态视图文件的加密原始URL,module,Magento_Backend
+"Secure Base Link URL",安全的基本URL,module,Magento_Backend
+"Secure Base URL for Static View Files",静态视图文件的安全基本URL,module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","可能为空或启动与 {{secure_base_url}} 或 {{unsecure_base_url}} 占位符。",module,Magento_Backend
-"Secure Base URL for User Media Files",用户的媒体文件的加密原始URL,module,Magento_Backend
+"Secure Base URL for User Media Files",用户的媒体文件的加密基本URL,module,Magento_Backend
 "Use Secure URLs on Storefront",在店铺前台使用加密链接,module,Magento_Backend
 "Use Secure URLs in Admin",管理员使用加密链接,module,Magento_Backend
 "Enable HTTP Strict Transport Security (HSTS)","启用 HTTP 严格传输安全性 (HSTS)",module,Magento_Backend
@@ -1977,7 +1979,7 @@ Comma-separated.,以逗号分隔。,module,Magento_Catalog
 "Allow Dynamic Media URLs in Products and Categories","允许动态媒体 Url 中的商品和类别",module,Magento_Catalog
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","例如 {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}。解析影响的动态指令目录性能。",module,Magento_Catalog
 "Product Image Placeholders",商品图像占位符,module,Magento_Catalog
-"Search Engine Optimization",搜索引擎的优化,module,Magento_Catalog
+"Search Engine Optimization",搜索引擎优化,module,Magento_Catalog
 "Page Title Separator",页面标题分隔符。,module,Magento_Catalog
 "Use Canonical Link Meta Tag For Categories",使用标准连接元标签的类别,module,Magento_Catalog
 "Use Canonical Link Meta Tag For Products",为商品使用标准连接元标签,module,Magento_Catalog
@@ -2264,8 +2266,8 @@ Stock,股票,module,Magento_CatalogInventory
 "Browsing Category",浏览类别,module,Magento_CatalogPermissions
 "Display Product Prices",显示商品价格,module,Magento_CatalogPermissions
 "Add to Cart",添加到购物车,module,Magento_CatalogPermissions
-"Yes, for Everyone",是的每个人都,module,Magento_CatalogPermissions
-"Yes, for Specified Customer Groups",是的，每个人,module,Magento_CatalogPermissions
+"Yes, for Everyone","是，针对每个人",module,Magento_CatalogPermissions
+"Yes, for Specified Customer Groups","是，针对指定客户组",module,Magento_CatalogPermissions
 No,否,module,Magento_CatalogPermissions
 "No, Redirect to Landing Page",不，重定向到登录页,module,Magento_CatalogPermissions
 "Permission with the same scope",具有相同的作用域的权限,module,Magento_CatalogPermissions
@@ -2484,7 +2486,7 @@ Anchor,锚点,module,Magento_CatalogStaging
 "Default Product Sorting",默认商品排序,module,Magento_CatalogStaging
 "Use Config Settings",使用配置设置,module,Magento_CatalogStaging
 "Layered Navigation Price Step",分层价格导航,module,Magento_CatalogStaging
-"Search Engine Optimization",搜索引擎的优化,module,Magento_CatalogStaging
+"Search Engine Optimization",搜索引擎优化,module,Magento_CatalogStaging
 "Meta Title","Meta 标题",module,Magento_CatalogStaging
 "Meta Keywords","Meta 关键字",module,Magento_CatalogStaging
 "Meta Description","Meta 描述",module,Magento_CatalogStaging
@@ -2884,9 +2886,9 @@ px.,全部展开,module,Magento_Cms
 "CMS No Cookies Page","CMS没有缓存页",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","CMS 页面显示痕迹",module,Magento_Cms
 "Browser Capabilities Detection",浏览器功能检测,module,Magento_Cms
-"Redirect to CMS-page if Cookies are Disabled","如果禁用了 Cookie 到 CMS 页面重定向",module,Magento_Cms
-"Show Notice if JavaScript is Disabled","如果禁用 JavaScript 的显示通知",module,Magento_Cms
-"Show Notice if Local Storage is Disabled",如果禁用了本地存储的显示通知,module,Magento_Cms
+"Redirect to CMS-page if Cookies are Disabled","如果 Cookie 被禁用重定向到 CMS 页面",module,Magento_Cms
+"Show Notice if JavaScript is Disabled","如果 JavaScript 被禁用显示通知",module,Magento_Cms
+"Show Notice if Local Storage is Disabled",如果本地存储被禁用显示通知,module,Magento_Cms
 "WYSIWYG Options",WYSIWYG的选项,module,Magento_Cms
 "Enable WYSIWYG Editor",启动WYSIWYG编辑器,module,Magento_Cms
 "CMS Page Link","CMS 页面链接",module,Magento_Cms
@@ -3051,8 +3053,8 @@ Store,商店,module,Magento_Config
 "Store View",商店界面,module,Magento_Config
 "HTTP (unsecure)","HTTP (不安全)",module,Magento_Config
 "HTTPS (SSL)","HTTPS (SSL)",module,Magento_Config
-"Yes (302 Found)","是的 (302 发现)",module,Magento_Config
-"Yes (301 Moved Permanently)","是的 (301 永久移动)",module,Magento_Config
+"Yes (302 Found)","是 (302 找到)",module,Magento_Config
+"Yes (301 Moved Permanently)","是 (301 永久移动)",module,Magento_Config
 Yes,是,module,Magento_Config
 Specified,指定,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields",能够克隆领域所需的配置窗体字段集克隆模型,module,Magento_Config
@@ -3303,7 +3305,7 @@ Contacts,联系人,module,Magento_Contact
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","为了遵守新的 e-隐私指令，我们需要问您同意设置的 cookie。",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1""> 了解更多</a>。",module,Magento_Cookie
 "Allow Cookies","允许使用 Cookie",module,Magento_Cookie
-"Default Cookie Settings","默认的 Cookie 设置",module,Magento_Cookie
+"Default Cookie Settings","默认 Cookie 设置",module,Magento_Cookie
 "Cookie Lifetime","Cookie 的有效期",module,Magento_Cookie
 "Cookie Path","Cookie 路径",module,Magento_Cookie
 "Cookie Domain","Cookie 域",module,Magento_Cookie
@@ -4019,7 +4021,7 @@ Yes,是,module,Magento_CustomerCustomAttributes
 "Store View",商店界面,module,Magento_CustomerCustomAttributes
 "Form Code",表单代码,module,Magento_CustomerCustomAttributes
 "Form Title",表单标题,module,Magento_CustomerCustomAttributes
-General,基本的,module,Magento_CustomerCustomAttributes
+General,常规,module,Magento_CustomerCustomAttributes
 "New Fieldset",新字段集,module,Magento_CustomerCustomAttributes
 Save,保存,module,Magento_CustomerCustomAttributes
 Remove,删除,module,Magento_CustomerCustomAttributes
@@ -4487,10 +4489,10 @@ Frequency,频率,module,Magento_Directory
 Service,服务,module,Magento_Directory
 "Start Time",开始时间,module,Magento_Directory
 "Installed Currencies",已安装的货币,module,Magento_Directory
-"Zip/Postal Code is Optional for",邮政编码是可选的,module,Magento_Directory
-"State Options",状态选项,module,Magento_Directory
-"State is Required for",状态是必需的,module,Magento_Directory
-"Allow to Choose State if It is Optional for Country",允许选择状态，如果它是可选的国家,module,Magento_Directory
+"Zip/Postal Code is Optional for",邮政编码（可选）,module,Magento_Directory
+"State Options",州选项,module,Magento_Directory
+"State is Required for",州（必选）,module,Magento_Directory
+"Allow to Choose State if It is Optional for Country",允许州可选，如果它在国家中可选,module,Magento_Directory
 "Weight Unit",重量单位,module,Magento_Directory
 "Document is not saved due to error.",由于错误，未能保存文档。,module,Magento_Doc
 "More than one node matching the query: %1","与查询匹配的多个节点: %1",module,Magento_Doc
@@ -4820,15 +4822,15 @@ Unknown,未知,module,Magento_Email
 "Custom2 Contact Name","Custom1 联系人姓名",module,Magento_Email
 "Custom2 Contact Email","Custom1 联系人电子邮件",module,Magento_Email
 "Store Name",店铺联系电话,module,Magento_Email
-"Store Phone Number",存储电话号码,module,Magento_Email
+"Store Phone Number",店铺电话号码,module,Magento_Email
 "Store Hours",营业时间,module,Magento_Email
 Country,国家,module,Magento_Email
-Region/State,地区/国家,module,Magento_Email
+Region/State,地区/州,module,Magento_Email
 "Zip/Postal Code",邮编,module,Magento_Email
 City,城市,module,Magento_Email
 "Street Address 1","街道地址 1",module,Magento_Email
 "Street Address 2",街道地址2,module,Magento_Email
-"Store Contact Information",存储联系人信息,module,Magento_Email
+"Store Contact Information",店铺联系人信息,module,Magento_Email
 "Template Variables",模板变量,module,Magento_Email
 "Please enter a template name.",请输入模板的名称。,module,Magento_Email
 "Duplicate Of Template Name",模板名称重复,module,Magento_Email
@@ -5887,7 +5889,7 @@ Save,保存,module,Magento_Integration
 "New Integration",新的集成,module,Magento_Integration
 "Edit Integration '%1'","编辑一体化 '%1'",module,Magento_Integration
 "Integration Info",集成信息,module,Magento_Integration
-General,基本的,module,Magento_Integration
+General,常规,module,Magento_Integration
 Name,名字,module,Magento_Integration
 Email,邮箱,module,Magento_Integration
 "Callback URL","回调 URL",module,Magento_Integration
@@ -6015,7 +6017,7 @@ Back,后退,module,Magento_Invitation
 "Are you sure you want to discard this invitation?",你确定你想要放弃这项邀请?,module,Magento_Invitation
 "Save Invitation",将邀请保存,module,Magento_Invitation
 "Send Invitation",发送邀请,module,Magento_Invitation
-General,基本的,module,Magento_Invitation
+General,常规,module,Magento_Invitation
 "Default from System Configuration",来自系统配置的默认值,module,Magento_Invitation
 N/A,N/A,module,Magento_Invitation
 "Status History",状态历史记录,module,Magento_Invitation
@@ -6621,7 +6623,7 @@ Options,选项,module,Magento_Multishipping
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","新的遗物一体化要求 newrelic php5 代理，不安装。有关安装代理的详细信息是可用 <a target=""_blank""href=""%1""> 在这里</a>。",module,Magento_NewRelicReporting
 "New Relic Reporting Section","New Relic报告",module,Magento_NewRelicReporting
 "New Relic Reporting",新文物报告,module,Magento_NewRelicReporting
-General,基本的,module,Magento_NewRelicReporting
+General,常规,module,Magento_NewRelicReporting
 "Enable New Relic Integration",启用新文物集成,module,Magento_NewRelicReporting
 "New Relic API URL","新文物 API URL",module,Magento_NewRelicReporting
 "Insights API URL","API 的见解 URL",module,Magento_NewRelicReporting
@@ -6816,7 +6818,7 @@ Instructions,说明,module,Magento_OfflinePayments
 "Zero Subtotal Checkout",零小计的签出,module,Magento_OfflinePayments
 "Automatically Invoice All Items",自动发票的所有项目,module,Magento_OfflinePayments
 Country,国家,module,Magento_OfflineShipping
-Region/State,地区/国家,module,Magento_OfflineShipping
+Region/State,地区/州,module,Magento_OfflineShipping
 "Zip/Postal Code",邮编,module,Magento_OfflineShipping
 "Shipping Price",包括虚拟商品的价格计算,module,Magento_OfflineShipping
 "Export CSV","导出 CSV",module,Magento_OfflineShipping
@@ -9464,7 +9466,7 @@ Create,Create,module,Magento_Sales
 "Send Sales Emails","Send Sales Emails",module,Magento_Sales
 "Sales Section","Sales Section",module,Magento_Sales
 "Sales Emails Section","Sales Emails Section",module,Magento_Sales
-General,基本的,module,Magento_Sales
+General,常规,module,Magento_Sales
 "Hide Customer IP","隐藏客户 IP",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","选择是否客户 IP 所示订单、 发票、 发货和贷项通知单。",module,Magento_Sales
 "Checkout Totals Sort Order",签出总计排序顺序,module,Magento_Sales
@@ -10338,7 +10340,7 @@ Description,描述,module,Magento_Shipping
 "Shipping Settings",传送设置,module,Magento_Shipping
 Origin,起源,module,Magento_Shipping
 Country,国家,module,Magento_Shipping
-Region/State,地区/国家,module,Magento_Shipping
+Region/State,地区/州,module,Magento_Shipping
 "ZIP/Postal Code",邮编,module,Magento_Shipping
 City,城市,module,Magento_Shipping
 "Street Address",街道地址,module,Magento_Shipping
@@ -10525,7 +10527,7 @@ End,End,module,Magento_Staging
 Staging,Staging,module,Magento_Staging
 "Create New Update","Create New Update",module,Magento_Staging
 Back,后退,module,Magento_Staging
-General,基本的,module,Magento_Staging
+General,常规,module,Magento_Staging
 Status,Status,module,Magento_Staging
 "Update Name","Update Name",module,Magento_Staging
 Includes,Includes,module,Magento_Staging
@@ -10769,7 +10771,7 @@ Message,信息,module,Magento_Support
 "Default Store",默认存储,module,Magento_Support
 "Websites Tree",网站树,module,Magento_Support
 "There was an error while loading system report data.",加载系统报告数据时出错。,module,Magento_Support
-General,基本的,module,Magento_Support
+General,常规,module,Magento_Support
 Environment,环境,module,Magento_Support
 "Cannot save backup. The reason is: Utility lsof not found","Cannot save backup. The reason is: Utility lsof not found",module,Magento_Support
 "Test error",测试错误,module,Magento_Support
@@ -11177,7 +11179,7 @@ Manage,管理,module,Magento_Theme
 "Theme Path",主题路径,module,Magento_Theme
 "Theme Title",主题标题,module,Magento_Theme
 "Theme Preview Image",主题预览图像,module,Magento_Theme
-General,基本的,module,Magento_Theme
+General,常规,module,Magento_Theme
 "Copy of %1","%1 的副本",module,Magento_Theme
 "Max image size %1M","最大图像大小 %1M",module,Magento_Theme
 "Theme JavaScript","主题 JavaScript",module,Magento_Theme
