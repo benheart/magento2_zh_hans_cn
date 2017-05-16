@@ -568,7 +568,7 @@ System,系统,module,Magento_Backend
 "The store does not exist",店铺不存在,module,Magento_Backend
 "Store view doesn't exist",店铺视图不存在,module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","修改店铺视图代码前请确保它没有应用在 index.php 中。",module,Magento_Backend
-New,新建,module,Magento_Backend
+New,新客户,module,Magento_Backend
 "All Stores",所有商店,module,Magento_Backend
 "You saved the website.",你已保存网站。,module,Magento_Backend
 "The default store cannot be disabled",不能禁用默认店铺,module,Magento_Backend
@@ -1244,7 +1244,7 @@ Quantity:,数量:,module,Magento_Bundle
 Position,位置,module,Magento_Bundle
 "There are no products in this option.",在此选项中没有商品。,module,Magento_Bundle
 Default,默认,module,Magento_Bundle
-Ordered,已订购,module,Magento_Bundle
+Ordered,卖出,module,Magento_Bundle
 Invoiced,已出发票,module,Magento_Bundle
 Shipped,已开发票数量,module,Magento_Bundle
 Refunded,已退款,module,Magento_Bundle
@@ -2638,7 +2638,7 @@ Subtotal,小计,module,Magento_Checkout
 Edit,编辑,module,Magento_Checkout
 "Remove item",删除项目,module,Magento_Checkout
 "You have no items in your shopping cart.",你的购物车中没有任何商品。,module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","单击 <a href=""%1""> 此处</a> 继续购物。",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","单击 <a href=""%1"">此处</a> 继续购物。",module,Magento_Checkout
 "Estimate Tax",估计税,module,Magento_Checkout
 "Estimate Shipping and Tax",估计运费和税,module,Magento_Checkout
 "Excl. Tax",不包括消费税,module,Magento_Checkout
@@ -4601,13 +4601,13 @@ Subtotal,小计,module,Magento_Downloadable
 "Discount Amount",折扣金额,module,Magento_Downloadable
 "Row Total",总行数,module,Magento_Downloadable
 "Qty Invoiced",开票数量,module,Magento_Downloadable
-Ordered,已订购,module,Magento_Downloadable
+Ordered,卖出,module,Magento_Downloadable
 Shipped,已开发票数量,module,Magento_Downloadable
 Canceled,已取消,module,Magento_Downloadable
 Refunded,已退款,module,Magento_Downloadable
 "We could not detect a size.",我们未能检测到的大小。,module,Magento_Downloadable
 "Downloadable Product Section",可下载的商品部分,module,Magento_Downloadable
-Downloads,下载附件,module,Magento_Downloadable
+Downloads,下载商品,module,Magento_Downloadable
 "Downloadable Product Options",可下载的商品选项,module,Magento_Downloadable
 "Order Item Status to Enable Downloads",订单项的状态，使下载,module,Magento_Downloadable
 "Default Maximum Number of Downloads",默认最大数量的下载,module,Magento_Downloadable
@@ -5032,7 +5032,7 @@ N/A,N/A,module,Magento_GiftCard
 "Please specify a sender name.",请指定发件人的名称。,module,Magento_GiftCard
 "Please specify a recipient email.",请指定收件人的电子邮件。,module,Magento_GiftCard
 "Please specify a sender email.",请指定发件人的电子邮件。,module,Magento_GiftCard
-Ordered,已订购,module,Magento_GiftCard
+Ordered,卖出,module,Magento_GiftCard
 Invoiced,已出发票,module,Magento_GiftCard
 "Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","一些代金卡帐户创建不正确。您可以创建代金卡帐户手动 <a href=""%1""> 在这里</a>。",module,Magento_GiftCard
 Amount,数量,module,Magento_GiftCard
@@ -7867,7 +7867,7 @@ Filter,过滤器,module,Magento_Reports
 Day,天,module,Magento_Reports
 Month,月,module,Magento_Reports
 Year,年,module,Magento_Reports
-Period,期间,module,Magento_Reports
+Period,周期,module,Magento_Reports
 From,从,module,Magento_Reports
 To,至,module,Magento_Reports
 Yes,是,module,Magento_Reports
@@ -7875,7 +7875,7 @@ No,否,module,Magento_Reports
 "Empty Rows",空行,module,Magento_Reports
 "Invalid date specified",指定的日期无效,module,Magento_Reports
 Refresh,刷新,module,Magento_Reports
-"We can't find records for this period.",我们这段时间找不到记录。,module,Magento_Reports
+"We can't find records for this period.",指定时间段没有记录。,module,Magento_Reports
 "Show Reviews",显示评论,module,Magento_Reports
 "Products Report",商品报告,module,Magento_Reports
 Downloads,下载附件,module,Magento_Reports
@@ -7888,12 +7888,12 @@ CSV,"Excel XML",module,Magento_Reports
 Unlimited,无限,module,Magento_Reports
 "Low stock",低库存,module,Magento_Reports
 "Products Ordered",订购的商品,module,Magento_Reports
-"Most Viewed",最多观看次数,module,Magento_Reports
+"Most Viewed",最多浏览,module,Magento_Reports
 "Show Report",显示报表,module,Magento_Reports
 Interval,周期,module,Magento_Reports
 Total,总额,module,Magento_Reports
 Price,价格,module,Magento_Reports
-Views,视图,module,Magento_Reports
+Views,商品浏览,module,Magento_Reports
 "Refresh Statistics",刷新统计信息,module,Magento_Reports
 "Customers Reviews",客户评论,module,Magento_Reports
 "Reviews for %1","%1 评论",module,Magento_Reports
@@ -7902,7 +7902,7 @@ Title,标题,module,Magento_Reports
 Detail,详细信息,module,Magento_Reports
 Created,创建时间,module,Magento_Reports
 "Products Reviews",商品评论,module,Magento_Reports
-"Products Bestsellers Report",商品畅销报告,module,Magento_Reports
+"Products Bestsellers Report",热卖商品报告,module,Magento_Reports
 "Order Quantity",订购数量,module,Magento_Reports
 "Coupons Usage Report",优惠券使用情况报告,module,Magento_Reports
 Subtotal,小计,module,Magento_Reports
@@ -7919,12 +7919,12 @@ Orders,订单,module,Magento_Reports
 "Total Invoiced",总发票额,module,Magento_Reports
 "Paid Invoices",已付的发票,module,Magento_Reports
 "Unpaid Invoices",未付的发票,module,Magento_Reports
-"Total Refunded Report",共退还报告,module,Magento_Reports
+"Total Refunded Report",总退款报告,module,Magento_Reports
 "Refunded Orders",退款订单,module,Magento_Reports
 "Total Refunded",退款总计,module,Magento_Reports
 "Online Refunds",在线退款,module,Magento_Reports
 "Offline Refunds",线下退款,module,Magento_Reports
-"Total Ordered Report",共订购报告,module,Magento_Reports
+"Total Ordered Report",总订购报告,module,Magento_Reports
 "Sales Items",销售物品,module,Magento_Reports
 Items,商品,module,Magento_Reports
 Revenue,收入,module,Magento_Reports
@@ -7937,11 +7937,11 @@ Tax,税,module,Magento_Reports
 "Sales Shipping",销售运费,module,Magento_Reports
 Shipping,运费,module,Magento_Reports
 Canceled,已取消,module,Magento_Reports
-"Total Shipped Report",共出货报告,module,Magento_Reports
+"Total Shipped Report",总出货报告,module,Magento_Reports
 Carrier/Method,物流商,module,Magento_Reports
 "Total Sales Shipping",总销售运费,module,Magento_Reports
 "Total Shipping",总运费,module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rate",订单税报表按税率,module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rate",按税率分组的订单税报表,module,Magento_Reports
 Rate,费率,module,Magento_Reports
 "Tax Amount",税额,module,Magento_Reports
 "Abandoned carts",遗弃的购物车,module,Magento_Reports
@@ -7968,14 +7968,14 @@ Reports,报告,module,Magento_Reports
 "Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","最近更新于: %1. 更新最近一天的<a href=""%2"">统计</a>, 点击<a href=""%3"">这里</a>.",module,Magento_Reports
 "New Accounts Report",新帐户报告,module,Magento_Reports
 "Customers by Number of Orders",客户订单号,module,Magento_Reports
-"Order Count Report",订单计数报告,module,Magento_Reports
-"Order Total Report",订单总报告,module,Magento_Reports
-"Downloads Report",下载报告,module,Magento_Reports
+"Order Count Report",订单数量报告,module,Magento_Reports
+"Order Total Report",订单总金额报告,module,Magento_Reports
+"Downloads Report",下载商品报告,module,Magento_Reports
 "Low Stock",低库存,module,Magento_Reports
 "Low Stock Report",低库存报告,module,Magento_Reports
-"Ordered Products Report",订购的商品报告,module,Magento_Reports
+"Ordered Products Report",卖出商品报告,module,Magento_Reports
 "Products Most Viewed Report",商品最查看的报告,module,Magento_Reports
-"Product Views Report",商品意见报告,module,Magento_Reports
+"Product Views Report",商品浏览报告,module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.",显示商品意见报告时出错。请查看日志并再试一次。,module,Magento_Reports
 Review,商品评价,module,Magento_Reports
 Reviews,评论,module,Magento_Reports
@@ -7985,7 +7985,7 @@ Reviews,评论,module,Magento_Reports
 "Product Reviews",商品评论,module,Magento_Reports
 Details,详情,module,Magento_Reports
 Sales,销售,module,Magento_Reports
-"Bestsellers Report","Bestsellers Report",module,Magento_Reports
+"Bestsellers Report","热卖商品报告",module,Magento_Reports
 Coupons,优惠券,module,Magento_Reports
 "Coupons Report",优惠券报告,module,Magento_Reports
 "Invoice Report",发票报表,module,Magento_Reports
@@ -8006,12 +8006,12 @@ Statistics,统计数据,module,Magento_Reports
 "We can't refresh recent statistics.",我们不能刷新最近的统计数据。,module,Magento_Reports
 "The product type filter specified is incorrect.",指定的商品类型筛选器是不正确的。,module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates",订单税报表按税率,module,Magento_Reports
-"Total Invoiced VS Paid Report","总开票 VS 支付报告",module,Magento_Reports
+"Total Invoiced VS Paid Report","总发票 VS 支付报告",module,Magento_Reports
 "Promotion Coupons Usage Report",促销优惠券使用报告,module,Magento_Reports
 Bestsellers,热卖商品,module,Magento_Reports
-"Most Viewed Products Report",最查看的商品报告,module,Magento_Reports
+"Most Viewed Products Report",浏览最多的商品报告,module,Magento_Reports
 Error,错误,module,Magento_Reports
-"Show By",通过显示,module,Magento_Reports
+"Show By",显示单位,module,Magento_Reports
 "Select Date",选择日期,module,Magento_Reports
 "Customers that have Wish List: %1","Customers that have Wish List: %1",module,Magento_Reports
 "Number of Wish Lists: %1","收藏夹的数量: %1",module,Magento_Reports
@@ -8066,7 +8066,7 @@ Dashboard,控制面板,module,Magento_Reports
 Average,平均,module,Magento_Reports
 "Stock Quantity",库存数量,module,Magento_Reports
 "Ordered Quantity",订购的数量,module,Magento_Reports
-"The report displays the top 5 most viewed products for each interval.","The report displays the top 5 most viewed products for each interval.",module,Magento_Reports
+"The report displays the top 5 most viewed products for each interval.","这份报告显示每段间隔中浏览最多的5件商品.",module,Magento_Reports
 "For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",为报告精准，在更换时区后一定要刷新统计信息,module,Magento_Reports
 Guest,访客,module,Magento_Reports
 Action,操作,module,Magento_Reports
@@ -8081,6 +8081,7 @@ Action,操作,module,Magento_Reports
 "Refresh Lifetime shuStatistics",刷新生存时间统计,module,Magento_Reports
 "Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.",你确定你想要现在刷新生存时间统计?此操作可能会放慢您的客户的购物体验。,module,Magento_Reports
 "Refresh Statistics for the Last Day",最后一天刷新统计信息,module,Magento_Reports
+"Refresh Lifetime Statistics",刷新生命周期统计信息,module,Magento_Reports
 "Are you sure you want to refresh statistics for the last day?",你确定你想要的最后一天刷新统计信息?,module,Magento_Reports
 Report,报告,module,Magento_Reports
 Description,描述,module,Magento_Reports
@@ -8446,7 +8447,7 @@ Split,切分,module,Magento_Rma
 Action,操作,module,Magento_Rma
 "Return Information",返回的信息,module,Magento_Rma
 RMA,RMA,module,Magento_Rma
-Ordered,已订购,module,Magento_Rma
+Ordered,卖出商品,module,Magento_Rma
 Customer,客户,module,Magento_Rma
 View,查看,module,Magento_Rma
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?",module,Magento_Rma
@@ -9129,7 +9130,7 @@ Paid,最近查看过的,module,Magento_Sales
 "The invoice contains one or more items that are not part of the original order.","The invoice contains one or more items that are not part of the original order.",module,Magento_Sales
 "ID required","所需的 ID",module,Magento_Sales
 "Unknown Status",未知的状态,module,Magento_Sales
-Ordered,已订购,module,Magento_Sales
+Ordered,卖出,module,Magento_Sales
 Shipped,已开发票数量,module,Magento_Sales
 Invoiced,已出发票,module,Magento_Sales
 Backordered,延期交货,module,Magento_Sales
@@ -12030,7 +12031,7 @@ Circle,圈子,module,Magento_VersionsCms
 Disc,光盘,module,Magento_VersionsCms
 Square,广场,module,Magento_VersionsCms
 Unordered,无序,module,Magento_VersionsCms
-Ordered,已订购,module,Magento_VersionsCms
+Ordered,卖出,module,Magento_VersionsCms
 "Use Parent",使用父,module,Magento_VersionsCms
 Yes,是,module,Magento_VersionsCms
 "Use the parent node hierarchy.",使用父节点层次结构。,module,Magento_VersionsCms
@@ -12382,7 +12383,7 @@ Edit,编辑,module,Magento_Wishlist
 "Add to Compare",添加并比较,module,Magento_Wishlist
 "This Wish List has no Items",这收藏夹已没有项目,module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","单击 <a href=""%1"">此处</a> 继续购物。",module,Magento_Wishlist
 "See Details",查看具体信息,module,Magento_Wishlist
 "Options Details",选项详细信息,module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS 链接到 %1 的收藏",module,Magento_Wishlist
