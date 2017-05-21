@@ -779,6 +779,7 @@ Web,Web,module,Magento_Backend
 "Add Store Code to Urls","将商店代码添加到 URLs",module,Magento_Backend
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red""> 警告!</strong> 当在 URL中使用商店代码，如果第三方服务 (如 PayPal 等)URLs链接为指定商店代码，某些情况下系统可能工作不正常。",module,Magento_Backend
 "I.e. redirect from http://example.com/store/ to http://www.example.com/store/","例如：从http://example.com/store/重定向到http://www.example.com/store/",module,Magento_Backend
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","允许任何以“/”（斜杠）结尾的合法URL，例如：http://example.com/magento/",module,Magento_Backend
 "<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">警告</strong>:  不要设置为“否”，用户的安全可能会受到影响。",module,Magento_Backend
 "Auto-redirect to Base URL",自动重定向到基本URL,module,Magento_Backend
 "Search Engine Optimization",搜索引擎优化,module,Magento_Backend
@@ -790,14 +791,18 @@ Web,Web,module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","指定 URL 或 {{base_url}} 的占位符。",module,Magento_Backend
 "Base Link URL","基本链接 URL",module,Magento_Backend
 "Base URL for Static View Files","基本URL 静态视图文件",module,Magento_Backend
-"May be empty or start with {{unsecure_base_url}} placeholder.","可能为空或启动与 {{unsecure_base_url}} 占位符。",module,Magento_Backend
+"May start with {{unsecure_base_url}} placeholder.","可以 {{unsecure_base_url}} 占位符开始。",module,Magento_Backend
+"May be empty or start with {{unsecure_base_url}} placeholder.","可为空或以 {{unsecure_base_url}} 占位符开始。",module,Magento_Backend
+"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","可以 {{secure_base_url}} 或 {{unsecure_base_url}} 占位符开始。",module,Magento_Backend
 "Base URL for User Media Files",用户媒体文件的的基本URL,module,Magento_Backend
 "Base URLs (Secure)","基本URLs (安全)",module,Magento_Backend
 "Secure Base URL",安全的基本URL,module,Magento_Backend
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","指定 URL 或 {{base_url}} 或 {{unsecure_base_url}} 的占位符。",module,Magento_Backend
+"Enter https protocol to use Secure URLs on Storefront.",前端使用https协议的安全URLs,module,Magento_Backend
+"Enter https protocol to use Secure URLs in Admin.",管理后台使用https协议的安全URLs,module,Magento_Backend
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","指定 URL 或 {{base_url}} 或 {{unsecure_base_url}} 占位符。",module,Magento_Backend
 "Secure Base Link URL",安全的基本URL,module,Magento_Backend
 "Secure Base URL for Static View Files",静态视图文件的安全基本URL,module,Magento_Backend
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","可能为空或启动与 {{secure_base_url}} 或 {{unsecure_base_url}} 占位符。",module,Magento_Backend
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","可为空或以 {{secure_base_url}} 或 {{unsecure_base_url}} 占位符开始。",module,Magento_Backend
 "Secure Base URL for User Media Files",用户的媒体文件的加密基本URL,module,Magento_Backend
 "Use Secure URLs on Storefront",在商店前台使用加密链接,module,Magento_Backend
 "Use Secure URLs in Admin",管理员使用加密链接,module,Magento_Backend
