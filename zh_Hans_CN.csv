@@ -780,6 +780,7 @@ Web,Web,module,Magento_Backend
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red""> 警告!</strong> 当在 URL中使用商店代码，如果第三方服务 (如 PayPal 等)URLs链接为指定商店代码，某些情况下系统可能工作不正常。",module,Magento_Backend
 "I.e. redirect from http://example.com/store/ to http://www.example.com/store/","例如：从http://example.com/store/重定向到http://www.example.com/store/",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","允许任何以“/”（斜杠）结尾的合法URL，例如：http://example.com/magento/",module,Magento_Backend
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","允许任何以“/”（斜杠）结尾的合法URL，例如：https://example.com/magento/",module,Magento_Backend
 "<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">警告</strong>:  不要设置为“否”，用户的安全可能会受到影响。",module,Magento_Backend
 "Auto-redirect to Base URL",自动重定向到基本URL,module,Magento_Backend
 "Search Engine Optimization",搜索引擎优化,module,Magento_Backend
@@ -1443,7 +1444,7 @@ Websites,网站,module,Magento_Catalog
 "Parent Category",父类别,module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","如果没有自定义父类别，请使用默认的父类别。您可以在任何时候在<a href=""%1""target=""_blank""> 商品 > 类别</a>重新分配类别。",module,Magento_Catalog
 "Price Alert Subscriptions",价格警报订阅,module,Magento_Catalog
-"Stock Alert Subscriptions",股票的警报订阅,module,Magento_Catalog
+"Stock Alert Subscriptions",库存警报订阅,module,Magento_Catalog
 "There are no customers for this alert.",没有客户此警报。,module,Magento_Catalog
 "First Name",名,module,Magento_Catalog
 "Last Name",姓,module,Magento_Catalog
@@ -1962,10 +1963,10 @@ Added,已添加,module,Magento_Catalog
 "unselect all",取消全选,module,Magento_Catalog
 Inventory,存货清单,module,Magento_Catalog
 "Catalog Section",目录区域,module,Magento_Catalog
-"Product Fields Auto-Generation",字段自动生成商品,module,Magento_Catalog
-"Mask for SKU","SKU 的掩码",module,Magento_Catalog
+"Product Fields Auto-Generation",商品字段自动生成,module,Magento_Catalog
+"Mask for SKU","SKU 掩码",module,Magento_Catalog
 "Use {{name}} as Product Name placeholder","使用 {{name}} 作为商品名称的占位符",module,Magento_Catalog
-"Mask for Meta Title","掩码 Meta 标题",module,Magento_Catalog
+"Mask for Meta Title","Meta 标题掩码",module,Magento_Catalog
 "Mask for Meta Keywords","Meta 关键字掩码",module,Magento_Catalog
 "Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","使用 {{name}} 作为商品名称或 {{sku}} 作为商品 SKU 占位符",module,Magento_Catalog
 "Mask for Meta Description","Meta 描述掩码",module,Magento_Catalog
@@ -1983,22 +1984,22 @@ Comma-separated.,以逗号分隔。,module,Magento_Catalog
 "Product Listing Sort by",商品列表排序按,module,Magento_Catalog
 "Allow All Products per Page",允许每页中的所有商品,module,Magento_Catalog
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","是否显示在""每页显示 X""下拉列表中的""全部""选项",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","允许动态媒体 Url 中的商品和类别",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","允许动态媒体 URLs 中的商品和类别",module,Magento_Catalog
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","例如 {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}。解析影响的动态指令目录性能。",module,Magento_Catalog
 "Product Image Placeholders",商品图像占位符,module,Magento_Catalog
 "Search Engine Optimization",搜索引擎优化,module,Magento_Catalog
-"Page Title Separator",页面标题分隔符。,module,Magento_Catalog
+"Page Title Separator",页面标题分隔符,module,Magento_Catalog
 "Use Canonical Link Meta Tag For Categories",使用标准连接元标签的类别,module,Magento_Catalog
 "Use Canonical Link Meta Tag For Products",为商品使用标准连接元标签,module,Magento_Catalog
-"Catalog Price Scope",目录价格范围,module,Magento_Catalog
-"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","这定义基础货币范围 (""Currency Setup"" > ""Currency Options"" > ""Base Currency"")。",module,Magento_Catalog
+"Catalog Price Scope",商品价格范围,module,Magento_Catalog
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","定义基础货币范围 (""Currency Setup"" > ""Currency Options"" > ""Base Currency"")。",module,Magento_Catalog
 "Category Top Navigation",类别顶部导航,module,Magento_Catalog
 "Maximal Depth",最大深度,module,Magento_Catalog
 "Date & Time Custom Options",日期及时间的自定义选项,module,Magento_Catalog
 "Use JavaScript Calendar","使用 JavaScript 日历",module,Magento_Catalog
-"Date Fields Order",日期字段排序。,module,Magento_Catalog
+"Date Fields Order",日期字段顺序,module,Magento_Catalog
 "Time Format",时间格式,module,Magento_Catalog
-"Year Range",年的范围内,module,Magento_Catalog
+"Year Range",年数范围,module,Magento_Catalog
 "Please use a four-digit year format.",请使用四位数年份格式。,module,Magento_Catalog
 "Use Static URLs for Media Content in WYSIWYG for Catalog","在商品媒体内容WYSIWYG编辑器中使用静态 URLs",module,Magento_Catalog
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","这仅适用于商品和类别，媒体内容将作为静态 URL 插入编辑器。如果系统设置的基准 URL 发生变化，媒体内容不会更新。",module,Magento_Catalog
@@ -2075,13 +2076,13 @@ Layout,布局,module,Magento_Catalog
 AttributeSetText,AttributeSetText,module,Magento_Catalog
 StatusText,StatusText,module,Magento_Catalog
 "Product Image Watermarks",商品图像水印,module,Magento_Catalog
-Base,基准分支,module,Magento_Catalog
+Base,基础图,module,Magento_Catalog
 Image,图片,module,Magento_Catalog
 "Allowed file types: jpeg, gif, png.","允许的文件类型︰ jpeg, gif, png。",module,Magento_Catalog
 "Image Opacity",图像不透明度,module,Magento_Catalog
 "Example format: 200x300.","示例格式︰ 200 × 300。",module,Magento_Catalog
 "Image Position",图像位置,module,Magento_Catalog
-Small,小,module,Magento_Catalog
+Small,小图,module,Magento_Catalog
 "Attribute Properties",属性设置,module,Magento_Catalog
 "Attribute Label",属性标签,module,Magento_Catalog
 "Catalog Input Type for Store Owner",店主的目录输入类型,module,Magento_Catalog
@@ -2216,7 +2217,7 @@ Edit,编辑,module,Magento_CatalogEvent
 "Stock Item with id ""%1"" does not exist.","Id 为""%1""的库存项目不存在。",module,Magento_CatalogInventory
 "Unable to remove Stock Item with id ""%1""","无法删除编号id为 ""%1"" 的现货项",module,Magento_CatalogInventory
 "Unable to save Stock",无法保存现货库存,module,Magento_CatalogInventory
-"Stock with id ""%1"" does not exist.","股票与 id""%1""并不存在。",module,Magento_CatalogInventory
+"Stock with id ""%1"" does not exist.","id 为""%1""的库存并不存在。",module,Magento_CatalogInventory
 "Unable to remove Stock with id ""%1""","无法删除编号id为 ""%1"" 的现货库存",module,Magento_CatalogInventory
 "Unable to save Stock Status",无法保存库存状态,module,Magento_CatalogInventory
 "Unable to remove Stock Status for product %1","无法删除库存状态为 %1 的商品",module,Magento_CatalogInventory
@@ -2241,14 +2242,14 @@ Quantity,数量,module,Magento_CatalogInventory
 Qty,数量,module,Magento_CatalogInventory
 "Inventory Section",库存类目,module,Magento_CatalogInventory
 Inventory,库存,module,Magento_CatalogInventory
-"Stock Options",股票期权,module,Magento_CatalogInventory
+"Stock Options",库存选项,module,Magento_CatalogInventory
 "Decrease Stock When Order is Placed",减少库存时订单,module,Magento_CatalogInventory
 "Set Items' Status to be In Stock When Order is Cancelled",设置项目的状态，要在库存当订单被取消,module,Magento_CatalogInventory
 "Display Out of Stock Products",显示库存商品的出,module,Magento_CatalogInventory
 "Products will still be shown by direct product URLs.","商品仍将通过直接商品 Url 所示。",module,Magento_CatalogInventory
 "Only X left Threshold","只留下阈值的 X",module,Magento_CatalogInventory
 "Display Products Availability in Stock on Storefront",显示商品的可用性在库存上的前端,module,Magento_CatalogInventory
-"Product Stock Options",商品股票期权,module,Magento_CatalogInventory
+"Product Stock Options",商品库存选项,module,Magento_CatalogInventory
 "Please note that these settings apply to individual items in the cart, not to the entire cart.",请注意，这些设置适用于单个项目的购物车，不到整个购物车中。,module,Magento_CatalogInventory
 "Manage Stock",数量增加,module,Magento_CatalogInventory
 Backorders,延期交货,module,Magento_CatalogInventory
@@ -2256,11 +2257,11 @@ Backorders,延期交货,module,Magento_CatalogInventory
 "Out-of-Stock Threshold",股份制阈值,module,Magento_CatalogInventory
 "Minimum Qty Allowed in Shopping Cart",购物车中允许的最小数量,module,Magento_CatalogInventory
 "Notify for Quantity Below",对于下面的数量通知,module,Magento_CatalogInventory
-"Automatically Return Credit Memo Item to Stock",自动返回到股票的信用备忘项目,module,Magento_CatalogInventory
+"Automatically Return Credit Memo Item to Stock",自动将退款物品返回到库存中,module,Magento_CatalogInventory
 "Enable Qty Increments",启用数量增量,module,Magento_CatalogInventory
 "Qty Increments",数量的增量,module,Magento_CatalogInventory
-Stock,股票,module,Magento_CatalogInventory
-"Index stock",股票指数,module,Magento_CatalogInventory
+Stock,库存,module,Magento_CatalogInventory
+"Index stock",库存索引,module,Magento_CatalogInventory
 "Use Config Settings",使用配置设置,module,Magento_CatalogInventory
 "Qty Uses Decimals",数量使用小数,module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping",允许分箱物流快递,module,Magento_CatalogInventory
@@ -2538,8 +2539,8 @@ Websites,网站,module,Magento_CatalogStaging
 "Category URL Suffix","类别 URL 后缀",module,Magento_CatalogUrlRewrite
 "You need to refresh the cache.",您需要刷新缓存。,module,Magento_CatalogUrlRewrite
 "Product URL Suffix","商品 URL 后缀",module,Magento_CatalogUrlRewrite
-"Use Categories Path for Product URLs","商品 Url 的使用类别路径",module,Magento_CatalogUrlRewrite
-"Create Permanent Redirect for URLs if URL Key Changed","创建永久重定向的 url 如果更改了 URL 密钥",module,Magento_CatalogUrlRewrite
+"Use Categories Path for Product URLs","商品 URLs 的使用类别路径",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for URLs if URL Key Changed","创建永久重定向的 URLs 如果更改了 URL 密钥",module,Magento_CatalogUrlRewrite
 "Catalog Url Rewrite Staging",目录URL重写分级,module,Magento_CatalogUrlRewriteStaging
 "Conditions Combination",条件组合,module,Magento_CatalogWidget
 "Product Attribute",商品属性,module,Magento_CatalogWidget
@@ -4616,13 +4617,13 @@ Refunded,已退款,module,Magento_Downloadable
 "Downloadable Product Section",可下载的商品部分,module,Magento_Downloadable
 Downloads,下载商品,module,Magento_Downloadable
 "Downloadable Product Options",可下载的商品选项,module,Magento_Downloadable
-"Order Item Status to Enable Downloads",订单项的状态，使下载,module,Magento_Downloadable
-"Default Maximum Number of Downloads",默认最大数量的下载,module,Magento_Downloadable
+"Order Item Status to Enable Downloads",下载商品可用订单项状态,module,Magento_Downloadable
+"Default Maximum Number of Downloads",默认最大下载数量,module,Magento_Downloadable
 "Default Sample Title",默认标题示例,module,Magento_Downloadable
 "Default Link Title",默认链接标题,module,Magento_Downloadable
 "Open Links in New Window",在新窗口中打开链接,module,Magento_Downloadable
 "Use Content-Disposition",使用内容处置,module,Magento_Downloadable
-"Disable Guest Checkout if Cart Contains Downloadable Items",如果禁用来宾结帐车包含可下载的项目,module,Magento_Downloadable
+"Disable Guest Checkout if Cart Contains Downloadable Items",禁用访客结帐如果购物车车包含可下载的项目,module,Magento_Downloadable
 "Guest checkout will only work with shareable.",仅来宾结帐将可共享使用。,module,Magento_Downloadable
 "File directory '%1' is not readable.",文件目录“%1”不是写。,module,Magento_DownloadableImportExport
 "File directory '%1' is not writable.","文件目录 '%1' 不是可写的。",module,Magento_DownloadableImportExport
@@ -6170,8 +6171,8 @@ Remove,删除,module,Magento_LayeredNavigation
 "Shopping Options",购物的选项,module,Magento_LayeredNavigation
 "Layered Navigation",分层的导航,module,Magento_LayeredNavigation
 "Display Product Count",显示商品计数,module,Magento_LayeredNavigation
-"Price Navigation Step Calculation",价格导航步计算,module,Magento_LayeredNavigation
-"Default Price Navigation Step",默认价格导航步。,module,Magento_LayeredNavigation
+"Price Navigation Step Calculation",价格导航区间计算,module,Magento_LayeredNavigation
+"Default Price Navigation Step",默认价格导航区间。,module,Magento_LayeredNavigation
 "Maximum Number of Price Intervals",价格区间的最大数目,module,Magento_LayeredNavigation
 "Maximum number of price intervals is 100","价格区间的最大数目是 100",module,Magento_LayeredNavigation
 "Display Price Interval as One Price",作为一个价格显示价格区间,module,Magento_LayeredNavigation
@@ -7582,26 +7583,26 @@ User,用户,module,Magento_Paypal
 Price:,价格:,module,Magento_ProductAlert
 "Click here to stop alerts for this product.",单击此处停止这种商品的警报。,module,Magento_ProductAlert
 "Unsubscribe from all price alerts",退订所有价格提醒,module,Magento_ProductAlert
-"In stock alert! We wanted you to know that these products are now available:",在股票的警报!我们想让你知道这些商品现已可用:,module,Magento_ProductAlert
-"Unsubscribe from all stock alerts",退订所有股票警报,module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:",库存警报!我们想让你知道这些商品现已可用:,module,Magento_ProductAlert
+"Unsubscribe from all stock alerts",退订所有库存警报,module,Magento_ProductAlert
 "Product alerts Cron error","Product alerts Cron error",module,Magento_ProductAlert
 "Product alerts cron warnings","商品警报 cron 警告",module,Magento_ProductAlert
 "Products price changed alert","Products price changed alert",module,Magento_ProductAlert
 "%name,",%名称，,module,Magento_ProductAlert
 "Products back in stock alert","Products back in stock alert",module,Magento_ProductAlert
 "Product Alerts",商品警报,module,Magento_ProductAlert
-"Allow Alert When Product Price Changes",当商品价格发生更改时，允许警报,module,Magento_ProductAlert
-"Allow Alert When Product Comes Back in Stock",当商品在股票回来时，允许警报,module,Magento_ProductAlert
+"Allow Alert When Product Price Changes",当商品价格发生更改时允许警报,module,Magento_ProductAlert
+"Allow Alert When Product Comes Back in Stock",当商品重新有库存时允许警报,module,Magento_ProductAlert
 "Price Alert Email Template",价格预警电子邮件模板,module,Magento_ProductAlert
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_ProductAlert
-"Stock Alert Email Template",股票预警电子邮件模板,module,Magento_ProductAlert
+"Stock Alert Email Template",库存预警电子邮件模板,module,Magento_ProductAlert
 "Alert Email Sender",警报电子邮件发件人,module,Magento_ProductAlert
 "Product Alerts Run Settings",商品警报运行设置,module,Magento_ProductAlert
 Frequency,频率,module,Magento_ProductAlert
 "Start Time",开始时间,module,Magento_ProductAlert
-"Error Email Recipient",错误邮件模板,module,Magento_ProductAlert
-"Error Email Sender",错误的电子邮件发件人,module,Magento_ProductAlert
-"Error Email Template",错误的电子邮件模板,module,Magento_ProductAlert
+"Error Email Recipient",错误邮件收件人,module,Magento_ProductAlert
+"Error Email Sender",错误邮件发件人,module,Magento_ProductAlert
+"Error Email Template",错误邮件模板,module,Magento_ProductAlert
 "Notify me when the price drops","Notify me when the price drops",module,Magento_ProductAlert
 "Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert
 Url,网址,module,Magento_ProductVideo
@@ -8047,7 +8048,7 @@ Refunds,Refunds,module,Magento_Reports
 "Order Count","订单数",module,Magento_Reports
 New,New,module,Magento_Reports
 Ordered,Ordered,module,Magento_Reports
-"Recently Viewed/Compared Products",最近查看相比较的商品,module,Magento_Reports
+"Recently Viewed/Compared Products",最近查看/比较商品,module,Magento_Reports
 "Show for Current",显示为当前的,module,Magento_Reports
 "Default Recently Viewed Products Count",默认最近查看的商品计数,module,Magento_Reports
 "Default Recently Compared Products Count",默认最近比较商品计数,module,Magento_Reports
@@ -9337,7 +9338,7 @@ Item,商品,module,Magento_Sales
 "The order was placed using %1.","有一种订单使用 %1。",module,Magento_Sales
 "Shipping Information",运输方式,module,Magento_Sales
 "Items to Refund",退款的项目,module,Magento_Sales
-"Return to Stock",返回到股票,module,Magento_Sales
+"Return to Stock",返回到库存,module,Magento_Sales
 "Qty to Refund",退回的数量,module,Magento_Sales
 "Tax Amount",税额,module,Magento_Sales
 "Discount Amount",折扣金额,module,Magento_Sales
@@ -9887,7 +9888,7 @@ Qty,数量,module,Magento_ScalableInventory
 "Qty Uses Decimals",数量使用小数,module,Magento_ScalableInventory
 "Allow Multiple Boxes for Shipping",允许多个箱运输,module,Magento_ScalableInventory
 Backorders,延期交货,module,Magento_ScalableInventory
-"Use deferred Stock update",使用延迟股票更新,module,Magento_ScalableInventory
+"Use deferred Stock update",使用延迟库存更新,module,Magento_ScalableInventory
 "Notify for Quantity Below",需要提醒的最少数量,module,Magento_ScalableInventory
 "Enable Qty Increments",启用数量增量,module,Magento_ScalableInventory
 "Qty Increments",数量的增量,module,Magento_ScalableInventory
@@ -11315,7 +11316,7 @@ Configuration,设置,module,Magento_Theme
 "Title Suffix",标题后缀,module,Magento_Theme
 "Default Keywords",默认的关键字,module,Magento_Theme
 "Scripts and Style Sheets","Scripts and Style Sheets",module,Magento_Theme
-"This will be included before head closing tag in page HTML.","这将会包括头在页面 HTML 标签之前。",module,Magento_Theme
+"This will be included before head closing tag in page HTML.","这将会包括在 HTML 页面head关闭标签之前。",module,Magento_Theme
 "Display Demo Store Notice",显示演示商店通知,module,Magento_Theme
 Header,标题头,module,Magento_Theme
 "Logo Image","Logo 替代文字",module,Magento_Theme
@@ -11330,7 +11331,7 @@ Footer,页脚,module,Magento_Theme
 Copyright,版权：,module,Magento_Theme
 "Default Robots",默认机器人,module,Magento_Theme
 "Edit custom instruction of robots.txt File","编辑自定义指令的 robots.txt 文件",module,Magento_Theme
-"This action will delete your custom instructions and reset robots.txt file to system's default settings.","此操作将删除您的自定义说明并置 robots.txt 文件为系统的默认设置。",module,Magento_Theme
+"This action will delete your custom instructions and reset robots.txt file to system's default settings.","此操作将删除您的自定义指令并重置 robots.txt 文件为系统默认设置。",module,Magento_Theme
 Website,网站,module,Magento_Theme
 Store,商店,module,Magento_Theme
 "Store View","Store View",module,Magento_Theme
@@ -12174,7 +12175,7 @@ Thumbnail,缩略图,module,Magento_VisualMerchandiser
 Name,名字,module,Magento_VisualMerchandiser
 Price,价格,module,Magento_VisualMerchandiser
 SKU,SKU,module,Magento_VisualMerchandiser
-Stock,股票,module,Magento_VisualMerchandiser
+Stock,库存,module,Magento_VisualMerchandiser
 "Consumer is not authorized to access %resources",消费者未被授权访问%资源,module,Magento_Webapi
 "Operation allowed only in HTTPS",网络服务配置,module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","不能使用存储代码 'all '来执行 GET 操作",module,Magento_Webapi
