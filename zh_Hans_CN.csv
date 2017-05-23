@@ -522,6 +522,7 @@ Submit,提交,module,Magento_Backend
 "You flushed the cache storage.",你已刷新缓存存储。,module,Magento_Backend
 "The Magento cache storage has been flushed.","Magento 缓存存储已被刷新。",module,Magento_Backend
 "Cache Management",缓存管理,module,Magento_Backend
+"Changing can take some time due to processing whole catalog.",有时由于处理全部商品可能会发生变化,module,Magento_Backend
 "You can't change status of cache type(s) in production mode","You can't change status of cache type(s) in production mode",module,Magento_Backend
 "%1 cache type(s) disabled.","%1 缓存类型禁用。",module,Magento_Backend
 "An error occurred while disabling cache.",禁用缓存时出错。,module,Magento_Backend
@@ -1857,13 +1858,13 @@ Groups,团体,module,Magento_Catalog
 "Product online",商品在线,module,Magento_Catalog
 "Product offline",商品线下,module,Magento_Catalog
 "Product online status",商品在线状态,module,Magento_Catalog
-"Manage Stock",数量增加,module,Magento_Catalog
+"Manage Stock",管理库存,module,Magento_Catalog
 Qty,数量,module,Magento_Catalog
-"Out-of-Stock Threshold",股份制阈值,module,Magento_Catalog
+"Out-of-Stock Threshold",缺货阈值,module,Magento_Catalog
 "Minimum Qty Allowed in Shopping Cart",购物车中允许的最小数量,module,Magento_Catalog
 "Maximum Qty Allowed in Shopping Cart",购物车中允许的最大数量,module,Magento_Catalog
 "Qty Uses Decimals",数量使用小数,module,Magento_Catalog
-Backorders,延期交货,module,Magento_Catalog
+Backorders,缺货订单,module,Magento_Catalog
 "Notify for Quantity Below",对于下面的数量通知,module,Magento_Catalog
 "Enable Qty Increments",启用数量增量,module,Magento_Catalog
 "Qty Increments",数量的增量,module,Magento_Catalog
@@ -2208,7 +2209,7 @@ Edit,编辑,module,Magento_CatalogEvent
 "The stock item for Product in option is not valid.",库存商品选项中的不是有效的。,module,Magento_CatalogInventory
 "Undefined product type",未定义的商品类型,module,Magento_CatalogInventory
 "%1 is not a correct comparison method.","%1 不是一个正确的比较方法。",module,Magento_CatalogInventory
-"No Backorders",没有延期交货,module,Magento_CatalogInventory
+"No Backorders",没有缺货订单,module,Magento_CatalogInventory
 "Allow Qty Below 0","允许数量低于 0",module,Magento_CatalogInventory
 "Allow Qty Below 0 and Notify Customer","允许数量低于 0 并通知客户",module,Magento_CatalogInventory
 "In Stock",有货,module,Magento_CatalogInventory
@@ -2243,16 +2244,16 @@ Qty,数量,module,Magento_CatalogInventory
 "Inventory Section",库存类目,module,Magento_CatalogInventory
 Inventory,库存,module,Magento_CatalogInventory
 "Stock Options",库存选项,module,Magento_CatalogInventory
-"Decrease Stock When Order is Placed",减少库存时订单,module,Magento_CatalogInventory
-"Set Items' Status to be In Stock When Order is Cancelled",设置项目的状态，要在库存当订单被取消,module,Magento_CatalogInventory
-"Display Out of Stock Products",显示库存商品的出,module,Magento_CatalogInventory
+"Decrease Stock When Order is Placed",下单完成时减少库存,module,Magento_CatalogInventory
+"Set Items' Status to be In Stock When Order is Cancelled",订单被取消时设置商品有库存,module,Magento_CatalogInventory
+"Display Out of Stock Products",显示没有库存的商品,module,Magento_CatalogInventory
 "Products will still be shown by direct product URLs.","商品仍将通过直接商品 Url 所示。",module,Magento_CatalogInventory
-"Only X left Threshold","只留下阈值的 X",module,Magento_CatalogInventory
-"Display Products Availability in Stock on Storefront",显示商品的可用性在库存上的前端,module,Magento_CatalogInventory
+"Only X left Threshold","仅剩 X 件阀值",module,Magento_CatalogInventory
+"Display Products Availability in Stock on Storefront",前端显示商品的库存可用性,module,Magento_CatalogInventory
 "Product Stock Options",商品库存选项,module,Magento_CatalogInventory
-"Please note that these settings apply to individual items in the cart, not to the entire cart.",请注意，这些设置适用于单个项目的购物车，不到整个购物车中。,module,Magento_CatalogInventory
-"Manage Stock",数量增加,module,Magento_CatalogInventory
-Backorders,延期交货,module,Magento_CatalogInventory
+"Please note that these settings apply to individual items in the cart, not to the entire cart.","请注意，这些设置适用于购物车中单个商品，不适用整个购物车。",module,Magento_CatalogInventory
+"Manage Stock",管理库存,module,Magento_CatalogInventory
+Backorders,缺货订单,module,Magento_CatalogInventory
 "Maximum Qty Allowed in Shopping Cart",购物车中允许的最大数量,module,Magento_CatalogInventory
 "Out-of-Stock Threshold",股份制阈值,module,Magento_CatalogInventory
 "Minimum Qty Allowed in Shopping Cart",购物车中允许的最小数量,module,Magento_CatalogInventory
@@ -4624,7 +4625,7 @@ Downloads,下载商品,module,Magento_Downloadable
 "Open Links in New Window",在新窗口中打开链接,module,Magento_Downloadable
 "Use Content-Disposition",使用内容处置,module,Magento_Downloadable
 "Disable Guest Checkout if Cart Contains Downloadable Items",禁用访客结帐如果购物车车包含可下载的项目,module,Magento_Downloadable
-"Guest checkout will only work with shareable.",仅来宾结帐将可共享使用。,module,Magento_Downloadable
+"Guest checkout will only work with shareable.",访客结帐仅对可共享有效。,module,Magento_Downloadable
 "File directory '%1' is not readable.",文件目录“%1”不是写。,module,Magento_DownloadableImportExport
 "File directory '%1' is not writable.","文件目录 '%1' 不是可写的。",module,Magento_DownloadableImportExport
 Error,错误,module,Magento_DownloadableImportExport
@@ -9141,7 +9142,7 @@ Paid,最近查看过的,module,Magento_Sales
 Ordered,卖出,module,Magento_Sales
 Shipped,已开发票数量,module,Magento_Sales
 Invoiced,已出发票,module,Magento_Sales
-Backordered,延期交货,module,Magento_Sales
+Backordered,缺货订单,module,Magento_Sales
 Returned,已退回,module,Magento_Sales
 Partial,部分,module,Magento_Sales
 Mixed,混合,module,Magento_Sales
@@ -9876,18 +9877,18 @@ Labels,标签,module,Magento_SalesRuleStaging
 "Not enough arguments",没有足够的参数,module,Magento_SalesSequence
 "Fatal Error",致命错误,module,Magento_ScalableCheckout
 "Advanced Inventory",库存状况,module,Magento_ScalableInventory
-"Manage Stock",数量增加,module,Magento_ScalableInventory
+"Manage Stock",管理库存,module,Magento_ScalableInventory
 Yes,是,module,Magento_ScalableInventory
 No,否,module,Magento_ScalableInventory
 "Use Config Settings",使用配置设置,module,Magento_ScalableInventory
 [GLOBAL],[全局],module,Magento_ScalableInventory
 Qty,数量,module,Magento_ScalableInventory
-"Out-of-Stock Threshold",股份制阈值,module,Magento_ScalableInventory
+"Out-of-Stock Threshold",缺货阈值,module,Magento_ScalableInventory
 "Minimum Qty Allowed in Shopping Cart",购物车中允许的最小数量,module,Magento_ScalableInventory
 "Maximum Qty Allowed in Shopping Cart",购物车中允许的最大数量,module,Magento_ScalableInventory
 "Qty Uses Decimals",数量使用小数,module,Magento_ScalableInventory
 "Allow Multiple Boxes for Shipping",允许多个箱运输,module,Magento_ScalableInventory
-Backorders,延期交货,module,Magento_ScalableInventory
+Backorders,缺货订单,module,Magento_ScalableInventory
 "Use deferred Stock update",使用延迟库存更新,module,Magento_ScalableInventory
 "Notify for Quantity Below",需要提醒的最少数量,module,Magento_ScalableInventory
 "Enable Qty Increments",启用数量增量,module,Magento_ScalableInventory
