@@ -237,8 +237,8 @@ Edit,编辑,module,Magento_AdvancedSearch
 "Message has been rejected: %1","消息被拒绝: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous",检查是否主题是否同步时出错,module,Magento_Amqp
 "Subscription status",订阅状态,module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.",对不起，已处理您的请求时出错。请稍后再试。,module,Magento_Analytics
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","对不起，处理 Magento 分析您的注册请求时出错。请稍后再试。",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.",抱歉，已处理您的请求时出错。请稍后再试。,module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","抱歉，处理 Magento 分析您的注册请求时出错。请稍后再试。",module,Magento_Analytics
 "Error occurred during postponement notification",推迟通知的过程中出错,module,Magento_Analytics
 "Command was not found.",命令未找到。,module,Magento_Analytics
 "There was an error save new configuration value.",有保存新的配置值时出错。,module,Magento_Analytics
@@ -1019,7 +1019,7 @@ Delete,删除,module,Magento_Braintree
 "Credit Card Information",信用卡信息,module,Magento_Braintree
 "What is this?",这是什么？,module,Magento_Braintree
 "Save for later use.",保存供以后使用。,module,Magento_Braintree
-"Place Order",对不起，暂无报价可供此订单现在。,module,Magento_Braintree
+"Place Order",下单,module,Magento_Braintree
 "This payment is not available",这笔付款不可用,module,Magento_Braintree
 MM,月月,module,Magento_Braintree
 YY,年年,module,Magento_Braintree
@@ -1086,7 +1086,7 @@ Country,国家,module,Magento_BraintreeTwo
 "Allowed Credit Card Types",无法更新送货方式,module,Magento_BraintreeTwo
 "Add Rule",添加规则,module,Magento_BraintreeTwo
 "Braintree Settlement Report",Braintree结算报告,module,Magento_BraintreeTwo
-"Sorry, but something went wrong",对不起，但事情出了错,module,Magento_BraintreeTwo
+"Sorry, but something went wrong",抱歉，但事情出了错,module,Magento_BraintreeTwo
 "We can\'t initialize checkout.",我们未能初始化结账。,module,Magento_BraintreeTwo
 "No authorization transaction to proceed capture.",继续捕获未授权交易。,module,Magento_BraintreeTwo
 "Braintree error response.","Braintree 错误响应",module,Magento_BraintreeTwo
@@ -1130,7 +1130,7 @@ expires,到期,module,Magento_BraintreeTwo
 "Credit Card Information",信用卡信息,module,Magento_BraintreeTwo
 "What is this?",这是什么？,module,Magento_BraintreeTwo
 "Save for later use.",保存供以后使用。,module,Magento_BraintreeTwo
-"Place Order",对不起，暂无报价可供此订单现在。,module,Magento_BraintreeTwo
+"Place Order",下单,module,Magento_BraintreeTwo
 "This payment is not available",这笔付款不可用,module,Magento_BraintreeTwo
 MM,月,module,Magento_BraintreeTwo
 YY,年,module,Magento_BraintreeTwo
@@ -1259,7 +1259,7 @@ Shipped,已开发票数量,module,Magento_Bundle
 Refunded,已退款,module,Magento_Bundle
 Canceled,已取消,module,Magento_Bundle
 "As low as",低至,module,Magento_Bundle
-"Regular Price",定期的价格,module,Magento_Bundle
+"Regular Price",原价,module,Magento_Bundle
 From,从,module,Magento_Bundle
 To,至,module,Magento_Bundle
 "Buy %1 with %2 discount each","买 %1 与 %2 折扣每个",module,Magento_Bundle
@@ -1519,7 +1519,7 @@ Categories,分类,module,Magento_Catalog
 "There was a category move error.",出现了一个类别移动错误。,module,Magento_Catalog
 "You moved the category.","You moved the category.",module,Magento_Catalog
 "Attribute ""%1"" is required.","""%1""属性是必需的。",module,Magento_Catalog
-"You saved the category.",你保存的类别。,module,Magento_Catalog
+"You saved the category.",类别已保存,module,Magento_Catalog
 "Something went wrong while saving the category.",保存该类别时出了错。,module,Magento_Catalog
 "Please select products for attributes update.",请选择商品更新属性。,module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","请务必定义所有加工商品的 SKU 值。",module,Magento_Catalog
@@ -1549,11 +1549,11 @@ Catalog,目录重写,module,Magento_Catalog
 Products,商品,module,Magento_Catalog
 "A group with the same name already exists.",具有相同名称的组已存在。,module,Magento_Catalog
 "Something went wrong while saving this group.",保存该组时出了错。,module,Magento_Catalog
-"A total of %1 record(s) have been deleted.","已经删除 %1的记录",module,Magento_Catalog
-"A total of %1 record(s) have been updated.","已经更新 %1的记录",module,Magento_Catalog
+"A total of %1 record(s) have been deleted.","%1 条记录被删除",module,Magento_Catalog
+"A total of %1 record(s) have been updated.","%1 条记录被更新",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.",更新商品状态时出了错。,module,Magento_Catalog
 "Unable to save product",无法保存商品,module,Magento_Catalog
-"You saved the product.",你保存的商品。,module,Magento_Catalog
+"You saved the product.",商品已保存,module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","为商品 %1 SKU 已改为 %2。",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role",图像不能删除，因为它已被分配给其他图像作用,module,Magento_Catalog
 "New Attribute Set",新的属性集,module,Magento_Catalog
@@ -1845,7 +1845,7 @@ Groups,团体,module,Magento_Catalog
 "Please select a node.","Please select a node.",module,Magento_Catalog
 "Please enter a new group name.",请输入一个新的组名称。,module,Magento_Catalog
 "An attribute group named ""/name/"" already exists.","An attribute group named ""/name/"" already exists.",module,Magento_Catalog
-"Sorry, we're unable to complete this request.",对不起，我们无法完成这个请求。,module,Magento_Catalog
+"Sorry, we're unable to complete this request.",抱歉，我们无法完成这个请求。,module,Magento_Catalog
 "You can't remove attributes from this attribute set.",你不能移除此属性集的属性。,module,Magento_Catalog
 "Custom Options",自定义选项,module,Magento_Catalog
 "This is a required option.",这是必需的选项。,module,Magento_Catalog
@@ -1908,8 +1908,8 @@ Role,职能,module,Magento_Catalog
 "Unselect All",取消全选,module,Magento_Catalog
 "Select Visible",选择可见,module,Magento_Catalog
 "Unselect Visible",取消选择可见,module,Magento_Catalog
-"Special Price",特殊价格,module,Magento_Catalog
-"Regular Price",定期的价格,module,Magento_Catalog
+"Special Price",特价,module,Magento_Catalog
+"Regular Price",原价,module,Magento_Catalog
 "Buy %1 for:","买的 %1:",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","买 %2 每个 %1 和 <strong class=""benefit""> save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","购买每个 %2 的 %1",module,Magento_Catalog
@@ -1928,7 +1928,7 @@ Compare,比较,module,Magento_Catalog
 "Clear All",全部清除,module,Magento_Catalog
 Prev,上一页,module,Magento_Catalog
 Next,下一个,module,Magento_Catalog
-"We can't find products matching the selection.",我们找不到选择匹配的商品。,module,Magento_Catalog
+"We can't find products matching the selection.",没有匹配的商品。,module,Magento_Catalog
 "Learn More",了解更多,module,Magento_Catalog
 "Add to Compare",添加并比较,module,Magento_Catalog
 "We found other products you might like!",我们发现你可能会喜欢其他商品!,module,Magento_Catalog
@@ -2620,7 +2620,7 @@ items,项目,module,Magento_Checkout
 "The customer address is not valid.",客户地址不是有效的。,module,Magento_Checkout
 "Invalid shipping method",无效的运输方法,module,Magento_Checkout
 "There are more than one shipping addresses.",有多个送货地址。,module,Magento_Checkout
-"Sorry, guest checkout is not available.",对不起，访客结帐不是可用的。,module,Magento_Checkout
+"Sorry, guest checkout is not available.",抱歉，访客结帐不是可用的。,module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","您必须确认您的帐户，请检查您电子邮件的确认链接或<a href=""%1"">点击此处</a>打开一个新的链接。",module,Magento_Checkout
 "Load customer quote error",加载客户报价单错误,module,Magento_Checkout
 "Error message!",错误消息!,module,Magento_Checkout
@@ -2656,9 +2656,9 @@ Loading...,加载.....,module,Magento_Checkout
 "Proceed to Checkout",去结帐,module,Magento_Checkout
 "Product Name",商品名称,module,Magento_Checkout
 "Incl. Tax",含税,module,Magento_Checkout
-"Your order number is: %1.","您的订单编号是: %1。",module,Magento_Checkout
+"Your order number is: %1.","您的订单编号是: %1",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","您的订单号是: <span>%1</span>。",module,Magento_Checkout
-"We'll email you an order confirmation with details and tracking info.",我们马上给您发订单确认的详细信息和跟踪信息。,module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.",我们会马上给您发送订单确认的详细信息和物流信息。,module,Magento_Checkout
 "Payment Transaction Failed Reminder",付款交易记录失败提醒,module,Magento_Checkout
 "Payment Transaction Failed",付款交易记录失败,module,Magento_Checkout
 Reason,原因,module,Magento_Checkout
@@ -2681,7 +2681,7 @@ Cancel,取消,module,Magento_Checkout
 "Save in address book",保存到地址簿,module,Magento_Checkout
 "Estimated Total",估计总额,module,Magento_Checkout
 "You can create an account after checkout.",您可以在结账后创建帐户。,module,Magento_Checkout
-"You already have an account with us. Sign in or continue as guest.",您已经有账号了，可以登录或继续使用游客账号,module,Magento_Checkout
+"You already have an account with us. Sign in or continue as guest.",您已经有账号了，可以登录或继续使用访客账号,module,Magento_Checkout
 Login,登录,module,Magento_Checkout
 "See Details",查看详细信息,module,Magento_Checkout
 "Options Details",选项详细信息,module,Magento_Checkout
@@ -2690,7 +2690,7 @@ Remove,删除,module,Magento_Checkout
 "Payment Information",支付信息,module,Magento_Checkout
 "No Payment method available.",没有可用的付款方法。,module,Magento_Checkout
 "You can track your order status by creating an account.",通过创建一个帐户跟踪您的订单状态。,module,Magento_Checkout
-"Place Order",对不起，暂无报价可供此订单现在。,module,Magento_Checkout
+"Place Order",下单,module,Magento_Checkout
 "Forgot an Item?",消除一个商品吗?,module,Magento_Checkout
 "Edit Your Cart",编辑您的购物车,module,Magento_Checkout
 "Ship Here",送货到这里,module,Magento_Checkout
@@ -2698,11 +2698,11 @@ Remove,删除,module,Magento_Checkout
 edit,编辑,module,Magento_Checkout
 "Shipping Address",送货地址,module,Magento_Checkout
 "New Address",从您的地址簿选择发货地址，或输入新地址。,module,Magento_Checkout
-"Shipping Methods",送货方式,module,Magento_Checkout
+"Shipping Methods",物流方式,module,Magento_Checkout
 "Select Method",选择方法,module,Magento_Checkout
 "Method Title",方法标题,module,Magento_Checkout
 "Carrier Title",承运人名字,module,Magento_Checkout
-Next,下一个,module,Magento_Checkout
+Next,下一步,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time",抱歉，这个订单目前没有报价,module,Magento_Checkout
 "Order Summary",订单汇总,module,Magento_Checkout
 "View and Edit Cart","View and Edit Cart",module,Magento_Checkout
@@ -2718,7 +2718,7 @@ Shipping,送货,module,Magento_Checkout
 "Please specify a shipping method.","Please specify a shipping method.",module,Magento_Checkout
 "Checkout Options",结账选项,module,Magento_Checkout
 "Enable Onepage Checkout",使用同一页面结帐,module,Magento_Checkout
-"Allow Guest Checkout",允许游客结帐,module,Magento_Checkout
+"Allow Guest Checkout",允许访客结帐,module,Magento_Checkout
 "Display Billing Address On","Display Billing Address On",module,Magento_Checkout
 "Maximum Number of Items to Display in Order Summary","Maximum Number of Items to Display in Order Summary",module,Magento_Checkout
 "Quote Lifetime (days)","引述有效期 (天)",module,Magento_Checkout
@@ -2834,7 +2834,7 @@ CMS,CMS页面链接内联摸板,module,Magento_Cms
 "New Block",新的模块,module,Magento_Cms
 Blocks,模块,module,Magento_Cms
 "Please correct the data sent.",请更正发送的数据。,module,Magento_Cms
-"A total of %1 record(s) have been deleted.","已经删除 %1的记录",module,Magento_Cms
+"A total of %1 record(s) have been deleted.","%1 条记录被删除",module,Magento_Cms
 "You saved the block.",你保存的模块。,module,Magento_Cms
 "Something went wrong while saving the block.","Something went wrong while saving the block.",module,Magento_Cms
 "The page has been deleted.",该页面已被删除。,module,Magento_Cms
@@ -3029,9 +3029,9 @@ System,系统,module,Magento_Config
 "Specify a fully qualified URL.","指定一个完全合格的 URL。",module,Magento_Config
 "Selected allowed currency ""%1"" is not available in installed currencies.","所选允许的货币""%1""在已安装货币中不可用。",module,Magento_Config
 "Default display currency ""%1"" is not available in allowed currencies.","默认显示货币""%1""在允许货币中不可用。",module,Magento_Config
-"Sorry, we haven't installed the base currency you selected.",对不起，我们还没有安装您选择的基础货币。,module,Magento_Config
+"Sorry, we haven't installed the base currency you selected.",抱歉，我们还没有安装您选择的基础货币。,module,Magento_Config
 "We can't save the Cron expression.",我们不能保存货币表达式,module,Magento_Config
-"Sorry, we haven't installed the default display currency you selected.",对不起，我们还没有安装您选择的默认显示货币。,module,Magento_Config
+"Sorry, we haven't installed the default display currency you selected.",抱歉，我们还没有安装您选择的默认显示货币。,module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.",很抱歉，您所选的默认显示货币不可允许货币。,module,Magento_Config
 "Please correct the email address: ""%1"".","请正确的电子邮件地址:""%1""。",module,Magento_Config
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","发件人名称""%1""不是有效的。请使用仅可见字符和空格。",module,Magento_Config
@@ -3161,7 +3161,7 @@ Done,完成,module,Magento_ConfigurableProduct
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",module,Magento_ConfigurableProduct
 "Add Products Manually",手动添加商品,module,Magento_ConfigurableProduct
 "Create Configurations",创建商品选项,module,Magento_ConfigurableProduct
-"Current Variations",当前的变化,module,Magento_ConfigurableProduct
+"Current Variations",当前单品列表,module,Magento_ConfigurableProduct
 Image,图片,module,Magento_ConfigurableProduct
 Name,名字,module,Magento_ConfigurableProduct
 SKU,SKU,module,Magento_ConfigurableProduct
@@ -3222,8 +3222,8 @@ Select,选择,module,Magento_ConfigurableProduct
 "Remove Product",删除商品,module,Magento_ConfigurableProduct
 "Create Product Configurations",创建商品选项,module,Magento_ConfigurableProduct
 Cancel,取消,module,Magento_ConfigurableProduct
-"Special Price","Special Price",module,Magento_ConfigurableProduct
-"Regular Price","Regular Price",module,Magento_ConfigurableProduct
+"Special Price","特价",module,Magento_ConfigurableProduct
+"Regular Price","原价",module,Magento_ConfigurableProduct
 "New Product Review","New Product Review",module,Magento_ConfigurableProduct
 "Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
 "You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
@@ -3284,7 +3284,7 @@ Searchable,可搜索,module,Magento_ConfigurableProductStaging
 Comparable,可比性,module,Magento_ConfigurableProductStaging
 "Page not found.",找不到网页。,module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.",发送邮件至,module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.",我们现在无法处理您的请求。对不起，我们都知道。,module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.",我们现在无法处理您的请求。抱歉，我们都知道。,module,Magento_Contact
 "* Required Fields",*必要字段,module,Magento_Contact
 "Write Us",给我们写信,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.",我们会及时与您取得联系,module,Magento_Contact
@@ -3671,7 +3671,7 @@ frontend_label,frontend_label,module,Magento_Customer
 Label,标签,module,Magento_Customer
 Select...,选择...,module,Magento_Customer
 Edit,编辑,module,Magento_Customer
-Visitor,游客,module,Magento_Customer
+Visitor,访客,module,Magento_Customer
 Customer,客户,module,Magento_Customer
 "No item specified.",没有指定的项。,module,Magento_Customer
 "Are you sure you want to remove this item?",你确定要删除这个项目吗？,module,Magento_Customer
@@ -4158,7 +4158,7 @@ Status,状态,module,Magento_CustomerSegment
 Active,活动,module,Magento_CustomerSegment
 Inactive,未激活,module,Magento_CustomerSegment
 "Apply To",应用给,module,Magento_CustomerSegment
-"Visitors and Registered Customers",游客和已登记的客户,module,Magento_CustomerSegment
+"Visitors and Registered Customers",访客和已登记的客户,module,Magento_CustomerSegment
 "Registered Customers",已注册的客户,module,Magento_CustomerSegment
 Visitors,访客,module,Magento_CustomerSegment
 "Please save this information to specify segmentation conditions.",请保存此信息指定分割的条件。,module,Magento_CustomerSegment
@@ -4332,7 +4332,7 @@ Decision,决定,module,Magento_Cybersource
 "Authorize Only",仅供授权,module,Magento_Cybersource
 "Risk Factor Q","风险因子 Q",module,Magento_Cybersource
 "Risk Factor V","风险因子 V",module,Magento_Cybersource
-"Place Order",对不起，暂无报价可供此订单现在。,module,Magento_Cybersource
+"Place Order",下单,module,Magento_Cybersource
 Cybersource,Cybersource,module,Magento_Cybersource
 Enabled,启用,module,Magento_Cybersource
 "Payment Action",支付行为,module,Magento_Cybersource
@@ -4519,7 +4519,7 @@ Unlimited,无限,module,Magento_Downloadable
 "Please sign in to download your product.",请登录后下载您的商品。,module,Magento_Downloadable
 "The link has expired.",链接已过期。,module,Magento_Downloadable
 "The link is not available.",链接不可用。,module,Magento_Downloadable
-"Sorry, there was an error getting requested content. Please contact the store owner.",对不起，没有获取请求的内容时出错。请联系店主。,module,Magento_Downloadable
+"Sorry, there was an error getting requested content. Please contact the store owner.",抱歉，没有获取请求的内容时出错。请联系店主。,module,Magento_Downloadable
 "Please set resource file and link type.",请设置资源文件和链接类型。,module,Magento_Downloadable
 "Invalid download link type.",无效下载链接类型。,module,Magento_Downloadable
 "Something went wrong while saving the file(s).",在保存文件时出了错。,module,Magento_Downloadable
@@ -4910,7 +4910,7 @@ BeagleScore,BeagleScore,module,Magento_Eway
 "Response Code",响应代码,module,Magento_Eway
 "Fraud Message",欺诈邮件,module,Magento_Eway
 "Approve Message",批准的消息,module,Magento_Eway
-"Sorry, but something went wrong",对不起，但事情出了错,module,Magento_Eway
+"Sorry, but something went wrong",抱歉，但事情出了错,module,Magento_Eway
 "Wrong response type",错误的反应类型,module,Magento_Eway
 "Transaction has been declined. Please try again later.",交易记录已被拒绝。请稍后再试。,module,Magento_Eway
 "Authorize Only",仅供授权,module,Magento_Eway
@@ -5940,7 +5940,7 @@ Reauthorize,批准,module,Magento_Integration
 "You did not sign in correctly or your account is temporarily disabled.",登录不正确或者您的账号已禁用。,module,Magento_Integration
 "This user has no tokens.",此用户已没有标记。,module,Magento_Integration
 "The tokens could not be revoked.",标记不会被吊销。,module,Magento_Integration
-"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.",对不起，出了错授予权限。你可以找出更多的异常日志。,module,Magento_Integration
+"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.",抱歉，出了错授予权限。你可以找出更多的异常日志。,module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.",删除角色和权限时出了错。你可以找出更多的异常日志。,module,Magento_Integration
 "%fieldName is a required field.","%fieldName is a required field.",module,Magento_Integration
 "This customer has no tokens.",该客户有没有标记。,module,Magento_Integration
@@ -5992,7 +5992,7 @@ Reset,重置,module,Magento_Integration
 Custom,自定义,module,Magento_Integration
 All,全部,module,Magento_Integration
 Resources,资源,module,Magento_Integration
-"Sorry, something went wrong. Please try again later.","对不起， 出错了，请稍候再试",module,Magento_Integration
+"Sorry, something went wrong. Please try again later.","抱歉， 出错了，请稍候再试",module,Magento_Integration
 "Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
 Allow,允许,module,Magento_Integration
 Done,完成,module,Magento_Integration
@@ -6298,7 +6298,7 @@ Reports,报告,module,Magento_Logging
 "Tax Rates",税率,module,Magento_Logging
 "XML Sitemap","XML 网站地图",module,Magento_Logging
 Widget,部件,module,Magento_Logging
-"Cache Management",管理商店,module,Magento_Logging
+"Cache Management",缓存管理,module,Magento_Logging
 "PayPal Settlement Reports",PayPal结算报告,module,Magento_Logging
 "Archive File",存档文件,module,Magento_Logging
 Date,日期,module,Magento_Logging
@@ -6561,7 +6561,7 @@ Total,总额,module,Magento_Multishipping
 "Select Addresses",选择地址,module,Magento_Multishipping
 "Shipping Information",运输方式,module,Magento_Multishipping
 "Billing Information",订单总览,module,Magento_Multishipping
-"Place Order",对不起，暂无报价可供此订单现在。,module,Magento_Multishipping
+"Place Order",下单,module,Magento_Multishipping
 "Order Success",订单成功,module,Magento_Multishipping
 "Default Billing",默认账单,module,Magento_Multishipping
 "Default Shipping",默认发货,module,Magento_Multishipping
@@ -6603,7 +6603,7 @@ Subtotal,小计,module,Magento_Multishipping
 Items,商品,module,Magento_Multishipping
 "Grand Total:",总计:,module,Magento_Multishipping
 "Submitting order information...",提交订单信息。。。,module,Magento_Multishipping
-"Sorry, no quotes are available for this order right now.",对不起，没有引号现在可用于此订单。,module,Magento_Multishipping
+"Sorry, no quotes are available for this order right now.",抱歉，没有引号现在可用于此订单。,module,Magento_Multishipping
 "Continue to Billing Information",继续到帐单信息,module,Magento_Multishipping
 "Back to Select Addresses",返回选择地址,module,Magento_Multishipping
 "Thank you for your purchase!",感谢您的购买！,module,Magento_Multishipping
@@ -6809,8 +6809,9 @@ Store,商店,module,Magento_Newsletter
 "Purchase Order Number: %1","采购订单编号: %1",module,Magento_OfflinePayments
 "Make Check payable to",对支付检查,module,Magento_OfflinePayments
 "Send Check to",支票寄到,module,Magento_OfflinePayments
-"Place Order",对不起，暂无报价可供此订单现在。,module,Magento_OfflinePayments
+"Place Order",下单,module,Magento_OfflinePayments
 "Check / Money Order",支票/汇票,module,Magento_OfflinePayments
+"Check / Money order",支票/汇票,module,Magento_OfflinePayments
 Enabled,启用,module,Magento_OfflinePayments
 "New Order Status",新订单状态,module,Magento_OfflinePayments
 "Sort Order",排序,module,Magento_OfflinePayments
@@ -7095,7 +7096,7 @@ Never,永不,module,Magento_Paypal
 "The payment is pending because it was made to an email address that is not yet registered or confirmed.",该付款正在等待，因为它是由一个电子邮件地址，尚未登记或确认。,module,Magento_Paypal
 "The merchant account is not yet verified.",商户尚未证明。,module,Magento_Paypal
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.",通过信用卡付款。为了得到资金商人必须升级帐户到业务或总理的地位。,module,Magento_Paypal
-"Sorry, but something went wrong. Please contact PayPal customer service.","对不起，但东西走错了。请联系 PayPal 客户服务。",module,Magento_Paypal
+"Sorry, but something went wrong. Please contact PayPal customer service.","抱歉，但东西走错了。请联系 PayPal 客户服务。",module,Magento_Paypal
 "A reversal has occurred on this transaction due to a chargeback by your customer.",由于您的客户计费的这笔交易发生了逆转。,module,Magento_Paypal
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.",由于触发退款保证您客户的这笔交易发生了逆转。,module,Magento_Paypal
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.",从您的客户交易投诉此交易发生了逆转。,module,Magento_Paypal
@@ -7346,14 +7347,14 @@ Create...,创建...,module,Magento_Paypal
 "Shipping Method",运送方式,module,Magento_Paypal
 "Please select a shipping method...",请选择送货方式...,module,Magento_Paypal
 "Update Shipping Method",更新送货方式,module,Magento_Paypal
-"Sorry, no quotes are available for this order right now.",对不起，目前没有报价可用于此订单。,module,Magento_Paypal
+"Sorry, no quotes are available for this order right now.",抱歉，目前没有报价可用于此订单。,module,Magento_Paypal
 "Shipping Address",送货地址,module,Magento_Paypal
 Edit,编辑,module,Magento_Paypal
 "Buy now with PayPal",使用Paypal支付,module,Magento_Paypal
 "Edit Payment Information",编辑付款信息,module,Magento_Paypal
 "Items in Your Shopping Cart",您的购物车中的商品,module,Magento_Paypal
 "Edit Shopping Cart",编辑购物车,module,Magento_Paypal
-"Place Order",对不起，暂无报价可供此订单现在。,module,Magento_Paypal
+"Place Order",下单,module,Magento_Paypal
 "Submitting order information...",提交订单信息。。。,module,Magento_Paypal
 Item,商品,module,Magento_Paypal
 Price,价格,module,Magento_Paypal
@@ -7965,7 +7966,7 @@ ID,ID,module,Magento_Reports
 "First Name",名,module,Magento_Reports
 "Last Name",姓,module,Magento_Reports
 "Items in Cart",购物车中,module,Magento_Reports
-"Products in carts",在车中的商品,module,Magento_Reports
+"Products in carts",购物车的商品,module,Magento_Reports
 Carts,购物车,module,Magento_Reports
 Name,名字,module,Magento_Reports
 "Wish Lists",愿望单,module,Magento_Reports
@@ -8006,7 +8007,7 @@ Coupons,优惠券,module,Magento_Reports
 "Shopping Cart",购物车,module,Magento_Reports
 "Abandoned Carts",遗弃的购物车,module,Magento_Reports
 "Customer Shopping Carts",客户购物车,module,Magento_Reports
-"Products in Carts",在车中的商品,module,Magento_Reports
+"Products in Carts",购物车的商品,module,Magento_Reports
 Statistics,统计数据,module,Magento_Reports
 "No report code is specified.",指定没有报告代码。,module,Magento_Reports
 "You refreshed lifetime statistics.",你刷新生存时间统计。,module,Magento_Reports
@@ -8039,7 +8040,7 @@ Error,错误,module,Magento_Reports
 "Recently Compared",最近比较,module,Magento_Reports
 "Learn More",了解更多,module,Magento_Reports
 Marketing,市场营销,module,Magento_Reports
-"Products in Cart","购物车中商品",module,Magento_Reports
+"Products in Cart","购物车的商品",module,Magento_Reports
 "Abandoned Cart",遗弃的购物车,module,Magento_Reports
 "Search Terms",搜索词,module,Magento_Reports
 "By Customers","用户评论",module,Magento_Reports
@@ -8168,9 +8169,9 @@ Reviews,评论,module,Magento_Review
 "Edit Review",编辑审阅,module,Magento_Review
 "We can't retrieve the product ID.","我们无法检索商品 id。",module,Magento_Review
 "Please select review(s).",请选择请稍后再试。,module,Magento_Review
-"A total of %1 record(s) have been deleted.","已经删除 %1的记录",module,Magento_Review
+"A total of %1 record(s) have been deleted.","%1 条记录被删除",module,Magento_Review
 "Something went wrong while deleting these records.",在删除这些记录时，出了错。,module,Magento_Review
-"A total of %1 record(s) have been updated.","已经更新 %1的记录",module,Magento_Review
+"A total of %1 record(s) have been updated.","%1 条记录被更新",module,Magento_Review
 "Something went wrong while updating these review(s).",在更新这些请稍后再试时出了错。,module,Magento_Review
 "You saved the review.",你保存的审查。,module,Magento_Review
 "Something went wrong while saving this review.",保存此审查时出了错。,module,Magento_Review
@@ -8206,14 +8207,14 @@ Back,后退,module,Magento_Review
 "Submitted on %1","在 %1 上提交",module,Magento_Review
 "Back to My Reviews",回到我的评论,module,Magento_Review
 "Ratings Review Summary",分级审查摘要,module,Magento_Review
-"Be the first to review this product",成为第一个审查此商品,module,Magento_Review
+"Be the first to review this product",成为第一个评论此商品的人,module,Magento_Review
 "Write Your Own Review",编写您自己的评论,module,Magento_Review
 "* Required Fields",*必要字段,module,Magento_Review
 "You're reviewing:",您正在查看:,module,Magento_Review
 "Your Rating",您的评级,module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 Summary,用户中心,module,Magento_Review
-"Submit Review",提交的评论,module,Magento_Review
+"Submit Review",提交评论,module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
 "Add Your Review",添加您的评论,module,Magento_Review
 "%1 Review(s)","%1 请稍后再试",module,Magento_Review
@@ -9319,7 +9320,7 @@ Subtotal:,小计：,module,Magento_Sales
 "Move to Wish List",移动到收藏清单,module,Magento_Sales
 "Subscribe to Newsletter",订阅资讯,module,Magento_Sales
 "Click to change shipping method",单击要更改的运输方法。,module,Magento_Sales
-"Sorry, no quotes are available for this order.",对不起，没有引号都可用此订单。,module,Magento_Sales
+"Sorry, no quotes are available for this order.",抱歉，没有引号都可用此订单。,module,Magento_Sales
 "Get shipping methods and rates",让送货方式及费率,module,Magento_Sales
 "You don't need to select a shipping method.",你不需要选择送货方式。,module,Magento_Sales
 "Customer's Activities",客户活动,module,Magento_Sales
@@ -9436,7 +9437,7 @@ Close,关闭,module,Magento_Sales
 "Recent Orders",最近的订单,module,Magento_Sales
 "View All",查看全部,module,Magento_Sales
 "Gift Message for This Order",此订单的礼物留言,module,Magento_Sales
-"Recently Ordered","Recently Ordered",module,Magento_Sales
+"Recently Ordered","近期购买",module,Magento_Sales
 "Add to Cart",添加到购物车,module,Magento_Sales
 Search,搜索,module,Magento_Sales
 "Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
@@ -9790,8 +9791,8 @@ Inactive,未激活,module,Magento_SalesRule
 "Some coupons are invalid.",一些优惠券是无效的。,module,Magento_SalesRule
 "Item totals are not set for the rule.",项目总计不会设定规则。,module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 购物车价格规则，基于""%2""属性已被禁用。",module,Magento_SalesRule
-"Apply Discount Code",应用折扣代码,module,Magento_SalesRule
-"Enter discount code",请输入折扣代码,module,Magento_SalesRule
+"Apply Discount Code",应用折扣码,module,Magento_SalesRule
+"Enter discount code",请输入折扣码,module,Magento_SalesRule
 "Apply Discount",应用折扣,module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
@@ -9939,7 +9940,7 @@ Password,密码,module,Magento_ScheduledImportExport
 "No valid data sent",没有有效的数据传送,module,Magento_ScheduledImportExport
 "You deleted the history files.",你删除的历史记录文件。,module,Magento_ScheduledImportExport
 "We can't delete the history files right now.",我们现在不能删除历史记录文件。,module,Magento_ScheduledImportExport
-"A total of %1 record(s) have been updated.","已经更新 %1的记录",module,Magento_ScheduledImportExport
+"A total of %1 record(s) have been updated.","%1 条记录被更新",module,Magento_ScheduledImportExport
 "We cannot change status for all items.",我们不能改变所有的商品状态。,module,Magento_ScheduledImportExport
 "You deleted a total of %1 record(s).",你一共有%1的记录删除。,module,Magento_ScheduledImportExport
 "We can't delete all the items right now.",我们现在不能删除所有商品。,module,Magento_ScheduledImportExport
@@ -10597,7 +10598,7 @@ Report,报告,module,Magento_Support
 "Paths file already exists",已经存在的路径文件,module,Magento_Support
 "Paths file cannot be created",不能创建路径文件,module,Magento_Support
 "Please select item(s).",请选择项目。,module,Magento_Support
-"A total of %1 record(s) have been deleted.","已经删除 %1的记录",module,Magento_Support
+"A total of %1 record(s) have been deleted.","%1 条记录被删除",module,Magento_Support
 Support,支持,module,Magento_Support
 "Data Collector",数据采集器,module,Magento_Support
 "The backup has been saved.",已保存备份。,module,Magento_Support
@@ -11223,7 +11224,7 @@ Global,全局,module,Magento_Theme
 "We can't upload the CSS file right now.","我们现在不能上传的 CSS 文件。",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","我们找不到 id 为""%1""的主题。",module,Magento_Theme
 "We can't upload the JS file right now.","我们现在不能上传 JS 文件。",module,Magento_Theme
-"Sorry, something went wrong. That's all we know.",对不起，出了错。这是我们都知道。,module,Magento_Theme
+"Sorry, something went wrong. That's all we know.",抱歉，出了错。这是我们都知道。,module,Magento_Theme
 "Invalid type",无效的类型,module,Magento_Theme
 "Invalid scope or scope id","Invalid scope or scope id",module,Magento_Theme
 "%1 does not contain field '%2'","%1 does not contain field '%2'",module,Magento_Theme
@@ -11278,7 +11279,7 @@ Show,显示,module,Magento_Theme
 "per page",每页,module,Magento_Theme
 "About the calendar",分类,module,Magento_Theme
 Close,关闭,module,Magento_Theme
-"Go Today",今天去,module,Magento_Theme
+"Go Today",今天,module,Magento_Theme
 WK,WK,module,Magento_Theme
 Time,时间,module,Magento_Theme
 Hour,小时,module,Magento_Theme
@@ -11537,7 +11538,7 @@ Residential,住宅,module,Magento_Ups
 Commercial,商业,module,Magento_Ups
 Pounds,公斤,module,Magento_Ups
 Kilograms,公斤,module,Magento_Ups
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.",对不起，出了一些错。请再试一次或联系我们，我们会尽力帮助。,module,Magento_Ups
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.",抱歉，出了一些错。请再试一次或联系我们，我们会尽力帮助。,module,Magento_Ups
 "We can't convert a rate from ""%1-%2"".","我们不能从""%1-%2""转换利率。",module,Magento_Ups
 "Cannot retrieve shipping rates",无法检索运费,module,Magento_Ups
 status,状态,module,Magento_Ups
@@ -11884,7 +11885,7 @@ No,否,module,Magento_Usps
 "Not Required",最大包装重量（请参阅您的装运承运人的最大支持装运重量）,module,Magento_Usps
 Required,必填,module,Magento_Usps
 "For some reason we can't retrieve tracking info right now.",出于某种原因，我们无法检索跟踪信息现在。,module,Magento_Usps
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.",对不起，出了一些错。请再试一次或联系我们，我们会尽力帮助。,module,Magento_Usps
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.",抱歉，出了一些错。请再试一次或联系我们，我们会尽力帮助。,module,Magento_Usps
 track_summary,track_summary,module,Magento_Usps
 "Empty response",空响应,module,Magento_Usps
 "Service type does not match",服务类型不匹配,module,Magento_Usps
@@ -12554,5 +12555,5 @@ Footer,页脚,theme,frontend/Magento/luma
 "Account Information","账户信息",theme,frontend/Magento/luma
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","可配置的商品让客户选择选项 (Ex: 衬衫的颜色)。您需要创建一个简单的商品，为每个配置 (Ex: 为每种颜色的商品)。",module,Magento_ConfigurableProduct
 "View and edit cart",查看和编辑购物车,module,Magento_Checkout
-"Item in Cart",购物里的商品,module,Magento_Checkout
+"Item in Cart",件商品在购物车中,module,Magento_Checkout
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation. If field is empty default value localhost will be saved.","IPs 的访问列表分隔与 '，'，可以清除配置文件生成的清漆配置。如果字段为空将保存默认值 localhost。",module,Magento_PageCache
