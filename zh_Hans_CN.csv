@@ -86,8 +86,8 @@ Quantity,数量,module,Magento_AdvancedCheckout
 Products,商品,module,Magento_AdvancedCheckout
 ID,编号ID,module,Magento_AdvancedCheckout
 SKU,商品编号SKU,module,Magento_AdvancedCheckout
-"Recently Compared Products (%1)","最近比较的商品 (%1)",module,Magento_AdvancedCheckout
-"Recently Viewed Products (%1)","最近浏览过的商品 (%1)",module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","近期比较的商品 (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","近期浏览过的商品 (%1)",module,Magento_AdvancedCheckout
 "Add to Shopping Cart by SKU",根据商品编号SKU添加到购物车,module,Magento_AdvancedCheckout
 "Add to Shopping Cart",添加到购物车,module,Magento_AdvancedCheckout
 "Wish List (%1)","收藏夹 (%1)",module,Magento_AdvancedCheckout
@@ -264,7 +264,7 @@ Vertical,Vertical,module,Magento_Analytics
 "Analytics Subscription",订阅分析,module,Magento_Analytics
 "Subscription Confirmation",订阅确认,module,Magento_Analytics
 Cancel,取消,module,Magento_Analytics
-Ok,OK,module,Magento_Analytics
+OK,确定,module,Magento_Analytics
 "I agree with sending my system configuration and transaction data to Magento Analytics.","我同意将我的系统配置和交易数据发送到 Magento 分析。",module,Magento_Analytics
 Back,返回,module,Magento_AsynchronousOperations
 Done,完成,module,Magento_AsynchronousOperations
@@ -604,7 +604,7 @@ password,密码,module,Magento_Backend
 "No Data Found",找不到数据,module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","图表被禁用。若要启用图表，请单击 <a href=""%1""> 这里</a>。",module,Magento_Backend
 "Last Orders",近期订单,module,Magento_Backend
-"Last Search Terms",最近搜索词,module,Magento_Backend
+"Last Search Terms",近期搜索词,module,Magento_Backend
 "Top Search Terms",热门搜索词,module,Magento_Backend
 "There are no search keywords.",没有关键搜索词。,module,Magento_Backend
 "View Statistics For:",查看统计信息为:,module,Magento_Backend
@@ -1430,7 +1430,7 @@ Empty,"商品 %1",module,Magento_Catalog
 "Attribute Sets",属性集,module,Magento_Catalog
 "Product Name",商品名称,module,Magento_Catalog
 "Close Window",关闭窗口,module,Magento_Catalog
-"New Product",新商品,module,Magento_Catalog
+"New Product",新品,module,Magento_Catalog
 "Save & Edit",保存与编辑,module,Magento_Catalog
 "Save & New",保存与新,module,Magento_Catalog
 "Save & Duplicate",保存与重复,module,Magento_Catalog
@@ -1502,7 +1502,7 @@ PM,下午,module,Magento_Catalog
 "-- Please Select --","-- 请选择 --",module,Magento_Catalog
 None,无,module,Magento_Catalog
 "New Products from %1","%1 的新商品",module,Magento_Catalog
-"New Products",新商品,module,Magento_Catalog
+"New Products",新品,module,Magento_Catalog
 "%1 - Special Products",%1-特殊商品,module,Magento_Catalog
 "Click for price",单击获取价格,module,Magento_Catalog
 "Special Expires On: %1","特别到期日期: %1",module,Magento_Catalog
@@ -1569,8 +1569,8 @@ Products,商品,module,Magento_Catalog
 "You cleared the comparison list.",你清除了比较列表。,module,Magento_Catalog
 "Something went wrong  clearing the comparison list.",什么地方出毛病结算比较列表。,module,Magento_Catalog
 "You removed product %1 from the comparison list.","您从比较列表中删除商品 %1。",module,Magento_Catalog
-"1 item","商品 %1",module,Magento_Catalog
-"%1 items","%1 项目",module,Magento_Catalog
+"%1 item","%1 件商品",module,Magento_Catalog
+"%1 items","%1 件商品",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
 "Invalid attribute %1","无效属性 %1",module,Magento_Catalog
@@ -1936,8 +1936,6 @@ Next,下一个,module,Magento_Catalog
 "Check items to add to the cart or",检查物品添加到购物车或,module,Magento_Catalog
 "select all",全选,module,Magento_Catalog
 "Items %1-%2 of %3","项目 %1%2 的 %3",module,Magento_Catalog
-"%1 Item","%1 项目",module,Magento_Catalog
-"%1 Items","%1 项目",module,Magento_Catalog
 Show,显示,module,Magento_Catalog
 "per page",每页,module,Magento_Catalog
 "Sort By",按排序,module,Magento_Catalog
@@ -1952,7 +1950,7 @@ Availability,库存,module,Magento_Catalog
 Submit,提交,module,Magento_Catalog
 "We don't recognize or support this file extension type.",我们不承认或支持该文件扩展类型。,module,Magento_Catalog
 "Configure Product",配置商品,module,Magento_Catalog
-OK,OK,module,Magento_Catalog
+OK,确定,module,Magento_Catalog
 "This value does not follow the specified format (for example, 200X300).","This value does not follow the specified format (for example, 200X300).",module,Magento_Catalog
 "Select type of option.",选择选项的类型。,module,Magento_Catalog
 "Please add rows to option.",请将行添加到选项。,module,Magento_Catalog
@@ -2004,7 +2002,7 @@ Comma-separated.,以逗号分隔。,module,Magento_Catalog
 "Please use a four-digit year format.",请使用四位数年份格式。,module,Magento_Catalog
 "Use Static URLs for Media Content in WYSIWYG for Catalog","在商品媒体内容WYSIWYG编辑器中使用静态 URLs",module,Magento_Catalog
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","这仅适用于商品和类别，媒体内容将作为静态 URL 插入编辑器。如果系统设置的基准 URL 发生变化，媒体内容不会更新。",module,Magento_Catalog
-"Top Level Category",最高层次的范畴,module,Magento_Catalog
+"Top Level Category",顶级类别,module,Magento_Catalog
 "Product Flat Data",商品平面数据,module,Magento_Catalog
 "Reorganize EAV product structure to flat structure","重新整理 EAV 商品结构为平面结构",module,Magento_Catalog
 "Category Flat Data",类别平面数据,module,Magento_Catalog
@@ -2022,7 +2020,7 @@ Comma-separated.,以逗号分隔。,module,Magento_Catalog
 "Display Type",显示类型,module,Magento_Catalog
 "All products - recently added products, New products - products marked as new",所有商品-最近添加的商品，新商品-标记为新的商品,module,Magento_Catalog
 "All products",所有商品,module,Magento_Catalog
-"New products",新商品,module,Magento_Catalog
+"New products",新品,module,Magento_Catalog
 "Display Page Control",如果没有设置，默认为86400。为了实是更新，请清空HTML块缓存输出,module,Magento_Catalog
 "Number of Products per Page",每页显示的商品数量,module,Magento_Catalog
 "Number of Products to Display",显示商品的数量,module,Magento_Catalog
@@ -2247,7 +2245,7 @@ Inventory,库存,module,Magento_CatalogInventory
 "Decrease Stock When Order is Placed",下单完成时减少库存,module,Magento_CatalogInventory
 "Set Items' Status to be In Stock When Order is Cancelled",订单被取消时设置商品有库存,module,Magento_CatalogInventory
 "Display Out of Stock Products",显示没有库存的商品,module,Magento_CatalogInventory
-"Products will still be shown by direct product URLs.","商品仍将通过直接商品 Url 所示。",module,Magento_CatalogInventory
+"Products will still be shown by direct product URLs.","商品仍将通过商品 URLs 直接显示。",module,Magento_CatalogInventory
 "Only X left Threshold","仅剩 X 件阀值",module,Magento_CatalogInventory
 "Display Products Availability in Stock on Storefront",前端显示商品的库存可用性,module,Magento_CatalogInventory
 "Product Stock Options",商品库存选项,module,Magento_CatalogInventory
@@ -2710,7 +2708,7 @@ Next,下一步,module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.",提供的邮政编码似乎无效。,module,Magento_Checkout
 Example:,示例︰,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.",如果你觉的是正确的，可以忽略此通知。,module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","你确定要从购物车中移除此商品吗？",module,Magento_Checkout
 "Review & Payments",审查及付款,module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
 Shipping,送货,module,Magento_Checkout
@@ -3787,7 +3785,7 @@ Password:,密码:,module,Magento_Customer
 "Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","We have received a request to change the following information associated with your account at %store_name: email, password.",module,Magento_Customer
 "Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
-"There was recently a request to change the password for your account.",最近被更改为您的帐户密码的请求。,module,Magento_Customer
+"There was recently a request to change the password for your account.",近期有一个更改您帐户密码的请求。,module,Magento_Customer
 "If you requested this change, set a new password here:",如果您要求此更改，在这里设置一个新密码:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.",如果你并没有提出这一请求，您可以忽略这封电子邮件，您的密码将保持不变。,module,Magento_Customer
 "Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
@@ -4490,9 +4488,9 @@ Fixer.io,Fixer.io,module,Magento_Directory
 Webservicex,Webservicex,module,Magento_Directory
 "Scheduled Import Settings",定时导入设置,module,Magento_Directory
 Enabled,启用,module,Magento_Directory
-"Error Email Recipient",错误邮件模板,module,Magento_Directory
-"Error Email Sender",错误的电子邮件发件人,module,Magento_Directory
-"Error Email Template",错误的电子邮件模板,module,Magento_Directory
+"Error Email Recipient",报错邮件收件人,module,Magento_Directory
+"Error Email Sender",报错邮件发件人,module,Magento_Directory
+"Error Email Template",报错邮件模板,module,Magento_Directory
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Directory
 Frequency,频率,module,Magento_Directory
 Service,服务,module,Magento_Directory
@@ -5260,7 +5258,7 @@ From,从,module,Magento_GiftMessage
 To,至,module,Magento_GiftMessage
 Message,信息,module,Magento_GiftMessage
 Cancel,取消,module,Magento_GiftMessage
-OK,OK,module,Magento_GiftMessage
+OK,确定,module,Magento_GiftMessage
 "Gift Options",请将此框留空，如果你不想留下礼物消息的整个订单。,module,Magento_GiftMessage
 "Gift Message",礼品消息,module,Magento_GiftMessage
 "Do you have any gift items in your order?",您在您的订单有任何礼品吗?,module,Magento_GiftMessage
@@ -6241,7 +6239,7 @@ New,新建,module,Magento_Logging
 "Forgot Password",忘记密码?,module,Magento_Logging
 "Global Search",全局搜索,module,Magento_Logging
 Apply,应用,module,Magento_Logging
-Reorder,获取,module,Magento_Logging
+Reorder,再次购买,module,Magento_Logging
 Print,打印,module,Magento_Logging
 Email,邮箱,module,Magento_Logging
 Run,跑,module,Magento_Logging
@@ -7331,7 +7329,7 @@ Updated:,更新:,module,Magento_Paypal
 "Payment Method:",支付方式:,module,Magento_Paypal
 "Order #","订单 #",module,Magento_Paypal
 Date,日期,module,Magento_Paypal
-"Ship To",船到,module,Magento_Paypal
+"Ship To",运送到,module,Magento_Paypal
 "Order Status",订单状态,module,Magento_Paypal
 "View Order",查看订单,module,Magento_Paypal
 "Back to Billing Agreements",回到计费协定,module,Magento_Paypal
@@ -7557,13 +7555,13 @@ User,用户,module,Magento_Paypal
 "Enable ""Remember Me""","启用""记住我""",module,Magento_Persistent
 """Remember Me"" Default Value","""记住我""的默认值",module,Magento_Persistent
 "Clear Persistence on Sign Out",清除上注销的持久性,module,Magento_Persistent
-"Persist Shopping Cart",坚持购物车,module,Magento_Persistent
-"Persist Wish List",保留收藏清单,module,Magento_PersistentHistory
-"Persist Recently Ordered Items",坚持最近订购的物料,module,Magento_PersistentHistory
-"Persist Currently Compared Products",坚持目前比较的商品,module,Magento_PersistentHistory
-"Persist Comparison History",坚持比较历史,module,Magento_PersistentHistory
-"Persist Recently Viewed Products",坚持最近查看过的商品,module,Magento_PersistentHistory
-"Persist Customer Group Membership and Segmentation",坚持客户组成员资格和分割,module,Magento_PersistentHistory
+"Persist Shopping Cart",保存购物车,module,Magento_Persistent
+"Persist Wish List",保存收藏清单,module,Magento_PersistentHistory
+"Persist Recently Ordered Items",保存近期订购的物料,module,Magento_PersistentHistory
+"Persist Currently Compared Products",保存目前比较的商品,module,Magento_PersistentHistory
+"Persist Comparison History",保存比较历史,module,Magento_PersistentHistory
+"Persist Recently Viewed Products",保存近期查看过的商品,module,Magento_PersistentHistory
+"Persist Customer Group Membership and Segmentation",保存客户组成员资格和分割,module,Magento_PersistentHistory
 "Read Product Price",查阅商品价格,module,Magento_PricePermissions
 "Edit Product Price",编辑商品价格,module,Magento_PricePermissions
 "Edit Product Status",编辑商品状态,module,Magento_PricePermissions
@@ -7602,9 +7600,9 @@ Price:,价格:,module,Magento_ProductAlert
 "Product Alerts Run Settings",商品警报运行设置,module,Magento_ProductAlert
 Frequency,频率,module,Magento_ProductAlert
 "Start Time",开始时间,module,Magento_ProductAlert
-"Error Email Recipient",错误邮件收件人,module,Magento_ProductAlert
-"Error Email Sender",错误邮件发件人,module,Magento_ProductAlert
-"Error Email Template",错误邮件模板,module,Magento_ProductAlert
+"Error Email Recipient",报错邮件收件人,module,Magento_ProductAlert
+"Error Email Sender",报错邮件发件人,module,Magento_ProductAlert
+"Error Email Template",报错邮件模板,module,Magento_ProductAlert
 "Notify me when the price drops","Notify me when the price drops",module,Magento_ProductAlert
 "Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert
 Url,网址,module,Magento_ProductVideo
@@ -7940,7 +7938,7 @@ Items,商品,module,Magento_Reports
 Revenue,收入,module,Magento_Reports
 Profit,利润,module,Magento_Reports
 Invoiced,已出发票,module,Magento_Reports
-Paid,最近查看过的,module,Magento_Reports
+Paid,已付款,module,Magento_Reports
 Refunded,已退款,module,Magento_Reports
 "Sales Tax",消费税,module,Magento_Reports
 Tax,税,module,Magento_Reports
@@ -8031,13 +8029,13 @@ Error,错误,module,Magento_Reports
 "Number of Wish List conversions: %1","收藏夹转换号码: %1",module,Magento_Reports
 "Show Report For:",显示的报表:,module,Magento_Reports
 "All Websites",所有网站,module,Magento_Reports
-"Recently Viewed",最近浏览过的,module,Magento_Reports
+"Recently Viewed",近期浏览过的,module,Magento_Reports
 "Add to Cart",添加到购物车,module,Magento_Reports
 "In stock",有货,module,Magento_Reports
 "Out of stock",缺货,module,Magento_Reports
 "Add to Wish List",添加到收藏夹,module,Magento_Reports
 "Add to Compare",添加并比较,module,Magento_Reports
-"Recently Compared",最近比较,module,Magento_Reports
+"Recently Compared",近期比较,module,Magento_Reports
 "Learn More",了解更多,module,Magento_Reports
 Marketing,市场营销,module,Magento_Reports
 "Products in Cart","购物车的商品",module,Magento_Reports
@@ -8050,24 +8048,24 @@ Refunds,Refunds,module,Magento_Reports
 "Order Count","订单数",module,Magento_Reports
 New,New,module,Magento_Reports
 Ordered,Ordered,module,Magento_Reports
-"Recently Viewed/Compared Products",最近查看/比较商品,module,Magento_Reports
+"Recently Viewed/Compared Products",近期查看/比较商品,module,Magento_Reports
 "Show for Current",显示为当前的,module,Magento_Reports
-"Default Recently Viewed Products Count",默认最近查看的商品计数,module,Magento_Reports
-"Default Recently Compared Products Count",默认最近比较商品计数,module,Magento_Reports
+"Default Recently Viewed Products Count",默认近期查看的商品计数,module,Magento_Reports
+"Default Recently Compared Products Count",默认近期比较商品计数,module,Magento_Reports
 Dashboard,控制面板,module,Magento_Reports
 "Year-To-Date Starts",当年起始日期,module,Magento_Reports
 "Current Month Starts",当月起始日,module,Magento_Reports
 "Select day of the month.",选择一个月的一天。,module,Magento_Reports
-"Recently Viewed Products",最近浏览过的商品,module,Magento_Reports
-"List of Products Recently Viewed by Visitor",访客最近浏览过的商品列表,module,Magento_Reports
+"Recently Viewed Products",近期浏览过的商品,module,Magento_Reports
+"List of Products Recently Viewed by Visitor",访客近期浏览过的商品列表,module,Magento_Reports
 "Number of Products to display",显示商品的数量,module,Magento_Reports
 "Viewed Products Grid Template",查看的商品网格模板,module,Magento_Reports
 "Viewed Products List Template",查看的商品列表模板,module,Magento_Reports
 "Viewed Products Images and Names Template",查看的商品图片和名称模板,module,Magento_Reports
 "Viewed Products Names Only Template",查看的商品名称唯一模板,module,Magento_Reports
 "Viewed Products Images Only Template",查看的商品图片只有模板,module,Magento_Reports
-"Recently Compared Products",最近查看过的商品,module,Magento_Reports
-"List of Products Recently Compared and Removed from the Compare List by Visitor",最近的商品列表相比，从访客在比较列表中删除,module,Magento_Reports
+"Recently Compared Products",近期查看过的商品,module,Magento_Reports
+"List of Products Recently Compared and Removed from the Compare List by Visitor",近期的商品列表相比，从访客在比较列表中删除,module,Magento_Reports
 "Compared Products Grid Template",比较的商品网格模板,module,Magento_Reports
 "Compared Products List Template",比较商品列表模板,module,Magento_Reports
 "Compared Products Images and Names Template",比较的商品图像和名称模板,module,Magento_Reports
@@ -8200,7 +8198,7 @@ Actions,动作,module,Magento_Review
 "See Details",查看具体信息,module,Magento_Review
 "You have submitted no reviews.",你没有提交评论。,module,Magento_Review
 Back,后退,module,Magento_Review
-"My Recent Reviews",我最近的评论,module,Magento_Review
+"My Recent Reviews",我近期的评论,module,Magento_Review
 "View All",查看全部,module,Magento_Review
 "Average Customer Rating:",平均客户评级:,module,Magento_Review
 "Your Review",您的评论,module,Magento_Review
@@ -8210,8 +8208,8 @@ Back,后退,module,Magento_Review
 "Be the first to review this product",成为第一个评论此商品的人,module,Magento_Review
 "Write Your Own Review",编写您自己的评论,module,Magento_Review
 "* Required Fields",*必要字段,module,Magento_Review
-"You're reviewing:",您正在查看:,module,Magento_Review
-"Your Rating",您的评级,module,Magento_Review
+"You're reviewing:",您正在评论:,module,Magento_Review
+"Your Rating",您的评分,module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 Summary,用户中心,module,Magento_Review
 "Submit Review",提交评论,module,Magento_Review
@@ -8430,7 +8428,7 @@ Close,关闭,module,Magento_Rma
 Print,打印,module,Magento_Rma
 "Return #%1 - %2","返回 #%1-%2",module,Magento_Rma
 "RMA Item Details","RMA 物料详细信息",module,Magento_Rma
-OK,OK,module,Magento_Rma
+OK,确定,module,Magento_Rma
 Cancel,取消,module,Magento_Rma
 "Delete Image",全尺寸视图,module,Magento_Rma
 "View Full Size",查看全部尺寸,module,Magento_Rma
@@ -8725,7 +8723,7 @@ Answers,答案,module,Magento_Rma
 "We received your return request. You will be notified when your request is reviewed.",我们收到您返回的请求。审查您的请求时，您将收到通知。,module,Magento_Rma
 "Placed on %created_at","放在 %created_at",module,Magento_Rma
 "Click Details for more required fields.",对于更多所需字段单击详细信息。,module,Magento_Rma
-Ok,Ok,module,Magento_Rma
+OK,确定,module,Magento_Rma
 "Create Packages","Create Packages",module,Magento_Rma
 "Add Package","Add Package",module,Magento_Rma
 "RMA Settings","RMA 设置",module,Magento_Rma
@@ -8765,7 +8763,7 @@ Feed,"RSS 订阅源",module,Magento_Rss
 "Get Feed",得到饲料,module,Magento_Rss
 "RSS Feeds Section","RSS Feeds Section",module,Magento_Rss
 "RSS Feeds","RSS 源",module,Magento_Rss
-"Rss Config","Rss 配置",module,Magento_Rss
+"Rss Config","RSS 配置",module,Magento_Rss
 "Enable RSS","启动 RSS",module,Magento_Rss
 Apply,应用,module,Magento_Rule
 "Please choose a valid discount amount.","没有关于实体类型“% 1”的相关信息",module,Magento_Rule
@@ -8857,10 +8855,10 @@ Quantity,数量,module,Magento_Sales
 "Are you sure you want to delete all items from shopping cart?",你确定你想要从购物车中删除所有商品?,module,Magento_Sales
 "Clear Shopping Cart",没有付款方式,module,Magento_Sales
 "Products in Comparison List",在比较列表中的商品,module,Magento_Sales
-"Recently Compared Products",最近查看过的商品,module,Magento_Sales
-"Recently Viewed Products",最近浏览过的商品,module,Magento_Sales
+"Recently Compared Products",近期查看过的商品,module,Magento_Sales
+"Recently Viewed Products",近期浏览过的商品,module,Magento_Sales
 "Last Ordered Items",去年订购的商品,module,Magento_Sales
-"Recently Viewed",最近浏览过的,module,Magento_Sales
+"Recently Viewed",近期浏览过的,module,Magento_Sales
 "Wish List",收藏夹,module,Magento_Sales
 "Please select a store",请选择一个商店,module,Magento_Sales
 "Order Totals",订单合计,module,Magento_Sales
@@ -9132,7 +9130,7 @@ Canceled,已取消,module,Magento_Sales
 "Could not delete credit memo",不能删除的贷项通知单,module,Magento_Sales
 "Could not save credit memo",不能保存的贷项通知单,module,Magento_Sales
 "This order already has associated customer account",这项命令已经有关联的客户帐户,module,Magento_Sales
-Paid,最近查看过的,module,Magento_Sales
+Paid,近期查看过的,module,Magento_Sales
 "We cannot register an existing invoice",我们不能注册现有的发票,module,Magento_Sales
 "We can't create creditmemo for the invoice.","We can't create creditmemo for the invoice.",module,Magento_Sales
 "Order Id is required for invoice document","Order Id is required for invoice document",module,Magento_Sales
@@ -9434,7 +9432,7 @@ Close,关闭,module,Magento_Sales
 "Refund #%1","退款 #%1",module,Magento_Sales
 "Shipment #%1","装运 #%1",module,Magento_Sales
 "Qty Shipped",已发货数量,module,Magento_Sales
-"Recent Orders",最近的订单,module,Magento_Sales
+"Recent Orders",近期订单,module,Magento_Sales
 "View All",查看全部,module,Magento_Sales
 "Gift Message for This Order",此订单的礼物留言,module,Magento_Sales
 "Recently Ordered","近期购买",module,Magento_Sales
@@ -9469,7 +9467,7 @@ Search,搜索,module,Magento_Sales
 "Gift Options for",礼物的选项,module,Magento_Sales
 "Add Products",添加商品,module,Magento_Sales
 "You have item changes","You have item changes",module,Magento_Sales
-Ok,OK,module,Magento_Sales
+OK,确定,module,Magento_Sales
 Operations,运营,module,Magento_Sales
 Create,Create,module,Magento_Sales
 "Send Order Email","Send Order Email",module,Magento_Sales
@@ -10006,9 +10004,9 @@ label,标签,module,Magento_ScheduledImportExport
 "Scheduled Import/Export File History Cleaning",预定清洗的导入/导出文件历史记录,module,Magento_ScheduledImportExport
 "Save Files, Days",保存文件，天,module,Magento_ScheduledImportExport
 "Enable Scheduled File History Cleaning",启用定时的文件历史记录清洗,module,Magento_ScheduledImportExport
-"Error Email Recipient",错误邮件模板,module,Magento_ScheduledImportExport
-"Error Email Sender",错误的电子邮件发件人,module,Magento_ScheduledImportExport
-"Error Email Template",错误的电子邮件模板,module,Magento_ScheduledImportExport
+"Error Email Recipient",报错邮件收件人,module,Magento_ScheduledImportExport
+"Error Email Sender",报错邮件发件人,module,Magento_ScheduledImportExport
+"Error Email Template",报错邮件模板,module,Magento_ScheduledImportExport
 Delete,删除,module,Magento_ScheduledImportExport
 "Are you sure you want to delete the selected scheduled imports/exports?",是否确实要删除所选计划的进口/出口?,module,Magento_ScheduledImportExport
 "Change Status",更改状态,module,Magento_ScheduledImportExport
@@ -10179,10 +10177,10 @@ Back,后退,module,Magento_SendFriend
 Enabled,启用,module,Magento_SendFriend
 "Select Email Template",选择电子邮件模板,module,Magento_SendFriend
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_SendFriend
-"Allow for Guests",允许为访客,module,Magento_SendFriend
-"Max Recipients",最大收件人,module,Magento_SendFriend
-"Max Products Sent in 1 Hour","在 1 小时内发送的最大商品",module,Magento_SendFriend
-"Limit Sending By",限制通过发送,module,Magento_SendFriend
+"Allow for Guests",允许访客,module,Magento_SendFriend
+"Max Recipients",收件人数最大值,module,Magento_SendFriend
+"Max Products Sent in 1 Hour","1 小时内发送商品数量最大值",module,Magento_SendFriend
+"Limit Sending By",限制发送方式,module,Magento_SendFriend
 "New Shipment for Order #%1","新的出运订单 #%1",module,Magento_Shipping
 "Submit Shipment",提交装运,module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.",您试图添加一些商品的数量不匹配被运的数量。,module,Magento_Shipping
@@ -10440,23 +10438,23 @@ All,全部,module,Magento_Sitemap
 "Categories Options",类别选项,module,Magento_Sitemap
 Frequency,频率,module,Magento_Sitemap
 Priority,优先级,module,Magento_Sitemap
-"Valid values range from 0.0 to 1.0.","有效值范围从 0.0 到 1.0。",module,Magento_Sitemap
+"Valid values range from 0.0 to 1.0.","有效值范围从 0.0 到 1.0",module,Magento_Sitemap
 "Products Options",商品选项,module,Magento_Sitemap
 "Add Images into Sitemap",将图像添加到网站地图,module,Magento_Sitemap
 "CMS Pages Options","CMS 页选项",module,Magento_Sitemap
 "Generation Settings",生成设置,module,Magento_Sitemap
 Enabled,启用,module,Magento_Sitemap
-"Error Email Recipient",错误邮件模板,module,Magento_Sitemap
-"Error Email Sender",错误的电子邮件发件人,module,Magento_Sitemap
-"Error Email Template",错误的电子邮件模板,module,Magento_Sitemap
+"Error Email Recipient",报错邮件收件人,module,Magento_Sitemap
+"Error Email Sender",报错邮件发件人,module,Magento_Sitemap
+"Error Email Template",报错邮件模板,module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Sitemap
 "Start Time",开始时间,module,Magento_Sitemap
 "Sitemap File Limits",网站地图文件限制,module,Magento_Sitemap
-"Maximum No of URLs Per File","不是的每个文件的 Url 的最大值",module,Magento_Sitemap
+"Maximum No of URLs Per File","每个文件 URLs 的最大数值",module,Magento_Sitemap
 "Maximum File Size",最大文件大小,module,Magento_Sitemap
-"File size in bytes.","文件大小 (字节)。",module,Magento_Sitemap
+"File size in bytes.","文件大小 (字节)",module,Magento_Sitemap
 "Search Engine Submission Settings",搜索引擎提交设置,module,Magento_Sitemap
-"Enable Submission to Robots.txt","启用到 Robots.txt 提交",module,Magento_Sitemap
+"Enable Submission to Robots.txt","启用提交到 Robots.txt",module,Magento_Sitemap
 ID,ID,module,Magento_Sitemap
 "Link for Google",谷歌的链接,module,Magento_Sitemap
 "Last Generated",最后一次生成,module,Magento_Sitemap
@@ -11469,9 +11467,9 @@ Keyword,关键词,module,Magento_Ui
 "Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.",module,Magento_Ui
 "The date is not within the specified range.","The date is not within the specified range.",module,Magento_Ui
 Attention,注意,module,Magento_Ui
-OK,OK,module,Magento_Ui
+OK,确定,module,Magento_Ui
 Close,关闭,module,Magento_Ui
-Ok,OK,module,Magento_Ui
+OK,确定,module,Magento_Ui
 "Log JS Errors to Session Storage","对会话存储日志 JS 错误",module,Magento_Ui
 "Log JS Errors to Session Storage Key","JS 错误记录到会话存储密钥",module,Magento_Ui
 Action,操作,module,Magento_Ui
@@ -11764,8 +11762,8 @@ Resources,资源,module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告! \r\nThis 操作将删除这些用户从已分配 roles\r\nAre 你确定吗?",module,Magento_User
 "Password Reset Confirmation for %name","Password Reset Confirmation for %name",module,Magento_User
 "%name,",%名称，,module,Magento_User
-"There was recently a request to change the password for your account.",最近被更改为您的帐户密码的请求。,module,Magento_User
-"If you requested this change, reset your password here:",如果您要求此更改，重置您的密码在这里:,module,Magento_User
+"There was recently a request to change the password for your account.",近期有一个更改您账户密码的请求。,module,Magento_User
+"If you requested this change, reset your password here:",如果您请求更改，在此重置您的密码:,module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.",如果你并没有提出这一请求，您可以忽略这封电子邮件，您的密码将保持不变。,module,Magento_User
 "Thank you,",谢谢,module,Magento_User
 "New %changes for %user_name","New %changes for %user_name",module,Magento_User
@@ -12343,13 +12341,13 @@ Conditions,条件,module,Magento_Widget
 "Your wish list has been shared.",已共享您的期望列表。,module,Magento_Wishlist
 "We can't delete item from Wish List right now.",我们现在不能从愿望列表中删除项目。,module,Magento_Wishlist
 "Can't save description %1","无法保存描述 %1",module,Magento_Wishlist
-"Can't update wish list",不能更新的收藏夹,module,Magento_Wishlist
+"Can't update wish list",不能更新收藏夹,module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 已更新您的愿望列表中。",module,Magento_Wishlist
 "We can't update your Wish List right now.",我们现在无法更新您的期望列表。,module,Magento_Wishlist
 "The requested Wish List doesn't exist.",请求的愿望列表不存在。,module,Magento_Wishlist
 "We can't create the Wish List right now.",我们不能创造收藏清单现在。,module,Magento_Wishlist
-"%1 items","%1 项目",module,Magento_Wishlist
-"1 item","商品 %1",module,Magento_Wishlist
+"%1 items","%1 件商品",module,Magento_Wishlist
+"%1 item","%1 件商品",module,Magento_Wishlist
 Comment,评论,module,Magento_Wishlist
 "Display number of items in wish list",在收藏夹中显示项目的数,module,Magento_Wishlist
 "Display item quantities",显示物料数量,module,Magento_Wishlist
@@ -12373,12 +12371,12 @@ message,信息,module,Magento_Wishlist
 Message,信息,module,Magento_Wishlist
 error-message,错误消息,module,Magento_Wishlist
 LocalizedException,LocalizedException,module,Magento_Wishlist
-"Product Exception.",商品的异常。,module,Magento_Wishlist
+"Product Exception.",商品异常。,module,Magento_Wishlist
 "Localized Exception.",本地化例外。,module,Magento_Wishlist
 "Are you sure you want to remove this item?",你确定要删除这个项目吗？,module,Magento_Wishlist
-"Share Wish List",分享的收藏夹,module,Magento_Wishlist
+"Share Wish List",分享收藏夹,module,Magento_Wishlist
 "Add All to Cart",全部添加到购物车,module,Magento_Wishlist
-"Update Wish List",更新的收藏夹,module,Magento_Wishlist
+"Update Wish List",更新收藏夹,module,Magento_Wishlist
 "Move to Wishlist",移动到收藏,module,Magento_Wishlist
 "Add to Wish List",添加到收藏夹,module,Magento_Wishlist
 "View Product",查看商品,module,Magento_Wishlist
@@ -12407,7 +12405,7 @@ Back,后退,module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","在这里请检查链接的 RSS 饲料你收藏夹。",module,Magento_Wishlist
 "Last Added Items",最后添加的项,module,Magento_Wishlist
 "Remove This Item",删除该内容,module,Magento_Wishlist
-"Go to Wish List",去希望列表,module,Magento_Wishlist
+"Go to Wish List",查看收藏夹,module,Magento_Wishlist
 "You have no items in your wish list.",收藏夹为空。,module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name 想要与你分享从 %store_name 这个收藏夹:",module,Magento_Wishlist
