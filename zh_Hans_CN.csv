@@ -148,7 +148,7 @@ Customers,客户,module,Magento_AdvancedCheckout
 No,否,module,Magento_AdvancedCheckout
 "The file is corrupt.",该文件已损坏。,module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","请上传.csv 格式的文件。",module,Magento_AdvancedCheckout
-"%1 item(s) need your attention.","%1 项目需要您的关注。",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 项需要您的关注。",module,Magento_AdvancedCheckout
 "Apply Coupon Code",适用的优惠券代码,module,Magento_AdvancedCheckout
 "Remove Coupon Code",删除优惠券代码,module,Magento_AdvancedCheckout
 Remove,删除,module,Magento_AdvancedCheckout
@@ -270,18 +270,18 @@ Back,返回,module,Magento_AsynchronousOperations
 Done,完成,module,Magento_AsynchronousOperations
 Retry,重试,module,Magento_AsynchronousOperations
 "'Action Details - #' .","' 操作详情-#'。",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.""","%1 项目已定于更新。""",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","%1 项已定于更新。""",module,Magento_AsynchronousOperations
 "Bulk Actions Log",批量操作日志,module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","目前正在更新的项目 （%1）。",module,Magento_AsynchronousOperations
 "Task ""%1"":","""%1""的任务︰",module,Magento_AsynchronousOperations
-"%1 item(s) have been scheduled for update.","%1 项目已定于更新。",module,Magento_AsynchronousOperations
-"%1 item(s) have been successfully updated.","%1 项目已成功更新。",module,Magento_AsynchronousOperations
-"%1 item(s) failed to update","%1 项目更新失败",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.","%1 项已定于更新。",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 项已成功更新。",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","%1 项更新失败",module,Magento_AsynchronousOperations
 Details,详情,module,Magento_AsynchronousOperations
 "View Details",查看详情,module,Magento_AsynchronousOperations
 Dismiss,忽略,module,Magento_AsynchronousOperations
 "Pending, in queue...",挂起，队列中......,module,Magento_AsynchronousOperations
-"%1 items selected for mass update","%1 项目选择大规模更新",module,Magento_AsynchronousOperations
+"%1 items selected for mass update","%1 项选择大规模更新",module,Magento_AsynchronousOperations
 ", %1 successfully updated","，已成功更新 %1",module,Magento_AsynchronousOperations
 ", %1 failed to update",", %1 更新失败",module,Magento_AsynchronousOperations
 "Something went wrong.",出了点问题。,module,Magento_AsynchronousOperations
@@ -2439,8 +2439,8 @@ Product,商品,module,Magento_CatalogSearch
 "Short Description",简介,module,Magento_CatalogSearch
 Search,搜索,module,Magento_CatalogSearch
 "Advanced Search",高级搜索,module,Magento_CatalogSearch
-"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 项目</strong> 被发现使用以下搜索条件",module,Magento_CatalogSearch
-"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 项目</strong> 被发现使用以下搜索条件",module,Magento_CatalogSearch
+"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 项</strong> 被发现使用以下搜索条件",module,Magento_CatalogSearch
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 项</strong> 被发现使用以下搜索条件",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.",我们找不到任何这些搜索条件匹配的项。,module,Magento_CatalogSearch
 "Modify your search.",修改您的搜索。,module,Magento_CatalogSearch
 name,名字,module,Magento_CatalogSearch
@@ -2567,8 +2567,8 @@ City,城市,module,Magento_Checkout
 Country,国家,module,Magento_Checkout
 State/Province,州/省,module,Magento_Checkout
 "Zip/Postal Code",邮编,module,Magento_Checkout
-"My Cart (1 item)","我的购物车 (1 项)",module,Magento_Checkout
-"My Cart (%1 items)","我的购物车 (%1 项目)",module,Magento_Checkout
+"My Cart (1 item)","我的购物车 (1 件)",module,Magento_Checkout
+"My Cart (%1 items)","我的购物车 (%1 件)",module,Magento_Checkout
 "My Cart",我的购物车,module,Magento_Checkout
 "For delivery questions.",为交货问题。,module,Magento_Checkout
 "Customer is already registered",客户已注册,module,Magento_Checkout
@@ -5381,7 +5381,7 @@ Customers,客户,module,Magento_GiftRegistry
 "We can't save this gift registry type right now.",我们现在不能保存此礼物注册表类型。,module,Magento_GiftRegistry
 "Page not found.",找不到网页。,module,Magento_GiftRegistry
 "Please correct the gift registry ID.","请更正礼物注册表 id。",module,Magento_GiftRegistry
-"%1 item(s) have been added to the gift registry.","%1 项目已添加到礼品登记。",module,Magento_GiftRegistry
+"%1 item(s) have been added to the gift registry.","%1 项已添加到礼品登记。",module,Magento_GiftRegistry
 "We have nothing to add to this gift registry.",我们没有什么要添加到此礼品登记。,module,Magento_GiftRegistry
 "You can't add virtual products, digital products or gift cards to gift registries.","你不能添加虚拟商品、 数码商品或礼品卡礼品登记册。",module,Magento_GiftRegistry
 "You deleted this gift registry.",您删除此礼品登记。,module,Magento_GiftRegistry
@@ -6418,10 +6418,10 @@ Customers,客户,module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1""已存在于 %2。",module,Magento_MultipleWishlist
 "We can't copy ""%1"".","We can't copy ""%1"".",module,Magento_MultipleWishlist
 "We can't copy the wish list item.",我们不能移动的收藏列表项。,module,Magento_MultipleWishlist
-"We can't find %1 items.","我们找不到 %1 项目。",module,Magento_MultipleWishlist
-"We can't copy %1 items.","我们不能复制 %1 项目。",module,Magento_MultipleWishlist
-"%1 items are already present in %2: %3.","%1 项目目前已经在 %2: %3。",module,Magento_MultipleWishlist
-"%1 items were copied to %2: %3.","%1 项目已被复制到 %2: %3。",module,Magento_MultipleWishlist
+"We can't find %1 items.","我们找不到 %1 项。",module,Magento_MultipleWishlist
+"We can't copy %1 items.","我们不能复制 %1 项。",module,Magento_MultipleWishlist
+"%1 items are already present in %2: %3.","%1 项目前已经在 %2: %3。",module,Magento_MultipleWishlist
+"%1 items were copied to %2: %3.","%1 项已被复制到 %2: %3。",module,Magento_MultipleWishlist
 "You can't delete the default wish list.",您不能删除默认的收藏列表。,module,Magento_MultipleWishlist
 "Wish List ""%1"" has been deleted.","收藏清单""%1""已被删除。",module,Magento_MultipleWishlist
 "We can't delete the wish list right now.",我们现在不能删除收藏清单。,module,Magento_MultipleWishlist
@@ -6429,9 +6429,9 @@ Customers,客户,module,Magento_MultipleWishlist
 "We can't find an item with this ID.","我们找不到项目与此 id。",module,Magento_MultipleWishlist
 "We cannot move ""%1"".","我们不能移动""%1""。",module,Magento_MultipleWishlist
 "We can't move the wish list item.",我们不能移动的收藏列表项。,module,Magento_MultipleWishlist
-"%1 items cannot be moved: %2.","无法移动 %1 项目: %2。",module,Magento_MultipleWishlist
-"We can't move %1 items.","我们不能移动 %1 项目。",module,Magento_MultipleWishlist
-"%1 items were moved to %2: %3.","%1 项目被移动到 %2: %3。",module,Magento_MultipleWishlist
+"%1 items cannot be moved: %2.","无法移动 %1 项: %2。",module,Magento_MultipleWishlist
+"We can't move %1 items.","我们不能移动 %1 项。",module,Magento_MultipleWishlist
+"%1 items were moved to %2: %3.","%1 项被移动到 %2: %3。",module,Magento_MultipleWishlist
 "%1 for ""%2""","""%2""%1",module,Magento_MultipleWishlist
 "We can't add the item to shopping cart.",我们不能将该项目添加到购物车。,module,Magento_MultipleWishlist
 "We can't add the following product(s) to shopping cart: %1.","我们不能向购物车添加以下商品: %1。",module,Magento_MultipleWishlist
@@ -6836,7 +6836,7 @@ Region/State,地区/州,module,Magento_OfflineShipping
 "# of Items vs. Destination","# 的项目与目标",module,Magento_OfflineShipping
 "Weight (and above)","重量 (及以上)",module,Magento_OfflineShipping
 "Order Subtotal (and above)","订单小计 (及以上)",module,Magento_OfflineShipping
-"# of Items (and above)","# 项目 (及以上)",module,Magento_OfflineShipping
+"# of Items (and above)","# 项 (及以上)",module,Magento_OfflineShipping
 "Please correct Table Rate code type: %1.","请更正表率代码类型: %1。",module,Magento_OfflineShipping
 "Please correct Table Rate code for type %1: %2.","请更正表率类型 %1 代码: %2。",module,Magento_OfflineShipping
 None,无,module,Magento_OfflineShipping
@@ -8517,19 +8517,19 @@ Price,价格,module,Magento_Rma
 "%1 RMA (s) have been closed.","%1 RMA (s) 已被关闭。",module,Magento_Rma
 "You created a shipping label.",您创建了一个航运标签。,module,Magento_Rma
 "We can't create a shipping label right now.",我们现在无法创建发货标签。,module,Magento_Rma
-"Manage RMA Item Attributes","管理 RMA 项目属性",module,Magento_Rma
+"Manage RMA Item Attributes","管理 RMA 项属性",module,Magento_Rma
 "You cannot delete this attribute.",您不能删除该属性。,module,Magento_Rma
 "You deleted the RMA attribute.","你删除 RMA 属性。",module,Magento_Rma
-"We can't delete the RMA item attribute right now.","我们现在不能删除 RMA 项目属性。",module,Magento_Rma
+"We can't delete the RMA item attribute right now.","我们现在不能删除 RMA 项属性。",module,Magento_Rma
 "This attribute no longer exists.",该属性不再存在。,module,Magento_Rma
 "You cannot edit this attribute.",您不能编辑此属性。,module,Magento_Rma
 "Edit Return Item Attribute",编辑返回的商品属性,module,Magento_Rma
 "Returns Attributes",属性将返回,module,Magento_Rma
 "New Return Attribute",新返回属性,module,Magento_Rma
-"You saved the RMA item attribute.","你保存 RMA 项目属性。",module,Magento_Rma
-"Something went wrong while saving the RMA item attribute.","保存 RMA 项目属性时出了错。",module,Magento_Rma
+"You saved the RMA item attribute.","你保存 RMA 项属性。",module,Magento_Rma
+"Something went wrong while saving the RMA item attribute.","保存 RMA 项属性时出了错。",module,Magento_Rma
 "An attribute with the same code already exists.",已存在具有相同的代码属性。,module,Magento_Rma
-"The wrong RMA item was requested.","错误的 RMA 项目要求。",module,Magento_Rma
+"The wrong RMA item was requested.","错误的 RMA 项要求。",module,Magento_Rma
 "We cannot display the item attributes.",我们不能显示项目属性。,module,Magento_Rma
 "There are no applicable items for return in this order.",没有适用的项目，按此顺序返回。,module,Magento_Rma
 "We don't recognize or support the file extension in shipment %1.","我们无法识别或不支持的文件扩展名在装运 %1。",module,Magento_Rma
@@ -8601,7 +8601,7 @@ Rejected,拒绝,module,Magento_Rma
 Denied,否认,module,Magento_Rma
 Closed,已关闭,module,Magento_Rma
 "Processed and Closed",处理和关闭,module,Magento_Rma
-"This is the wrong RMA item status.","这是错的 RMA 项目状态。",module,Magento_Rma
+"This is the wrong RMA item status.","这是错的 RMA 项状态。",module,Magento_Rma
 "We received your Return request.",我们收到您返回的请求。,module,Magento_Rma
 "We authorized your Return request.",我们授权您返回的请求。,module,Magento_Rma
 "We partially authorized your Return request.",我们部分授权您返回的请求。,module,Magento_Rma
@@ -11267,8 +11267,8 @@ Remove,删除,module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.",在我们的网站上获得最佳体验，请务必打开本地存储在您的浏览器。,module,Magento_Theme
 "This is demo store. No orders will be fulfilled.",这是演示商店。没有订单将会完成。,module,Magento_Theme
 "Items %1 to %2 of %3 total","项目 %1 到 %2 %3 总",module,Magento_Theme
-"%1 Item","%1 项目",module,Magento_Theme
-"%1 Item(s)","%1 项目 (s)",module,Magento_Theme
+"%1 Item","%1 项",module,Magento_Theme
+"%1 Item(s)","%1 项 (s)",module,Magento_Theme
 Page,页面,module,Magento_Theme
 Previous,上一个,module,Magento_Theme
 "You're currently reading page",您当前正在阅读页,module,Magento_Theme
@@ -12347,7 +12347,7 @@ Conditions,条件,module,Magento_Widget
 "The requested Wish List doesn't exist.",请求的愿望列表不存在。,module,Magento_Wishlist
 "We can't create the Wish List right now.",我们不能创造收藏清单现在。,module,Magento_Wishlist
 "%1 items","%1 件商品",module,Magento_Wishlist
-"%1 item","%1 件商品",module,Magento_Wishlist
+"1 item","1 件商品",module,Magento_Wishlist
 Comment,评论,module,Magento_Wishlist
 "Display number of items in wish list",在收藏夹中显示项目的数,module,Magento_Wishlist
 "Display item quantities",显示物料数量,module,Magento_Wishlist
