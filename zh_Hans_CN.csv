@@ -3824,6 +3824,8 @@ Strong,强,module,Magento_Customer
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.",若要在店面上显示增值税号码，店面选项为是设置显示增值税编号。,module,Magento_Customer
 "Default Email Domain",默认的电子邮件域,module,Magento_Customer
 "Default Welcome Email",默认的欢迎电子邮件,module,Magento_Customer
+"10 by default. Max - 10000",默认10，最大为10000,module,Magento_Customer
+"255 by default",默认255,module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Customer
 "Default Welcome Email Without Password",默认没有密码的欢迎电子邮件,module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br /> Email template chosen based on theme fallback when ""Default"" option is selected.","将默认的欢迎电子邮件，发送这封电子邮件，如果没有密码创建客户的。< br /> < br /> 选中""默认""选项时，选择电子邮件模板基于主题备用。",module,Magento_Customer
@@ -5223,13 +5225,13 @@ Apply,应用,module,Magento_GiftCardAccount
 "Gift Card Email Sender",代金卡电子邮件发件人,module,Magento_GiftCardAccount
 "Gift Card Template",代金卡模板,module,Magento_GiftCardAccount
 "Gift Card Account General Settings",代金卡账户一般设置,module,Magento_GiftCardAccount
-"Code Length",每x个字符加横线,module,Magento_GiftCardAccount
+"Code Length",代码长度,module,Magento_GiftCardAccount
 "Excluding prefix, suffix and separators.","不包括前缀、 后缀和分隔符。",module,Magento_GiftCardAccount
 "Code Format",代码格式,module,Magento_GiftCardAccount
 "Code Prefix",代码前缀,module,Magento_GiftCardAccount
 "Code Suffix",代码后缀,module,Magento_GiftCardAccount
-"Dash Every X Characters","冲每 X 个字符",module,Magento_GiftCardAccount
-"if empty no separation",如果空没有分离,module,Magento_GiftCardAccount
+"Dash Every X Characters","每 X 个字符分割",module,Magento_GiftCardAccount
+"if empty no separation",如果为空不分割,module,Magento_GiftCardAccount
 "New Pool Size",新池大小,module,Magento_GiftCardAccount
 "Low Code Pool Threshold",低代码池阈值,module,Magento_GiftCardAccount
 "IMPORTANT: Be sure to save your configuration before running generation process.","重要: 请务必保存您在运行生成过程之前的配置。",module,Magento_GiftCardAccount
@@ -5566,7 +5568,7 @@ Role,职能,module,Magento_GiftRegistry
 "My event special",我特别的事件,module,Magento_GiftRegistry
 "My special attribute",我特殊的属性,module,Magento_GiftRegistry
 "Gift Registry Section","Gift Registry Section",module,Magento_GiftRegistry
-"General Options",一般选择,module,Magento_GiftRegistry
+"General Options",常规选项,module,Magento_GiftRegistry
 "Enable Gift Registry",启用的礼物注册表,module,Magento_GiftRegistry
 "Maximum Registrants",最大注册人,module,Magento_GiftRegistry
 "Owner Notification",所有者通知,module,Magento_GiftRegistry
@@ -6165,7 +6167,7 @@ items,项目,module,Magento_LayeredNavigation
 Previous,上一个,module,Magento_LayeredNavigation
 Remove,删除,module,Magento_LayeredNavigation
 "Remove This Item",删除该内容,module,Magento_LayeredNavigation
-"Shop By",清除全部,module,Magento_LayeredNavigation
+"Shop By",筛选条件,module,Magento_LayeredNavigation
 "Clear All",全部清除,module,Magento_LayeredNavigation
 "Shopping Options",购物的选项,module,Magento_LayeredNavigation
 "Layered Navigation",分层的导航,module,Magento_LayeredNavigation
@@ -6767,10 +6769,10 @@ Subscribe,订阅,module,Magento_Newsletter
 "Confirmation Email Sender",确认电子邮件发件人,module,Magento_Newsletter
 "Confirmation Email Template",确认电子邮件模板,module,Magento_Newsletter
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Newsletter
-"Success Email Sender",成功的电子邮件发件人,module,Magento_Newsletter
-"Success Email Template",成功的电子邮件模板,module,Magento_Newsletter
-"Unsubscription Email Sender",未获客户退订电子邮件发件人,module,Magento_Newsletter
-"Unsubscription Email Template",未获客户退订电子邮件模板,module,Magento_Newsletter
+"Success Email Sender",订阅成功电子邮件发件人,module,Magento_Newsletter
+"Success Email Template",订阅成功电子邮件模板,module,Magento_Newsletter
+"Unsubscription Email Sender",退订电子邮件发件人,module,Magento_Newsletter
+"Unsubscription Email Template",退订电子邮件模板,module,Magento_Newsletter
 "We found no problems.",我们没有发现问题。,module,Magento_Newsletter
 Subscriber,订阅用户,module,Magento_Newsletter
 "Queue Start Date",队列开始日期,module,Magento_Newsletter
@@ -7548,9 +7550,9 @@ User,用户,module,Magento_Paypal
 "What's this?",这是什么,module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","勾选""记住我""来访问这台计算机上您的购物车，即使你不在签署。",module,Magento_Persistent
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
-"Persistent Shopping Cart",持续购物车,module,Magento_Persistent
-"General Options",一般选择,module,Magento_Persistent
-"Enable Persistence",启用持久性,module,Magento_Persistent
+"Persistent Shopping Cart",持久化购物车,module,Magento_Persistent
+"General Options",常规选项,module,Magento_Persistent
+"Enable Persistence",启用持久化,module,Magento_Persistent
 "Persistence Lifetime (seconds)","持久性生存期 (秒)",module,Magento_Persistent
 "Enable ""Remember Me""","启用""记住我""",module,Magento_Persistent
 """Remember Me"" Default Value","""记住我""的默认值",module,Magento_Persistent
@@ -9682,13 +9684,13 @@ Conditions,条件,module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","仅在满足以下条件时应用规则 (留空所有商品)。",module,Magento_SalesRule
 "Manage Coupon Codes",管理优惠券代码,module,Magento_SalesRule
 "Coupon Qty",优惠券数量,module,Magento_SalesRule
-"Code Length",每x个字符加横线,module,Magento_SalesRule
+"Code Length",代码长度,module,Magento_SalesRule
 "Excluding prefix, suffix and separators.","不包括前缀、 后缀和分隔符。",module,Magento_SalesRule
 "Code Format",代码格式,module,Magento_SalesRule
 "Code Prefix",代码前缀,module,Magento_SalesRule
 "Code Suffix",代码后缀,module,Magento_SalesRule
-"Dash Every X Characters","冲每 X 个字符",module,Magento_SalesRule
-"If empty no separation.",如果空没有分离。,module,Magento_SalesRule
+"Dash Every X Characters","每 X 个字符分割",module,Magento_SalesRule
+"If empty no separation.",如果为空不分割。,module,Magento_SalesRule
 Generate,生成,module,Magento_SalesRule
 "Coupon Code",优惠劵,module,Magento_SalesRule
 Created,创建时间,module,Magento_SalesRule
@@ -9708,7 +9710,7 @@ End,结束,module,Magento_SalesRule
 Status,状态,module,Magento_SalesRule
 "%1 - Discounts and Coupons",%1-折扣和优惠,module,Magento_SalesRule
 Coupons/Discounts,优惠券/折扣,module,Magento_SalesRule
-Promotions,促销活动,module,Magento_SalesRule
+Promotions,促销,module,Magento_SalesRule
 "You deleted the rule.",规则已保存。,module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.",我们现在不能删除该规则。请查看日志并再试一次。,module,Magento_SalesRule
 "We can't find a rule to delete.",我们找不到要删除的规则。,module,Magento_SalesRule
@@ -12160,7 +12162,7 @@ On,On,module,Magento_VisualMerchandiser
 Off,Off,module,Magento_VisualMerchandiser
 "Visual Merchandiser Options","Visual Merchandiser Options",module,Magento_VisualMerchandiser
 "Visual Merchandiser","Visual Merchandiser",module,Magento_VisualMerchandiser
-"General Options",一般选择,module,Magento_VisualMerchandiser
+"General Options",常规选项,module,Magento_VisualMerchandiser
 "Visible Attributes for Category Rules","Visible Attributes for Category Rules",module,Magento_VisualMerchandiser
 "Additional attributes usable in category rules","Additional attributes usable in category rules",module,Magento_VisualMerchandiser
 "Minimum Stock Threshold","Minimum Stock Threshold",module,Magento_VisualMerchandiser
@@ -12349,8 +12351,8 @@ Conditions,条件,module,Magento_Widget
 "%1 items","%1 件商品",module,Magento_Wishlist
 "1 item","1 件商品",module,Magento_Wishlist
 Comment,评论,module,Magento_Wishlist
-"Display number of items in wish list",在收藏夹中显示项目的数,module,Magento_Wishlist
-"Display item quantities",显示物料数量,module,Magento_Wishlist
+"Display number of items in wish list",在收藏夹中显示商品的件数,module,Magento_Wishlist
+"Display item quantities",显示商品数量,module,Magento_Wishlist
 "An item option with code %1 already exists.",具有代码%1的商品选项已存在,module,Magento_Wishlist
 "We can't specify a wish list.",我们不能指定一个收藏夹。,module,Magento_Wishlist
 "Cannot specify product.",不能指定商品。,module,Magento_Wishlist
@@ -12418,9 +12420,9 @@ Back,后退,module,Magento_Wishlist
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Wishlist
 "Max Emails Allowed to be Sent",最大允许发送电子邮件发送,module,Magento_Wishlist
 "Email Text Length Limit",电子邮件文本长度限制,module,Magento_Wishlist
-"General Options",一般选择,module,Magento_Wishlist
+"General Options",常规选项,module,Magento_Wishlist
 Enabled,启用,module,Magento_Wishlist
-"My Wish List Link",我的愿望列表链接,module,Magento_Wishlist
+"My Wish List Link",收藏夹链接,module,Magento_Wishlist
 "Display Wish List Summary",显示的收藏列表摘要,module,Magento_Wishlist
 "Enable RSS","启动 RSS",module,Magento_Wishlist
 "No Items Found",找不到项目,module,Magento_Wishlist
