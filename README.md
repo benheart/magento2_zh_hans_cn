@@ -23,9 +23,9 @@ php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Ha
 - 后台总览
 ![后台总览](http://i.imgur.com/dc6h7iV.png)
 - 二级目录
-![二级目录](http://i.imgur.com/30OmlBy.png)
-- 后台商品列表
-![后台商品列表](http://i.imgur.com/hVlMnrm.png)
+![二级目录](http://i.imgur.com/ocvTAlt.png)
+- 商品列表
+![商品列表](http://i.imgur.com/hVlMnrm.png)
 
 **用户前端**
 - 首页
