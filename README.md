@@ -16,18 +16,39 @@ php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Ha
 php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Hans_CN
 ```
 - 登录Magento2管理后台，选择中文语言包：Stores -> Configuration -> General > General -> Locale options -> Chinese (China)
+![后台总览](http://i.imgur.com/1zS25hH.png)
 
-### 卸载语言包
-```
-cd <magento2 path>
-composer remove benheart/magento2_zh_hans_cn:dev-master
-```
+### 截图演示
+**管理员**
+- 后台总览
+![后台总览](http://i.imgur.com/dc6h7iV.png)
+- 二级目录
+![二级目录](http://i.imgur.com/30OmlBy.png)
+- 后台商品列表
+![后台商品列表](http://i.imgur.com/hVlMnrm.png)
+
+**用户前端**
+- 首页
+![首页](http://i.imgur.com/tKuVJO4.png)
+- 个人中心
+![个人中心](http://i.imgur.com/FYGpSfB.png)
+- 商品列表
+![商品列表](http://i.imgur.com/GXnGFvQ.png)
+- 商品详情页
+![商品详情页](http://i.imgur.com/2CAWCk4.png)
+
 ### 贡献代码
 - Fork本项目到你GitHub仓库中
 - Clone你GitHub上本项目到本地
 - 本地修改完善语言包，Commit到本地仓库
 - Push新增和改动代码到你GitHub上本项目
 - Pull request, 审核通过后合并到主干
+
+### 卸载语言包
+```
+cd <magento2 path>
+composer remove benheart/magento2_zh_hans_cn:dev-master
+```
 
 ### 注意事项
 - 官方Magento2.1.3+存在[Bug](https://github.com/magento/magento2/issues/7862)会导致Js翻译出现问题

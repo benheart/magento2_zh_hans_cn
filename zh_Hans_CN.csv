@@ -8936,7 +8936,7 @@ unhold,恢复,module,Magento_Sales
 "Invoice and Ship",发票和运输,module,Magento_Sales
 Invoice,发货,module,Magento_Sales
 Ship,无可用发货信息,module,Magento_Sales
-Reorder,获取,module,Magento_Sales
+Reorder,再次购买,module,Magento_Sales
 "Order # %1 %2 | %3","订单 # %1 %2 |%3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.",是否确定？此订单将被取消，将会创建一个新订单。,module,Magento_Sales
@@ -9419,7 +9419,7 @@ Continue,继续,module,Magento_Sales
 "Print Refund",打印退款,module,Magento_Sales
 "Product Name",商品名称,module,Magento_Sales
 Date,日期,module,Magento_Sales
-"Ship To",船到,module,Magento_Sales
+"Ship To",运送到,module,Magento_Sales
 Actions,动作,module,Magento_Sales
 "View Order",查看订单,module,Magento_Sales
 "You have placed no orders.",你还没有订单。,module,Magento_Sales
