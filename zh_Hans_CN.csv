@@ -2651,7 +2651,7 @@ Edit,编辑,module,Magento_Checkout
 "Excl. Tax",不包括消费税,module,Magento_Checkout
 Loading...,加载.....,module,Magento_Checkout
 "Order #","订单 #",module,Magento_Checkout
-"Proceed to Checkout",去结帐,module,Magento_Checkout
+"Proceed to Checkout",结账,module,Magento_Checkout
 "Product Name",商品名称,module,Magento_Checkout
 "Incl. Tax",含税,module,Magento_Checkout
 "Your order number is: %1.","您的订单编号是: %1",module,Magento_Checkout
@@ -2681,7 +2681,7 @@ Cancel,取消,module,Magento_Checkout
 "You can create an account after checkout.",您可以在结账后创建帐户。,module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.",您已经有账号了，可以登录或继续使用访客账号,module,Magento_Checkout
 Login,登录,module,Magento_Checkout
-"See Details",查看详细信息,module,Magento_Checkout
+"See Details",查看详情,module,Magento_Checkout
 "Options Details",选项详细信息,module,Magento_Checkout
 Remove,删除,module,Magento_Checkout
 "Cart Subtotal",购物车小计,module,Magento_Checkout
@@ -3283,7 +3283,7 @@ Comparable,可比性,module,Magento_ConfigurableProductStaging
 "Page not found.",找不到网页。,module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.",发送邮件至,module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.",我们现在无法处理您的请求。抱歉，我们都知道。,module,Magento_Contact
-"* Required Fields",*必要字段,module,Magento_Contact
+"* Required Fields",*必填字段,module,Magento_Contact
 "Write Us",给我们写信,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.",我们会及时与您取得联系,module,Magento_Contact
 Name,名字,module,Magento_Contact
@@ -6589,7 +6589,7 @@ Change,更改,module,Magento_Multishipping
 "Edit Items",编辑项目,module,Magento_Multishipping
 "Shipping is not applicable.",航运是不适用的。,module,Magento_Multishipping
 "Product Name",商品名称,module,Magento_Multishipping
-"Check Out with Multiple Addresses",签出多个地址,module,Magento_Multishipping
+"Check Out with Multiple Addresses",多地址结账,module,Magento_Multishipping
 "Address %1 <span>of %2</span>","%1 <span>的 %2</span> 地址",module,Magento_Multishipping
 "Shipping To",运送到,module,Magento_Multishipping
 "Shipping Method",运送方式,module,Magento_Multishipping
@@ -8197,7 +8197,7 @@ Pending,待付款,module,Magento_Review
 "Product Name",商品名称,module,Magento_Review
 Rating,评分,module,Magento_Review
 Actions,动作,module,Magento_Review
-"See Details",查看具体信息,module,Magento_Review
+"See Details",查看详情,module,Magento_Review
 "You have submitted no reviews.",你没有提交评论。,module,Magento_Review
 Back,后退,module,Magento_Review
 "My Recent Reviews",我近期的评论,module,Magento_Review
@@ -11365,7 +11365,7 @@ Translations,翻译,module,Magento_Translation
 "Invalid UI Component element name: ''","Invalid UI Component element name: ''",module,Magento_Ui
 Cancel,取消,module,Magento_Ui
 Back,后退,module,Magento_Ui
-Next,下一个,module,Magento_Ui
+Next,下一步,module,Magento_Ui
 "Changes have been made to this section that have not been saved.",已更改尚未保存此节。,module,Magento_Ui
 "This tab contains invalid data. Please resolve this before saving.","This tab contains invalid data. Please resolve this before saving.",module,Magento_Ui
 Assign,指定,module,Magento_Ui
@@ -12394,7 +12394,7 @@ Edit,编辑,module,Magento_Wishlist
 "This Wish List has no Items",这收藏夹已没有项目,module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","单击 <a href=""%1"">此处</a> 继续购物。",module,Magento_Wishlist
-"See Details",查看具体信息,module,Magento_Wishlist
+"See Details",查看详情,module,Magento_Wishlist
 "Options Details",选项详细信息,module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS 链接到 %1 的收藏",module,Magento_Wishlist
 "RSS Feed","Rss 订阅源",module,Magento_Wishlist

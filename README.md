@@ -19,7 +19,7 @@ php bin/magento cache:clean && php bin/magento setup:static-content:deploy zh_Ha
 ![后台总览](http://i.imgur.com/1zS25hH.png)
 
 ### 截图演示
-**管理员**
+**管理员后台**
 - 后台总览
 ![后台总览](http://i.imgur.com/dc6h7iV.png)
 - 二级目录
