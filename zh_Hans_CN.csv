@@ -1249,7 +1249,7 @@ Name,名字,module,Magento_Bundle
 None,无,module,Magento_Bundle
 Quantity:,数量:,module,Magento_Bundle
 "Choose a selection...",选择一个选项。,module,Magento_Bundle
-"Ship Bundle Items",船捆绑项目,module,Magento_Bundle
+"Ship Bundle Items",运送捆绑项目,module,Magento_Bundle
 Position,位置,module,Magento_Bundle
 "There are no products in this option.",在此选项中没有商品。,module,Magento_Bundle
 Default,默认,module,Magento_Bundle
@@ -4451,7 +4451,7 @@ Size,尺寸,module,Magento_Dhl
 "Free Method",免费的方法,module,Magento_Dhl
 "Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Dhl
 "Free Shipping Amount Threshold",免运费金额门槛,module,Magento_Dhl
-"Ship to Applicable Countries",船舶适用的国家,module,Magento_Dhl
+"Ship to Applicable Countries",运到适用的国家,module,Magento_Dhl
 "Ship to Specific Countries",运到特定国家,module,Magento_Dhl
 "Show Method if Not Applicable","Show 方法不适用",module,Magento_Dhl
 "Sort Order",排序,module,Magento_Dhl
@@ -4997,7 +4997,7 @@ Password,密码,module,Magento_Fedex
 Packaging,包装,module,Magento_Fedex
 Dropoff,摘下,module,Magento_Fedex
 "Weight Unit",重量单位,module,Magento_Fedex
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持船的重量，请咨询您航运承运人)",module,Magento_Fedex
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您航运承运人)",module,Magento_Fedex
 "Calculate Handling Fee",显示不适用的方法,module,Magento_Fedex
 "Handling Applied",处理的应用,module,Magento_Fedex
 "Handling Fee",处理费,module,Magento_Fedex
@@ -5555,7 +5555,7 @@ View,查看,module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry ""%registry_name"":","从你的礼物注册表""%registry_name""购买了以下各项:",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.",你可以登录到您的帐户以查看有关此礼品登记更多详细信息。,module,Magento_GiftRegistry
 "Ship to Recipient Address",运到收件人地址,module,Magento_GiftRegistry
-"Ship Here",船在这里,module,Magento_GiftRegistry
+"Ship Here",运送到此地址,module,Magento_GiftRegistry
 "Recipient Address",收件人地址,module,Magento_GiftRegistry
 "Use gift registry shipping address",使用礼品登记的送货地址,module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.",换礼物注册表项的数目的唯一地方是在礼物注册表信息页面或直接在您的购物车中。,module,Magento_GiftRegistry
@@ -8679,7 +8679,7 @@ Save,保存,module,Magento_Rma
 Submit,提交,module,Magento_Rma
 Back,后退,module,Magento_Rma
 Date,日期,module,Magento_Rma
-"Ship From",从船舶,module,Magento_Rma
+"Ship From",发货从,module,Magento_Rma
 "Return Status",返回状态,module,Magento_Rma
 Actions,动作,module,Magento_Rma
 "View Return",视图返回,module,Magento_Rma
@@ -9457,10 +9457,10 @@ Search,搜索,module,Magento_Sales
 "Update to your %store_name invoice","Update to your %store_name invoice",module,Magento_Sales
 "Your %store_name order confirmation","Your %store_name order confirmation",module,Magento_Sales
 "%customer_name,",%customer_name，,module,Magento_Sales
-"Once your package ships we will send you a tracking number.",一旦你包船我们将向您发送一个跟踪号码。,module,Magento_Sales
+"Once your package ships we will send you a tracking number.",一旦您的包裹发货我们将向您发送一个物流号码。,module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","您的订单 <span class=""no-link""> #%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","放在 <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.",一旦你的包船我们将发送一封电子邮件的链接来跟踪您的订单。,module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.",一旦您的包裹发货我们将发送一封电子邮件的链接来跟踪您的订单。,module,Magento_Sales
 "Update to your %store_name order","Update to your %store_name order",module,Magento_Sales
 "Your %store_name order has shipped","Your %store_name order has shipped",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.",下面是您发货确认信息。再次感谢您为您的业务。,module,Magento_Sales
@@ -10277,8 +10277,8 @@ message,信息,module,Magento_Shipping
 "Shipping Information",运输方式,module,Magento_Shipping
 "Total Shipping Charges",总运费,module,Magento_Shipping
 "Incl. Tax",含。税,module,Magento_Shipping
-"Items to Ship",船舶的项目,module,Magento_Shipping
-"Qty to Ship",对船舶的数量,module,Magento_Shipping
+"Items to Ship",发货项目,module,Magento_Shipping
+"Qty to Ship",发货数量,module,Magento_Shipping
 Ship,无可用发货信息,module,Magento_Shipping
 "Shipment Total",出货总数,module,Magento_Shipping
 "Shipment Comments",发货备注,module,Magento_Shipping
@@ -10287,7 +10287,7 @@ Ship,无可用发货信息,module,Magento_Shipping
 "Create Shipping Label",创建发货标签,module,Magento_Shipping
 "Append Comments",添加评论,module,Magento_Shipping
 "Email Copy of Shipment",电子邮件拷贝的装运,module,Magento_Shipping
-"Invalid value(s) for Qty to Ship",船舶数量为无效值,module,Magento_Shipping
+"Invalid value(s) for Qty to Ship",发货数量为无效值,module,Magento_Shipping
 "Select All",全选,module,Magento_Shipping
 "Product Name",商品名称,module,Magento_Shipping
 Delete,删除,module,Magento_Shipping
@@ -11569,8 +11569,8 @@ Container,货箱,module,Magento_Ups
 "Calculate Handling Fee",显示不适用的方法,module,Magento_Ups
 "Handling Applied",处理的应用,module,Magento_Ups
 "Handling Fee",处理费,module,Magento_Ups
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持船的重量，请咨询您航运承运人)",module,Magento_Ups
-"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","最大包装重量 (最大支持船的重量，请咨询您航运承运人)",module,Magento_Ups
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您的物流商)",module,Magento_Ups
+"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您的物流商)",module,Magento_Ups
 "Origin of the Shipment",这批货物的原产地,module,Magento_Ups
 Password,密码,module,Magento_Ups
 "Pickup Method",拾取方法,module,Magento_Ups
@@ -11584,8 +11584,8 @@ Title,标题,module,Magento_Ups
 "Enable Negotiated Rates",启用协议的价,module,Magento_Ups
 "Shipper Number",托运人数量,module,Magento_Ups
 "Required for negotiated rates; 6-character UPS","所需的谈判达成率;6 个字符 UPS",module,Magento_Ups
-"Ship to Applicable Countries",船到适用的国家,module,Magento_Ups
-"Ship to Specific Countries",船到特定国家,module,Magento_Ups
+"Ship to Applicable Countries",运到适用的国家,module,Magento_Ups
+"Ship to Specific Countries",运到特定国家,module,Magento_Ups
 "Show Method if Not Applicable","Show 方法如果不适用",module,Magento_Ups
 "Displayed Error Message",显示的错误消息,module,Magento_Ups
 Mode,模式,module,Magento_Ups
@@ -11914,7 +11914,7 @@ Length,长度,module,Magento_Usps
 Height,宽度,module,Magento_Usps
 Girth,长度,module,Magento_Usps
 Machinable,可加工,module,Magento_Usps
-"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持船的重量，请咨询您航运承运人)",module,Magento_Usps
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您航运承运人)",module,Magento_Usps
 "Calculate Handling Fee",显示不适用的方法,module,Magento_Usps
 "Handling Applied",处理的应用,module,Magento_Usps
 "Handling Fee",处理费,module,Magento_Usps
@@ -11923,8 +11923,8 @@ Machinable,可加工,module,Magento_Usps
 "Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Usps
 "Free Shipping Amount Threshold",免运费金额门槛,module,Magento_Usps
 "Displayed Error Message",显示的错误消息,module,Magento_Usps
-"Ship to Applicable Countries",船到适用的国家,module,Magento_Usps
-"Ship to Specific Countries",船到特定国家,module,Magento_Usps
+"Ship to Applicable Countries",运到适用的国家,module,Magento_Usps
+"Ship to Specific Countries",运到特定国家,module,Magento_Usps
 Debug,调试,module,Magento_Usps
 "Show Method if Not Applicable","Show 方法如果不适用",module,Magento_Usps
 "Sort Order",排序,module,Magento_Usps
@@ -12542,7 +12542,7 @@ Footer,页脚,theme,frontend/Magento/luma
 "Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
 "Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
 "%customer_name,",%customer_name，,theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.",一旦你包船我们将向您发送一个跟踪号码。,theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.",一旦您的包裹发货我们将向您发送一个跟踪号码。,theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","您的订单 <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","放在 <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
