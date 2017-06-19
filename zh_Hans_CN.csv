@@ -441,7 +441,7 @@ Delete,删除,module,Magento_Backend
 Save,保存,module,Magento_Backend
 "Edit Design Change",编辑设计更改,module,Magento_Backend
 "New Store Design Change",新店设计更改,module,Magento_Backend
-"General Settings",一般设置,module,Magento_Backend
+"General Settings",常规设置,module,Magento_Backend
 Store,商店,module,Magento_Backend
 "-- Please Select --","-- 请选择 --",module,Magento_Backend
 "Custom Design",自定义设计,module,Magento_Backend
@@ -621,8 +621,8 @@ Magento,Magento,module,Magento_Backend
 "About the calendar",关于日历,module,Magento_Backend
 Close,关闭,module,Magento_Backend
 "Go Today",选择今天,module,Magento_Backend
-Previous,上一个,module,Magento_Backend
-Next,下一个,module,Magento_Backend
+Previous,上一步,module,Magento_Backend
+Next,下一步,module,Magento_Backend
 WK,周,module,Magento_Backend
 Time,时间,module,Magento_Backend
 Hour,小时,module,Magento_Backend
@@ -1927,7 +1927,7 @@ Role,职能,module,Magento_Catalog
 Compare,比较,module,Magento_Catalog
 "Clear All",全部清除,module,Magento_Catalog
 Prev,上一页,module,Magento_Catalog
-Next,下一个,module,Magento_Catalog
+Next,下一页,module,Magento_Catalog
 "We can't find products matching the selection.",没有匹配的商品。,module,Magento_Catalog
 "Learn More",了解更多,module,Magento_Catalog
 "Add to Compare",添加并比较,module,Magento_Catalog
@@ -2709,7 +2709,7 @@ Next,下一步,module,Magento_Checkout
 Example:,示例︰,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.",如果你觉的是正确的，可以忽略此通知。,module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","你确定要从购物车中移除此商品吗？",module,Magento_Checkout
-"Review & Payments",审查及付款,module,Magento_Checkout
+"Review & Payments",确认及付款,module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
 Shipping,送货,module,Magento_Checkout
 "Save Address",保存地址,module,Magento_Checkout
@@ -5261,7 +5261,7 @@ To,至,module,Magento_GiftMessage
 Message,信息,module,Magento_GiftMessage
 Cancel,取消,module,Magento_GiftMessage
 OK,确定,module,Magento_GiftMessage
-"Gift Options",请将此框留空，如果你不想留下礼物消息的整个订单。,module,Magento_GiftMessage
+"Gift Options",礼品选项,module,Magento_GiftMessage
 "Gift Message",礼品消息,module,Magento_GiftMessage
 "Do you have any gift items in your order?",您在您的订单有任何礼品吗?,module,Magento_GiftMessage
 "Add gift options",添加礼物选项,module,Magento_GiftMessage
@@ -5282,8 +5282,8 @@ Update,更新,module,Magento_GiftMessage
 "Gift options",礼物选项,module,Magento_GiftMessage
 Edit,编辑,module,Magento_GiftMessage
 Delete,删除,module,Magento_GiftMessage
-"Allow Gift Messages on Order Level",允许订单的礼物留言,module,Magento_GiftMessage
-"Allow Gift Messages for Order Items",允许用于订单物料的礼物留言,module,Magento_GiftMessage
+"Allow Gift Messages on Order Level",订单层面允许礼品消息,module,Magento_GiftMessage
+"Allow Gift Messages for Order Items",订单商品允许礼品消息,module,Magento_GiftMessage
 "Are you sure you want to delete this gift registry?",你确定要删除此礼品登记？,module,Magento_GiftRegistry
 "Delete Registry",删除注册表,module,Magento_GiftRegistry
 "Gift Registry Entity",礼物注册表实体,module,Magento_GiftRegistry
@@ -6365,11 +6365,11 @@ Database,数据库,module,Magento_MediaStorage
 Price,价格,module,Magento_Msrp
 "Actual Price",实际价格,module,Magento_Msrp
 "Add to Cart",添加到购物车,module,Magento_Msrp
-"Minimum Advertised Price",最低的广告价格,module,Magento_Msrp
+"Minimum Advertised Price",最低广告价格,module,Magento_Msrp
 "Enable MAP",启用映射,module,Magento_Msrp
 "Display Actual Price",显示实际价格,module,Magento_Msrp
 "Default Popup Text Message",默认弹出文本消息,module,Magento_Msrp
-"Default ""What's This"" Text Message","Default ""What's This"" Text Message",module,Magento_Msrp
+"Default ""What's This"" Text Message","默认 ""What's This"" 文本消息",module,Magento_Msrp
 Back,返回,module,Magento_MultipleLocationInventory
 "Save Warehouse",保存仓库,module,Magento_MultipleLocationInventory
 "Disable Warehouse",禁用仓库,module,Magento_MultipleLocationInventory
@@ -8818,7 +8818,7 @@ Billing,账单,module,Magento_Sales
 Cancel,取消,module,Magento_Sales
 "Billing Address",账单地址,module,Magento_Sales
 "Payment Method",支付方式,module,Magento_Sales
-"Order Comment",订单评论,module,Magento_Sales
+"Order Comment",订单备注,module,Magento_Sales
 Coupons,优惠券,module,Magento_Sales
 "Please select a customer",请选择客户,module,Magento_Sales
 "Create New Customer",创建新客户,module,Magento_Sales
@@ -8866,8 +8866,8 @@ Quantity,数量,module,Magento_Sales
 "Order Totals",订单合计,module,Magento_Sales
 "Shipping Incl. Tax (%1)","小计 (含税)",module,Magento_Sales
 "Shipping Excl. Tax (%1)","运费不包括税 (%1)",module,Magento_Sales
-"New Credit Memo for Invoice #%1","新的贷方通知单的发票 #%1（发票# % 1新信用备忘录）",module,Magento_Sales
-"New Credit Memo for Order #%1","为订单 #%1 新的贷方通知单（为了# % 1新信用备忘录）",module,Magento_Sales
+"New Credit Memo for Invoice #%1","新的贷方通知单的发票 #%1（发票# % 1新贷项通知单）",module,Magento_Sales
+"New Credit Memo for Order #%1","为订单 #%1 新的贷方通知单（为了# % 1新贷项通知单）",module,Magento_Sales
 "Refund Shipping (Incl. Tax)","退还航运 (含税)",module,Magento_Sales
 "Refund Shipping (Excl. Tax)","退还航运 (不包括税)",module,Magento_Sales
 "Refund Shipping",退款运输,module,Magento_Sales
@@ -8882,19 +8882,19 @@ Refund,退款,module,Magento_Sales
 "Adjustment Refund",调整退款,module,Magento_Sales
 "Adjustment Fee",费用的调整,module,Magento_Sales
 "Send Email",发送邮件,module,Magento_Sales
-"Are you sure you want to send a credit memo email to customer?",你确定你想要寄给客户他的信用备忘录电子邮件?,module,Magento_Sales
+"Are you sure you want to send a credit memo email to customer?",你确定你想要寄给客户他的贷项通知单电子邮件?,module,Magento_Sales
 Void,创建于,module,Magento_Sales
 Print,打印,module,Magento_Sales
-"The credit memo email was sent.",信用备忘录电子邮件已发送。,module,Magento_Sales
-"The credit memo email wasn't sent.",信用备忘录电子邮件没有发送。,module,Magento_Sales
-"Credit Memo #%1 | %3 | %2 (%4)","信用备忘录 #%1 |%3 |%2 (%4)",module,Magento_Sales
+"The credit memo email was sent.",贷项通知单电子邮件已发送。,module,Magento_Sales
+"The credit memo email wasn't sent.",贷项通知单电子邮件没有发送。,module,Magento_Sales
+"Credit Memo #%1 | %3 | %2 (%4)","贷项通知单 #%1 |%3 |%2 (%4)",module,Magento_Sales
 "Total Refund",全额退款,module,Magento_Sales
 "New Invoice and Shipment for Order #%1","新的发票和装运的订单 #%1",module,Magento_Sales
 "New Invoice for Order #%1","订单 #%1 的新发票",module,Magento_Sales
 "Submit Invoice and Shipment",提交发票和装运,module,Magento_Sales
 "Submit Invoice",提交发票,module,Magento_Sales
 "Are you sure you want to send an invoice email to customer?",你确定你想要寄给客户他的发票电子邮件?,module,Magento_Sales
-"Credit Memo",信用备忘录,module,Magento_Sales
+"Credit Memo",贷项通知单,module,Magento_Sales
 Capture,捕获,module,Magento_Sales
 "The invoice email was sent.",发票电子邮件已发送。,module,Magento_Sales
 "The invoice email wasn't sent.",发票电子邮件没有发送。,module,Magento_Sales
@@ -8943,8 +8943,8 @@ Reorder,再次购买,module,Magento_Sales
 "Save Gift Message",保存礼物留言,module,Magento_Sales
 [deleted],[删除],module,Magento_Sales
 "Order Credit Memos",订单贷项通知单,module,Magento_Sales
-"Credit memo #%1 created","创建信用备忘录 #%1",module,Magento_Sales
-"Credit memo #%1 comment added","添加的信用备忘录 #%1 备注",module,Magento_Sales
+"Credit memo #%1 created","创建贷项通知单 #%1",module,Magento_Sales
+"Credit memo #%1 comment added","添加的贷项通知单 #%1 备注",module,Magento_Sales
 "Shipment #%1 created","创建装运 #%1",module,Magento_Sales
 "Shipment #%1 comment added","添加的装运 #%1 备注",module,Magento_Sales
 "Invoice #%1 created","发票 #%1 创建成功",module,Magento_Sales
@@ -8966,7 +8966,7 @@ Specified,指定,module,Magento_Sales
 Yes,是,module,Magento_Sales
 No,否,module,Magento_Sales
 "Show Actual Values",显示实际值,module,Magento_Sales
-"New Order RSS","新秩序 RSS",module,Magento_Sales
+"New Order RSS","新订单 RSS",module,Magento_Sales
 Subtotal,小计,module,Magento_Sales
 "Shipping & Handling",运费和手续费,module,Magento_Sales
 "Discount (%1)","折扣 (%1)",module,Magento_Sales
@@ -9005,7 +9005,7 @@ Sales,销售,module,Magento_Sales
 "The coupon code has been accepted.",优惠券代码已被接受。,module,Magento_Sales
 "Quote item id is not received.","总计 %1 商品",module,Magento_Sales
 "Quote item is not loaded.",报价商品没有装载。,module,Magento_Sales
-"New Order",新秩序,module,Magento_Sales
+"New Order",新订单,module,Magento_Sales
 "You created the order.",你已经下单了,module,Magento_Sales
 "Order saving error: %1","订单保存错误: %1",module,Magento_Sales
 "Cannot add new comment.",不能添加新的注释。,module,Magento_Sales
@@ -9023,7 +9023,7 @@ Sales,销售,module,Magento_Sales
 "You voided the credit memo.",你作废贷项通知单。,module,Magento_Sales
 "We can't void the credit memo.",我们不能作废贷项通知单。,module,Magento_Sales
 "The order no longer exists.",该订单不存在。,module,Magento_Sales
-"We can't create credit memo for the order.",我们不能为订单创建信用备忘录。,module,Magento_Sales
+"We can't create credit memo for the order.",我们不能为订单创建贷项通知单。,module,Magento_Sales
 "Edit Order",编辑订单,module,Magento_Sales
 "You sent the order email.",你发送订单的电子邮件。,module,Magento_Sales
 "We can't send the email order right now.",我们现在无法发送电子邮件订购。,module,Magento_Sales
@@ -9201,7 +9201,7 @@ Products,商品,module,Magento_Sales
 Qty,数量,module,Magento_Sales
 Tax,税,module,Magento_Sales
 "Total (inc)","共有 (inc)",module,Magento_Sales
-"Credit Memo #","信用备忘录 #",module,Magento_Sales
+"Credit Memo #","贷项通知单 #",module,Magento_Sales
 "Invoice #",发票号码,module,Magento_Sales
 "The order object is not specified.","未指定 order 对象。",module,Magento_Sales
 "The source object is not specified.",未指定的源对象。,module,Magento_Sales
@@ -9291,7 +9291,7 @@ Customer,客户,module,Magento_Sales
 Notified,已通知。,module,Magento_Sales
 "Not Notified",不通知,module,Magento_Sales
 "No Payment Methods",没有付款方法,module,Magento_Sales
-"Order Comments",订单的评论,module,Magento_Sales
+"Order Comments",订单备注,module,Magento_Sales
 "Apply Coupon Code",适用的优惠券代码,module,Magento_Sales
 Apply,应用,module,Magento_Sales
 "Remove Coupon Code",删除优惠券代码,module,Magento_Sales
@@ -9346,7 +9346,7 @@ Item,商品,module,Magento_Sales
 "Discount Amount",折扣金额,module,Magento_Sales
 "Row Total",总行数,module,Magento_Sales
 "No Items To Refund",没有退款的项目,module,Magento_Sales
-"Credit Memo Comments",信用备忘录评论,module,Magento_Sales
+"Credit Memo Comments",贷项通知单备注,module,Magento_Sales
 "Refund Totals",退款合计,module,Magento_Sales
 "Email Copy of Credit Memo",电子邮件拷贝的贷项通知单,module,Magento_Sales
 "Please enter a positive number in this field.",请在此字段中输入一个正数。,module,Magento_Sales
@@ -9367,7 +9367,7 @@ Message:,消息：,module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",发票和装运类型不匹配此订单上的某些商品。您可以创建仅在创建发票后的装运。,module,Magento_Sales
 "Qty to Invoice",对发票数量,module,Magento_Sales
 "Invoice History",发票历史,module,Magento_Sales
-"Invoice Comments",发票的评论,module,Magento_Sales
+"Invoice Comments",发票备注,module,Magento_Sales
 "Invoice Totals",发票合计,module,Magento_Sales
 Amount,数量,module,Magento_Sales
 "Capture Online",捕获在线,module,Magento_Sales
@@ -9479,13 +9479,13 @@ Create,Create,module,Magento_Sales
 "Sales Emails Section","Sales Emails Section",module,Magento_Sales
 General,常规,module,Magento_Sales
 "Hide Customer IP","隐藏客户 IP",module,Magento_Sales
-"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","选择是否客户 IP 所示订单、 发票、 发货和贷项通知单。",module,Magento_Sales
-"Checkout Totals Sort Order",签出总计排序顺序,module,Magento_Sales
-"Allow Reorder",允许重新排序,module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","选择是否在订单、 发票、 发货和贷项通知单页面显示客户 IP。",module,Magento_Sales
+"Checkout Totals Sort Order",支付排序顺序,module,Magento_Sales
+"Allow Reorder",允许再次购买,module,Magento_Sales
 "Invoice and Packing Slip Design",发票和装箱单设计,module,Magento_Sales
-"Logo for PDF Print-outs (200x50)","标志为 PDF 打印件 (200 x 50)",module,Magento_Sales
+"Logo for PDF Print-outs (200x50)","PDF 打印 Logo (200 x 50)",module,Magento_Sales
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","您的默认标识将用于在 PDF 和 HTML 文件。 < br />(jpeg, tiff, png) 如果您的 pdf 图像就会失真，尝试使用大文件大小的图像。",module,Magento_Sales
-"Logo for HTML Print View","HTML 打印视图的标志",module,Magento_Sales
+"Logo for HTML Print View","HTML 打印视图 Logo",module,Magento_Sales
 "Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","仅限于 HTML 文档的标志。如果为空，将使用默认.< br />(jpeg, gif, png)",module,Magento_Sales
 Address,地址,module,Magento_Sales
 "Minimum Order Amount",最低订单金额,module,Magento_Sales
@@ -9495,14 +9495,15 @@ Enable,启用,module,Magento_Sales
 "Include Tax to Amount",含税金额,module,Magento_Sales
 "Description Message",描述消息,module,Magento_Sales
 "This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","低于的最小允许金额小计 (打折后) 时，将购物车中显示此消息。",module,Magento_Sales
-"Error to Show in Shopping Cart",显示购物车中的错误,module,Magento_Sales
-"Validate Each Address Separately in Multi-address Checkout",验证每个地址分别在多地址结帐,module,Magento_Sales
+"Error to Show in Shopping Cart",购物车中显示的错误,module,Magento_Sales
+"Validate Each Address Separately in Multi-address Checkout",在多地址结帐时验证每个地址,module,Magento_Sales
 "Multi-address Description Message",多地址描述消息,module,Magento_Sales
 "We'll use the default description above if you leave this empty.",如果你离开这空，我们可以使用上面的默认说明。,module,Magento_Sales
-"Multi-address Error to Show in Shopping Cart",多地址错误显示在购物车,module,Magento_Sales
+"Multi-address Error to Show in Shopping Cart",购物车中显示的多地址错误,module,Magento_Sales
 "We'll use the default error above if you leave this empty.",如果你离开这空，我们可以使用上面的默认错误。,module,Magento_Sales
 Dashboard,控制面板,module,Magento_Sales
-"Use Aggregated Data","Use Aggregated Data",module,Magento_Sales
+"Use Aggregated Data","启用聚合数据",module,Magento_Sales
+"Improves dashboard performance but provides non-realtime data.","改善控制面板的性能，但是提供非实时数据",module,Magento_Sales
 "Orders Cron Settings","订单 Cron 设置",module,Magento_Sales
 "Pending Payment Order Lifetime (minutes)","待付款订单寿命 (分钟)",module,Magento_Sales
 "Sales Emails",销售电子邮件,module,Magento_Sales
@@ -9511,25 +9512,25 @@ Enabled,启用,module,Magento_Sales
 "New Order Confirmation Email Sender",新订单确认电子邮件发件人,module,Magento_Sales
 "New Order Confirmation Template",新订单确认模板,module,Magento_Sales
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Sales
-"New Order Confirmation Template for Guest",新订单确认模板为访客的,module,Magento_Sales
-"Send Order Email Copy To",发送订单的电子邮件的复件到,module,Magento_Sales
+"New Order Confirmation Template for Guest",访客的新订单确认模板,module,Magento_Sales
+"Send Order Email Copy To",发送订单的电子邮件复件到,module,Magento_Sales
 Comma-separated,以逗号分隔,module,Magento_Sales
 "Send Order Email Copy Method",发送订单的电子邮件拷贝方法,module,Magento_Sales
-"Order Comment Email Sender",订单评论的电子邮件发件人,module,Magento_Sales
-"Order Comment Email Template",订单评论电子邮件模板,module,Magento_Sales
-"Order Comment Email Template for Guest",访客的订单评论电子邮件模板,module,Magento_Sales
+"Order Comment Email Sender",订单备注电子邮件发件人,module,Magento_Sales
+"Order Comment Email Template",订单备注电子邮件模板,module,Magento_Sales
+"Order Comment Email Template for Guest",访客的订单备注电子邮件模板,module,Magento_Sales
 "Send Order Comment Email Copy To",发送订单备注邮件的复件到,module,Magento_Sales
-"Send Order Comments Email Copy Method",发送订单评论电子邮件复制方法,module,Magento_Sales
+"Send Order Comments Email Copy Method",发送订单备注电子邮件复制方法,module,Magento_Sales
 "Invoice Email Sender",发票的电子邮件发件人,module,Magento_Sales
 "Invoice Email Template",发票的电子邮件模板,module,Magento_Sales
 "Invoice Email Template for Guest",访客的发票电子邮件模板,module,Magento_Sales
 "Send Invoice Email Copy To",发送发票电子邮件的复件到,module,Magento_Sales
 "Send Invoice Email Copy Method",发送发票电子邮件复制方法,module,Magento_Sales
-"Invoice Comment Email Sender",发票的评论的电子邮件发件人,module,Magento_Sales
-"Invoice Comment Email Template",发票的评论的电子邮件模板,module,Magento_Sales
-"Invoice Comment Email Template for Guest",访客的发票评论电子邮件模板,module,Magento_Sales
+"Invoice Comment Email Sender",发票备注的电子邮件发件人,module,Magento_Sales
+"Invoice Comment Email Template",发票备注的电子邮件模板,module,Magento_Sales
+"Invoice Comment Email Template for Guest",访客的发票备注电子邮件模板,module,Magento_Sales
 "Send Invoice Comment Email Copy To",发送发票备注邮件的复件到,module,Magento_Sales
-"Send Invoice Comments Email Copy Method",发送发票评论电子邮件复制方法,module,Magento_Sales
+"Send Invoice Comments Email Copy Method",发送发票备注电子邮件复制方法,module,Magento_Sales
 Shipment,装运,module,Magento_Sales
 "Shipment Email Sender",装运电子邮件发件人,module,Magento_Sales
 "Shipment Email Template",装运电子邮件模板,module,Magento_Sales
@@ -9542,16 +9543,16 @@ Shipment,装运,module,Magento_Sales
 "Shipment Comment Email Template for Guest",访客的装运评论电子邮件模板,module,Magento_Sales
 "Send Shipment Comment Email Copy To",发送装运备注邮件的复件到,module,Magento_Sales
 "Send Shipment Comments Email Copy Method",发送装运评论电子邮件复制方法,module,Magento_Sales
-"Credit Memo Email Sender",信用备忘录电子邮件发件人,module,Magento_Sales
-"Credit Memo Email Template",信用备忘录电子邮件模板,module,Magento_Sales
-"Credit Memo Email Template for Guest",访客的信用备忘录电子邮件模板,module,Magento_Sales
+"Credit Memo Email Sender",贷项通知单电子邮件发件人,module,Magento_Sales
+"Credit Memo Email Template",贷项通知单电子邮件模板,module,Magento_Sales
+"Credit Memo Email Template for Guest",访客的贷项通知单电子邮件模板,module,Magento_Sales
 "Send Credit Memo Email Copy To",发送信用备注邮件的复件到,module,Magento_Sales
-"Send Credit Memo Email Copy Method",发送信用备忘录电子邮件复制方法,module,Magento_Sales
-"Credit Memo Comment Email Sender",信用备忘录评论的电子邮件发件人,module,Magento_Sales
-"Credit Memo Comment Email Template",信用备忘录评论电子邮件模板,module,Magento_Sales
-"Credit Memo Comment Email Template for Guest",访客的信用备忘录评论电子邮件模板,module,Magento_Sales
-"Send Credit Memo Comment Email Copy To",发送信用备忘录备注邮件的复件到,module,Magento_Sales
-"Send Credit Memo Comments Email Copy Method",发送信用备忘录评论电子邮件复制方法,module,Magento_Sales
+"Send Credit Memo Email Copy Method",发送贷项通知单电子邮件复制方法,module,Magento_Sales
+"Credit Memo Comment Email Sender",贷项通知单备注的电子邮件发件人,module,Magento_Sales
+"Credit Memo Comment Email Template",贷项通知单备注电子邮件模板,module,Magento_Sales
+"Credit Memo Comment Email Template for Guest",访客的贷项通知单备注电子邮件模板,module,Magento_Sales
+"Send Credit Memo Comment Email Copy To",发送贷项通知单备注邮件的复件到,module,Magento_Sales
+"Send Credit Memo Comments Email Copy Method",发送贷项通知单备注电子邮件复制方法,module,Magento_Sales
 "PDF Print-outs","PDF 打印件",module,Magento_Sales
 "Display Order ID in Header","在页眉中显示订单 ID",module,Magento_Sales
 "Customer Order Status Notification",客户订单状态通知,module,Magento_Sales
@@ -9619,7 +9620,7 @@ Add,添加,module,Magento_SalesArchive
 "All Store Views",所有商店界面,module,Magento_SalesArchive
 "Purchased From",从购买,module,Magento_SalesArchive
 "PDF Credit Memos","PDF 贷项通知单",module,Magento_SalesArchive
-"Credit Memo",信用备忘录,module,Magento_SalesArchive
+"Credit Memo",贷项通知单,module,Magento_SalesArchive
 Created,创建时间,module,Magento_SalesArchive
 Order,订单,module,Magento_SalesArchive
 "Order Date",订单日期,module,Magento_SalesArchive
@@ -11129,7 +11130,7 @@ Taxes,税收,module,Magento_Tax
 "Include Tax In Order Total",在订单合计中包括税,module,Magento_Tax
 "Display Full Tax Summary",显示全部纳税摘要,module,Magento_Tax
 "Display Zero Tax Subtotal",显示零税小计,module,Magento_Tax
-"Orders, Invoices, Credit Memos Display Settings",订单，发票，信用备忘录显示设置,module,Magento_Tax
+"Orders, Invoices, Credit Memos Display Settings",订单，发票，贷项通知单显示设置,module,Magento_Tax
 State/Region,国家/地区,module,Magento_Tax
 Rate,费率,module,Magento_Tax
 "Subtotal Only",只有小计,module,Magento_Tax
@@ -12070,9 +12071,9 @@ Node,节点,module,Magento_VersionsCms
 "Website Root",网站根目录,module,Magento_VersionsCms
 Page:,页面,module,Magento_VersionsCms
 Page,页面,module,Magento_VersionsCms
-Previous,上一个,module,Magento_VersionsCms
+Previous,上一步,module,Magento_VersionsCms
 "You're currently reading page",您当前正在阅读页,module,Magento_VersionsCms
-Next,下一个,module,Magento_VersionsCms
+Next,下一步,module,Magento_VersionsCms
 "Delete Revision and Version","Delete Revision and Version",module,Magento_VersionsCms
 "Publish Revision","Publish Revision",module,Magento_VersionsCms
 Pages,页面,module,Magento_VersionsCms
