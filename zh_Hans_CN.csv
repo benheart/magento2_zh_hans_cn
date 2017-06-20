@@ -390,7 +390,7 @@ Guest,访客,module,Magento_Backend
 Items,商品,module,Magento_Backend
 Total,总额,module,Magento_Backend
 "Lifetime Sales",销售总额,module,Magento_Backend
-"Average Order",平均订单,module,Magento_Backend
+"Average Order",订单均值,module,Magento_Backend
 Average,平均,module,Magento_Backend
 Product,商品,module,Magento_Backend
 Price,价格,module,Magento_Backend
