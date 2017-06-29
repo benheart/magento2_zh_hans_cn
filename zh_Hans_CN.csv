@@ -39,8 +39,8 @@ Notifications,通知消息,module,Magento_AdminNotification
 "6 Hours","6 个小时",module,Magento_AdminNotification
 "12 Hours","12 个小时",module,Magento_AdminNotification
 "24 Hours","24 小时",module,Magento_AdminNotification
-critical,危急,module,Magento_AdminNotification
-major,重大的,module,Magento_AdminNotification
+critical,严重,module,Magento_AdminNotification
+major,重要,module,Magento_AdminNotification
 minor,次要,module,Magento_AdminNotification
 notice,通知,module,Magento_AdminNotification
 "Wrong message type",错误消息类型,module,Magento_AdminNotification
@@ -64,7 +64,7 @@ unread),未读),module,Magento_AdminNotification
 "Update Frequency",更新频率,module,Magento_AdminNotification
 "Last Update",最近更新,module,Magento_AdminNotification
 Severity,严重程度,module,Magento_AdminNotification
-"Date Added",日期已添加,module,Magento_AdminNotification
+"Date Added",发布日期,module,Magento_AdminNotification
 Message,信息,module,Magento_AdminNotification
 Actions,动作,module,Magento_AdminNotification
 "Manage Shopping Cart",管理购物车,module,Magento_AdvancedCheckout
@@ -971,7 +971,7 @@ Position,位置,module,Magento_Banner
 "-- None --","— — 无 — —",module,Magento_Banner
 Error,错误,module,Magento_Banner
 "Related Cart Price Rules",相关购物车价格规则。,module,Magento_Banner
-"Related Catalog Price Rules",相关的目录价格规则。,module,Magento_Banner
+"Related Catalog Price Rules",相关的商品价格规则。,module,Magento_Banner
 "Manage Banners",管理Banners,module,Magento_Banner
 "Banner Rotator",Banner旋转,module,Magento_Banner
 "Displays Specified or Promotion Banners",显示指定或推广Banners,module,Magento_Banner
@@ -2326,7 +2326,7 @@ Promotions,促销活动,module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.",我们现在不能删除该规则。请查看日志并再试一次。,module,Magento_CatalogRule
 "We can't find a rule to delete.",我们找不到要删除的规则。,module,Magento_CatalogRule
 "This rule no longer exists.",该规则已不存在。,module,Magento_CatalogRule
-"New Catalog Price Rule",新目录价格规则,module,Magento_CatalogRule
+"New Catalog Price Rule",新商品价格规则,module,Magento_CatalogRule
 "Edit Rule",修改规则,module,Magento_CatalogRule
 "New Rule",新规则,module,Magento_CatalogRule
 Catalog,目录重写,module,Magento_CatalogRule
@@ -2356,7 +2356,7 @@ Promo,促销,module,Magento_CatalogRule
 "Conditions Combination",条件组合,module,Magento_CatalogRule
 "Product Attribute",商品属性,module,Magento_CatalogRule
 "Updated rules applied.",应用的更新的规则。,module,Magento_CatalogRule
-"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","你禁用的 %1 目录价格规则，基于""%2""属性。",module,Magento_CatalogRule
+"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","你禁用的 %1 商品价格规则，基于""%2""属性。",module,Magento_CatalogRule
 "Catalog Rule Product",目录规则商品,module,Magento_CatalogRule
 "Indexed rule/product association",索引商品/规则关联,module,Magento_CatalogRule
 "Catalog Product Rule",目录商品规则,module,Magento_CatalogRule
@@ -2409,8 +2409,8 @@ No,否　,module,Magento_CatalogRuleStaging
 "Start Time",开始时间：,module,Magento_CatalogRuleStaging
 "End Time",结束时间,module,Magento_CatalogRuleStaging
 Websites,网站,module,Magento_CatalogRuleStaging
-"Catalog Price Rules",目录价格规则。,module,Magento_CatalogRuleStaging
-"Remove Catalog Price Rule from Campaign",从运动中删除目录价格规则,module,Magento_CatalogRuleStaging
+"Catalog Price Rules",商品价格规则。,module,Magento_CatalogRuleStaging
+"Remove Catalog Price Rule from Campaign",从运动中删除商品价格规则,module,Magento_CatalogRuleStaging
 Home,主页,module,Magento_CatalogSearch
 "Go to Home Page",转到主页,module,Magento_CatalogSearch
 "Catalog Advanced Search",高级分类搜索,module,Magento_CatalogSearch
@@ -6270,7 +6270,7 @@ Customers,客户,module,Magento_Logging
 "Customer Groups",客户组,module,Magento_Logging
 Reports,报告,module,Magento_Logging
 "System Configuration",系统配置,module,Magento_Logging
-"Catalog Price Rules",目录价格规则。,module,Magento_Logging
+"Catalog Price Rules",商品价格规则。,module,Magento_Logging
 "Cart Price Rules",购物车价格规则,module,Magento_Logging
 "Admin My Account",管理我的帐户,module,Magento_Logging
 "Newsletter Queue",资讯队列,module,Magento_Logging
@@ -7651,7 +7651,7 @@ Delete,删除,module,Magento_ProductVideo
 "Auto restart video","Auto restart video",module,Magento_ProductVideo
 "Images And Videos","Images And Videos",module,Magento_ProductVideo
 "Images And Videos",图片和视频,module,Magento_ProductVideoStaging
-"Edit Catalog Price Rules",编辑目录价格规则。,module,Magento_PromotionPermissions
+"Edit Catalog Price Rules",编辑商品价格规则。,module,Magento_PromotionPermissions
 "Edit Cart Price Rules",编辑购物车价格规则,module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules",编辑自动电子邮件提醒规则,module,Magento_PromotionPermissions
 "Unable to save address. Please check input data.",无法保存地址。请检查输入的数据。,module,Magento_Quote
@@ -11100,33 +11100,33 @@ Save,保存,module,Magento_Tax
 Taxes,税收,module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes",税收类,module,Magento_Tax
-"Tax Class for Shipping",航运的税类,module,Magento_Tax
-"Default Tax Class for Product",商品的默认税类,module,Magento_Tax
-"Default Tax Class for Customer",客户默认税类,module,Magento_Tax
+"Tax Class for Shipping",运费税类,module,Magento_Tax
+"Default Tax Class for Product",默认商品税类,module,Magento_Tax
+"Default Tax Class for Customer",默认客户税类,module,Magento_Tax
 "Calculation Settings",计算设置,module,Magento_Tax
-"Tax Calculation Method Based On",一种基于的税计算方法,module,Magento_Tax
-"Tax Calculation Based On",税收计算基于,module,Magento_Tax
-"Catalog Prices",目录价格,module,Magento_Tax
-"This sets whether catalog prices entered from Magento Admin include tax.","这设置是否从 Magento Admin 进入目录价格包含税。",module,Magento_Tax
-"Shipping Prices",航运价格,module,Magento_Tax
+"Tax Calculation Method Based On",税计算方法基准,module,Magento_Tax
+"Tax Calculation Based On",税收计算基准,module,Magento_Tax
+"Catalog Prices",商品价格,module,Magento_Tax
+"This sets whether catalog prices entered from Magento Admin include tax.","这设置是否从 Magento Admin 进入商品价格包含税。",module,Magento_Tax
+"Shipping Prices",运费价格,module,Magento_Tax
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","这设置是否航运数额从 Magento 管理员输入或从网关得到包括税。",module,Magento_Tax
 "Apply Customer Tax",适用客户税,module,Magento_Tax
 "Apply Discount On Prices",应用在价格上的折扣,module,Magento_Tax
 "Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
 "Apply Tax On",关于适用税,module,Magento_Tax
 "Enable Cross Border Trade",启用跨边境贸易,module,Magento_Tax
-"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.",当目录价格包括税收时，启用此设置将修复价格无论客户的税率。,module,Magento_Tax
+"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.",当商品价格包括税收时，启用此设置将修复价格无论客户的税率。,module,Magento_Tax
 "Default Tax Destination Calculation",默认税目的地计算,module,Magento_Tax
 "Default Country",默认国家,module,Magento_Tax
 "Default State",默认状态,module,Magento_Tax
 "Default Post Code",默认开机自检代码,module,Magento_Tax
-"Price Display Settings","价格: 显示设置",module,Magento_Tax
-"Display Product Prices In Catalog",在目录中显示商品价格,module,Magento_Tax
-"Display Shipping Prices",航运价格显示,module,Magento_Tax
+"Price Display Settings","价格显示设置",module,Magento_Tax
+"Display Product Prices In Catalog",在商品列表中显示商品价格,module,Magento_Tax
+"Display Shipping Prices",运费价格显示,module,Magento_Tax
 "Shopping Cart Display Settings",购物车显示设置,module,Magento_Tax
 "Display Prices",显示价格,module,Magento_Tax
-"Display Subtotal",显示分类汇总,module,Magento_Tax
-"Display Shipping Amount",显示航运量,module,Magento_Tax
+"Display Subtotal",显示小计,module,Magento_Tax
+"Display Shipping Amount",显示运费值,module,Magento_Tax
 "Include Tax In Order Total",在订单合计中包括税,module,Magento_Tax
 "Display Full Tax Summary",显示全部纳税摘要,module,Magento_Tax
 "Display Zero Tax Subtotal",显示零税小计,module,Magento_Tax
@@ -11303,7 +11303,7 @@ Empty,"商品 %1",module,Magento_Theme
 "1 column","1 列",module,Magento_Theme
 Configuration,设置,module,Magento_Theme
 "Default Description",默认描述,module,Magento_Theme
-"Default welcome msg!",默认欢迎标语!,module,Magento_Theme
+"Default welcome msg!",默认欢迎语!,module,Magento_Theme
 "Copyright © 2017 Magento, Inc. All rights reserved.","Copyright © 2017 Magento, Inc. 版权所有",module,Magento_Theme
 "Design Config Grid","Design Config Grid",module,Magento_Theme
 "Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
@@ -12247,7 +12247,7 @@ Total,总额,module,Magento_Weee
 "Display Prices In Sales Modules",在销售模块中显示价格,module,Magento_Weee
 "Display Prices In Emails",在电子邮件中显示的价格,module,Magento_Weee
 "Apply Tax To FPT","适用于 FPT 税",module,Magento_Weee
-"Include FPT In Subtotal","在分类汇总中包括 FPT",module,Magento_Weee
+"Include FPT In Subtotal","在小计中包括 FPT",module,Magento_Weee
 "Widget Insertion",小部件插入,module,Magento_Widget
 "Insert Widget",插入部件,module,Magento_Widget
 label,标签,module,Magento_Widget
