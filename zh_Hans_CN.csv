@@ -2595,7 +2595,7 @@ Checkout,结帐,module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.",在处理您的订单时，出了错。请稍后再试。,module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 不延长 \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","Payment Method",module,Magento_Checkout
-"Payment Page","Payment Page",module,Magento_Checkout
+"Payment Page","支付页面",module,Magento_Checkout
 "We can't find the product.",我们找不到该商品,module,Magento_Checkout
 "We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Checkout
 "The product does not exist.",商品不存在。,module,Magento_Checkout
@@ -2717,25 +2717,25 @@ Shipping,送货,module,Magento_Checkout
 "Checkout Options",结账选项,module,Magento_Checkout
 "Enable Onepage Checkout",使用同一页面结帐,module,Magento_Checkout
 "Allow Guest Checkout",允许访客结帐,module,Magento_Checkout
-"Display Billing Address On","Display Billing Address On",module,Magento_Checkout
+"Display Billing Address On","显示账单地址于",module,Magento_Checkout
 "Maximum Number of Items to Display in Order Summary","Maximum Number of Items to Display in Order Summary",module,Magento_Checkout
-"Quote Lifetime (days)","引述有效期 (天)",module,Magento_Checkout
-"After Adding a Product Redirect to Shopping Cart",将商品重定向添加到购物车后,module,Magento_Checkout
+"Quote Lifetime (days)","报价有效期 (天)",module,Magento_Checkout
+"After Adding a Product Redirect to Shopping Cart",商品添加购物车后重定向到购物车,module,Magento_Checkout
 "Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
 "My Cart Link",我购物车链接,module,Magento_Checkout
 "Display Cart Summary",显示购物车摘要,module,Magento_Checkout
 "Shopping Cart Sidebar",购物车侧边栏,module,Magento_Checkout
 "Display Shopping Cart Sidebar",显示购物车侧边栏,module,Magento_Checkout
 "Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
-"Maximum Number of Items to Display","Maximum Number of Items to Display",module,Magento_Checkout
-"Payment Failed Emails",支付失败的电子邮件,module,Magento_Checkout
+"Maximum Display Recently Added Item(s)","最近添加商品的最大显示数量",module,Magento_Checkout
+"Payment Failed Emails",支付失败电子邮件,module,Magento_Checkout
 "Payment Failed Email Sender",支付失败邮件发件人,module,Magento_Checkout
 "Payment Failed Email Receiver",支付失败邮件接收者,module,Magento_Checkout
 "Payment Failed Template",支付失败模板,module,Magento_Checkout
 "Email template chosen based on theme fallback when ""Default"" option is selected.",电子邮件模板选择基于主题的回退时，选择“默认”选项。,module,Magento_Checkout
-"Send Payment Failed Email Copy To",发送付款失败邮件的复件到,module,Magento_Checkout
-"Separate by "","".","单独的""，""。",module,Magento_Checkout
-"Send Payment Failed Email Copy Method",发送支付失败邮件副本的方法,module,Magento_Checkout
+"Send Payment Failed Email Copy To",发送付款失败邮件复件到,module,Magento_Checkout
+"Separate by "","".","以""，""间隔。",module,Magento_Checkout
+"Send Payment Failed Email Copy Method",发送支付失败邮件副本方法,module,Magento_Checkout
 Summary,摘要,module,Magento_Checkout
 "Order Total",订单金额,module,Magento_Checkout
 "We'll send your order confirmation here.",在这里，我们会给您的订单确认。,module,Magento_Checkout
@@ -2784,7 +2784,7 @@ Manually,手动,module,Magento_CheckoutAgreements
 "Checkout agreement with specified ID ""%1"" not found.","结帐协议具有指定 ID""%1""找不到。",module,Magento_CheckoutAgreements
 Close,Close,module,Magento_CheckoutAgreements
 "Terms & Conditions","Terms & Conditions",module,Magento_CheckoutAgreements
-"Enable Terms and Conditions",启用的条款和条件,module,Magento_CheckoutAgreements
+"Enable Terms and Conditions",启用条款和条件,module,Magento_CheckoutAgreements
 "Preview mode doesn't allow submitting the order.",预览模式下不允许提交订单。,module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","Preview Quote Lifetime (minutes)",module,Magento_CheckoutStaging
 "Static Blocks",静态块,module,Magento_Cms
@@ -3250,7 +3250,7 @@ Cancel,取消,module,Magento_ConfigurableProduct
 "Something went wrong.","Something went wrong.",module,Magento_ConfigurableProduct
 "Buy %1 for %2 each and","Buy %1 for %2 each and",module,Magento_ConfigurableProduct
 save,save,module,Magento_ConfigurableProduct
-"Configurable Product Image",可配置的商品图像,module,Magento_ConfigurableProduct
+"Configurable Product Image",可配置商品图片,module,Magento_ConfigurableProduct
 Select...,选择...,module,Magento_ConfigurableProduct
 ID,ID,module,Magento_ConfigurableProduct
 Thumbnail,缩略图,module,Magento_ConfigurableProduct
@@ -5709,7 +5709,7 @@ Creative,创意,module,Magento_GoogleTagManager
 "Add Products to Group",将商品添加到组,module,Magento_GroupedProduct
 Cancel,取消,module,Magento_GroupedProduct
 "Add Selected Products",添加所选的商品,module,Magento_GroupedProduct
-"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.",module,Magento_GroupedProduct
+"A grouped product is made up of multiple, standalone products that are presented as a group. You can offer variations of a single product, or group them by season or theme to create a coordinated set. Each product can be purchased separately, or as part of the group.","组合商品由多个独立商品组成，作为一组呈现。 您可以提供单个商品的sku，或按季节或主题分组，以创建一个协调的集合。 每个商品可以单独购买，也可以作为组的一部分购买。",module,Magento_GroupedProduct
 Remove,移除,module,Magento_GroupedProduct
 ID,ID,module,Magento_GroupedProduct
 Thumbnail,缩略图,module,Magento_GroupedProduct
@@ -5726,13 +5726,13 @@ Availability:,库存:,module,Magento_GroupedProduct
 "Product Name",商品名称,module,Magento_GroupedProduct
 Qty,数量,module,Magento_GroupedProduct
 "No options of this product are available.",该商品没有可用选项。,module,Magento_GroupedProduct
-"There are no grouped products.",没有分组的商品。,module,Magento_GroupedProduct
+"There are no grouped products.",没有组合商品。,module,Magento_GroupedProduct
 "Default Qty",默认数量,module,Magento_GroupedProduct
 "Starting at",起价,module,Magento_GroupedProduct
 Availability,库存,module,Magento_GroupedProduct
 "In stock",有货,module,Magento_GroupedProduct
-"Grouped product items",组合的商品项目,module,Magento_GroupedProduct
-"Grouped Product Image",组合的商品的图片,module,Magento_GroupedProduct
+"Grouped product items",组合商品项目,module,Magento_GroupedProduct
+"Grouped Product Image",组合商品图片,module,Magento_GroupedProduct
 Select...,选择...,module,Magento_GroupedProduct
 Type,类型,module,Magento_GroupedProduct
 Quantity,数量,module,Magento_GroupedProduct
