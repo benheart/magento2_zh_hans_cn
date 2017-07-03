@@ -1083,7 +1083,7 @@ Amount,数额,module,Magento_Braintree
 "Settlement Batch ID",结算批处理编号ID,module,Magento_Braintree
 Currency,货币,module,Magento_Braintree
 Country,国家,module,Magento_BraintreeTwo
-"Allowed Credit Card Types",无法更新送货方式,module,Magento_BraintreeTwo
+"Allowed Credit Card Types",无法更新物流方式,module,Magento_BraintreeTwo
 "Add Rule",添加规则,module,Magento_BraintreeTwo
 "Braintree Settlement Report",Braintree结算报告,module,Magento_BraintreeTwo
 "Sorry, but something went wrong",抱歉，但事情出了错,module,Magento_BraintreeTwo
@@ -2610,7 +2610,7 @@ Checkout,结帐,module,Magento_Checkout
 "Shipping address is not set",运营商有这样的方法没有发现：%1%2,module,Magento_Checkout
 "Unable to save shipping information. Please check input data.",无法保存航运信息。请检查输入的数据。,module,Magento_Checkout
 "Carrier with such method not found: %1, %2","承运人用这样的方法找不到: %1，%2",module,Magento_Checkout
-"Shipping method is not applicable for empty cart",送货方式不是适用于空购物车,module,Magento_Checkout
+"Shipping method is not applicable for empty cart",物流方式不是适用于空购物车,module,Magento_Checkout
 item,项目,module,Magento_Checkout
 items,项目,module,Magento_Checkout
 "Totals calculation is not applicable to empty cart",总计计算是不适用于空购物车,module,Magento_Checkout
@@ -4431,14 +4431,14 @@ Documents,文件,module,Magento_Dhl
 None,无,module,Magento_Dhl
 Field,Field,module,Magento_Dhl
 "is required.","is required.",module,Magento_Dhl
-"Enabled for Checkout",免费送货金额门槛,module,Magento_Dhl
+"Enabled for Checkout",启用支付,module,Magento_Dhl
 "Gateway URL",网关网址,module,Magento_Dhl
 Title,标题,module,Magento_Dhl
 "Access ID","访问 ID",module,Magento_Dhl
 Password,密码,module,Magento_Dhl
 "Account Number",帐户号码,module,Magento_Dhl
 "Content Type",内容类型,module,Magento_Dhl
-"Calculate Handling Fee",显示不适用的方法,module,Magento_Dhl
+"Calculate Handling Fee",计算处理费,module,Magento_Dhl
 "Handling Applied",处理的应用,module,Magento_Dhl
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""每个订单""允许为整个订单的单手续费。""每个包""允许单独的处理费用为每个包。",module,Magento_Dhl
 "Handling Fee",处理费,module,Magento_Dhl
@@ -4983,7 +4983,7 @@ None,无,module,Magento_Fedex
 Field,Field,module,Magento_Fedex
 "is required.","is required.",module,Magento_Fedex
 FedEx,联邦快递,module,Magento_Fedex
-"Enabled for Checkout",免费送货金额门槛,module,Magento_Fedex
+"Enabled for Checkout",启用支付,module,Magento_Fedex
 Title,标题,module,Magento_Fedex
 "Account ID","帐户 ID",module,Magento_Fedex
 "Please make sure to use only digits here. No dashes are allowed.",请务必使用只有数字在这里。允许没有虚线。,module,Magento_Fedex
@@ -4998,7 +4998,7 @@ Packaging,包装,module,Magento_Fedex
 Dropoff,摘下,module,Magento_Fedex
 "Weight Unit",重量单位,module,Magento_Fedex
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您航运承运人)",module,Magento_Fedex
-"Calculate Handling Fee",显示不适用的方法,module,Magento_Fedex
+"Calculate Handling Fee",计算处理费,module,Magento_Fedex
 "Handling Applied",处理的应用,module,Magento_Fedex
 "Handling Fee",处理费,module,Magento_Fedex
 "Residential Delivery",住宅交付,module,Magento_Fedex
@@ -6538,7 +6538,7 @@ Comment,评论,module,Magento_MultipleWishlist
 "Review Order - %1",复核订单-%1,module,Magento_Multishipping
 Total,总额,module,Magento_Multishipping
 "Total for this address",共为此地址的,module,Magento_Multishipping
-"Shipping Methods",送货方式,module,Magento_Multishipping
+"Shipping Methods",物流方式,module,Magento_Multishipping
 "Edit Address",更改地址,module,Magento_Multishipping
 "Edit Billing Address",编辑帐单地址,module,Magento_Multishipping
 "Edit Shipping Address",编辑送货地址,module,Magento_Multishipping
@@ -6614,12 +6614,12 @@ Items,商品,module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.",因为你没有设置的付款方式，我们无法完成您的订单。,module,Magento_Multishipping
 "Please choose a payment method.",请选择支付方式,module,Magento_Multishipping
 "Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
-"Multishipping Settings",多送货地址设置,module,Magento_Multishipping
+"Multishipping Settings",多物流地址设置,module,Magento_Multishipping
 Options,选项,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses",允许发货到多个地址,module,Magento_Multishipping
 "Maximum Qty Allowed for Shipping to Multiple Addresses",允许发货到多个地址的最大数量,module,Magento_Multishipping
 "Review Order",查看订单,module,Magento_Multishipping
-"Select Shipping Method",选择送货方式,module,Magento_Multishipping
+"Select Shipping Method",选择物流方式,module,Magento_Multishipping
 "We received your order!",我们收到您的订单!,module,Magento_Multishipping
 "Message has been rejected: %1","消息被拒绝: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","MySQL 消息队列清理",module,Magento_MysqlMq
@@ -6861,11 +6861,11 @@ No,否,module,Magento_OfflineShipping
 "For shipment with matching items",为匹配项的装运,module,Magento_OfflineShipping
 Field,Field,module,Magento_OfflineShipping
 "is required.","is required.",module,Magento_OfflineShipping
-"Flat Rate",扁平率,module,Magento_OfflineShipping
+"Flat Rate",统一运费,module,Magento_OfflineShipping
 Enabled,启用,module,Magento_OfflineShipping
 "Method Name",方法名称,module,Magento_OfflineShipping
 Price,价格,module,Magento_OfflineShipping
-"Calculate Handling Fee",显示不适用的方法,module,Magento_OfflineShipping
+"Calculate Handling Fee",计算处理费,module,Magento_OfflineShipping
 "Handling Fee",处理费,module,Magento_OfflineShipping
 "Sort Order",排序,module,Magento_OfflineShipping
 Title,标题,module,Magento_OfflineShipping
@@ -6876,10 +6876,10 @@ Type,类型,module,Magento_OfflineShipping
 "Displayed Error Message",显示的错误消息,module,Magento_OfflineShipping
 "Table Rates",费率表,module,Magento_OfflineShipping
 Condition,条款,module,Magento_OfflineShipping
-"Include Virtual Products in Price Calculation",在价格计算中包括虚拟商品,module,Magento_OfflineShipping
+"Include Virtual Products in Price Calculation",价格计算包括虚拟商品,module,Magento_OfflineShipping
 Export,导出,module,Magento_OfflineShipping
 Import,导入,module,Magento_OfflineShipping
-"Free Shipping",免费送货,module,Magento_OfflineShipping
+"Free Shipping",免邮,module,Magento_OfflineShipping
 "Minimum Order Amount",最低订单金额,module,Magento_OfflineShipping
 "-- Please Select --","-- Please Select --",module,Magento_OfflineShipping
 "Export VCL for Varnish %1","出口VCL为Varnish %1",module,Magento_PageCache
@@ -7345,8 +7345,8 @@ Create...,创建...,module,Magento_Paypal
 "Your credit card will be charged for",您的信用卡将被收费,module,Magento_Paypal
 "Your billing agreement # is:",你的账单协议号是:,module,Magento_Paypal
 "Shipping Method",运送方式,module,Magento_Paypal
-"Please select a shipping method...",请选择送货方式...,module,Magento_Paypal
-"Update Shipping Method",更新送货方式,module,Magento_Paypal
+"Please select a shipping method...",请选择物流方式...,module,Magento_Paypal
+"Update Shipping Method",更新物流方式,module,Magento_Paypal
 "Sorry, no quotes are available for this order right now.",抱歉，目前没有报价可用于此订单。,module,Magento_Paypal
 "Shipping Address",送货地址,module,Magento_Paypal
 Edit,编辑,module,Magento_Paypal
@@ -7453,7 +7453,7 @@ Title,标题,module,Magento_Paypal
 "Enable SSL verification","启用 SSL 验证",module,Magento_Paypal
 "Transfer Cart Line Items",车线物料转移,module,Magento_Paypal
 "Transfer Shipping Options",转让送货选项,module,Magento_Paypal
-"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","如果启用此选项，则客户可以更改送货地址和送货方式在PayPal网站上。在实时模式中工作通过 HTTPS 协议只。",module,Magento_Paypal
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","如果启用此选项，则客户可以更改送货地址和物流方式在PayPal网站上。在实时模式中工作通过 HTTPS 协议只。",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","请注意，PayPal 可以处理达 10 送货选项。这就是为什么 Magento 将转移只有首先 10 最便宜的运输选项，如果超过 10。",module,Magento_Paypal
 "Shortcut Buttons Flavor",快捷方式按钮风味,module,Magento_Paypal
 "Enable PayPal Guest Checkout",启用PayPal来宾结帐,module,Magento_Paypal
@@ -7531,7 +7531,7 @@ User,用户,module,Magento_Paypal
 "Basic Settings - PayPal Payflow Pro","基本设置-PayPal 转账 Pro",module,Magento_Paypal
 "Vault Title","Vault Title",module,Magento_Paypal
 "Credit Card Settings",信用卡设置,module,Magento_Paypal
-"Allowed Credit Card Types",无法更新送货方式,module,Magento_Paypal
+"Allowed Credit Card Types",允许的信用卡类型,module,Magento_Paypal
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","支持的美国运通卡需要附加协议。了解更多在 <a href=""http://www.paypal.com/amexupdate""> http://www.paypal.com/amexupdate</a>。",module,Magento_Paypal
 "CVV and AVS Settings","CVV和 AVS 设置",module,Magento_Paypal
 "Reject Transaction if:",拒绝交易的条件：,module,Magento_Paypal
@@ -7656,7 +7656,7 @@ Delete,删除,module,Magento_ProductVideo
 "Edit Automated Email Reminder Rules",编辑自动电子邮件提醒规则,module,Magento_PromotionPermissions
 "Unable to save address. Please check input data.",无法保存地址。请检查输入的数据。,module,Magento_Quote
 "Cart %1 doesn't contain products",车%1不包含商品,module,Magento_Quote
-"Could not apply coupon code","无法设置送货方式。 %1",module,Magento_Quote
+"Could not apply coupon code","无法应用优惠券代码",module,Magento_Quote
 "Coupon code is not valid",优惠券代码无效,module,Magento_Quote
 "Could not delete coupon code",无法删除优惠券代码,module,Magento_Quote
 "Cannot assign customer to the given cart. You don't have permission for this operation.","Cannot assign customer to the given cart. You don't have permission for this operation.",module,Magento_Quote
@@ -7664,7 +7664,7 @@ Delete,删除,module,Magento_ProductVideo
 "The requested Payment Method is not available.",付款方法不可用。,module,Magento_Quote
 "We found an invalid request for adding product to quote.",我们发现一个无效的请求添加商品报价。,module,Magento_Quote
 "This is the wrong quote item id to update configuration.","这是要更新配置的错误报价项目 id。",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.",这种运输方法不可用。若要使用此航运的方法，请联系我们。,module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.",该物流方式不可用，若要使用此物流方式，请联系我们。,module,Magento_Quote
 "The address model is not defined.",未定义地址模型。,module,Magento_Quote
 "The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
 "Grand Total",总额,module,Magento_Quote
@@ -7706,8 +7706,8 @@ Discount,折扣,module,Magento_Quote
 Tax,税,module,Magento_Quote
 "Cart contains virtual product(s) only. Shipping address is not applicable.",购物车只包含虚拟商品。送货地址是不适用的。,module,Magento_Quote
 "Shipping address not set.",送货地址未设置。,module,Magento_Quote
-"Cannot set shipping method. %1",不能设置送货方式。%1,module,Magento_Quote
-"Shipping method is not applicable for empty cart",送货方式不是适用于空购物车,module,Magento_Quote
+"Cannot set shipping method. %1",不能设置物流方式。%1,module,Magento_Quote
+"Shipping method is not applicable for empty cart",物流方式不是适用于空购物车,module,Magento_Quote
 "Cart contains virtual product(s) only. Shipping method is not applicable.",购物车只包含虚拟商品。送货地址是不适用的。,module,Magento_Quote
 error345,error345,module,Magento_Quote
 "Incorrect amount","Incorrect amount",module,Magento_Quote
@@ -9321,8 +9321,8 @@ Subtotal:,小计：,module,Magento_Sales
 "Subscribe to Newsletter",订阅资讯,module,Magento_Sales
 "Click to change shipping method",单击要更改的运输方法。,module,Magento_Sales
 "Sorry, no quotes are available for this order.",抱歉，没有引号都可用此订单。,module,Magento_Sales
-"Get shipping methods and rates",让送货方式及费率,module,Magento_Sales
-"You don't need to select a shipping method.",你不需要选择送货方式。,module,Magento_Sales
+"Get shipping methods and rates",让物流方式及费率,module,Magento_Sales
+"You don't need to select a shipping method.",你不需要选择物流方式。,module,Magento_Sales
 "Customer's Activities",客户活动,module,Magento_Sales
 Refresh,刷新,module,Magento_Sales
 Item,商品,module,Magento_Sales
@@ -10267,8 +10267,9 @@ Qty,数量,module,Magento_Shipping
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.",我们没有足够的信息来创建装运标签。请确保您的存储信息和设置都已完成。,module,Magento_Shipping
 "Per Order",每个订单,module,Magento_Shipping
 "Per Package",每个包,module,Magento_Shipping
-Fixed,百分之,module,Magento_Shipping
-Percent,%,module,Magento_Shipping
+Fixed,固定,module,Magento_Shipping
+Percent,百分比,module,Magento_Shipping
+"This shipping method is not available. To use this shipping method, please contact us.","该物流方式不可用，若要使用此物流方式，请联系我们。",module,Magento_Shipping
 "Tracking information is unavailable.",跟踪信息将不可用。,module,Magento_Shipping
 message,信息,module,Magento_Shipping
 "Email has not been sent",尚未发送电子邮件,module,Magento_Shipping
@@ -10349,21 +10350,21 @@ Description,描述,module,Magento_Shipping
 "Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
 "Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
 "Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
-"Shipping Settings",传送设置,module,Magento_Shipping
-Origin,起源,module,Magento_Shipping
+"Shipping Settings",物流设置,module,Magento_Shipping
+Origin,起点,module,Magento_Shipping
 Country,国家,module,Magento_Shipping
 Region/State,地区/州,module,Magento_Shipping
 "ZIP/Postal Code",邮编,module,Magento_Shipping
 City,城市,module,Magento_Shipping
 "Street Address",街道地址,module,Magento_Shipping
 "Street Address Line 2",街道地址行二,module,Magento_Shipping
-"Shipping Policy Parameters",航运政策参数,module,Magento_Shipping
-"Apply custom Shipping Policy",应用自定义的航运政策,module,Magento_Shipping
-"Shipping Policy",航运政策,module,Magento_Shipping
-"Shipping Methods",送货方式,module,Magento_Shipping
-"Track your order","Track your order",module,Magento_Shipping
-Yes,Yes,module,Magento_Signifyd
-No,No,module,Magento_Signifyd
+"Shipping Policy Parameters",物流规则参数,module,Magento_Shipping
+"Apply custom Shipping Policy",应用自定义的物流规则,module,Magento_Shipping
+"Shipping Policy",物流规则,module,Magento_Shipping
+"Shipping Methods",物流方式,module,Magento_Shipping
+"Track your order","跟踪你的订单",module,Magento_Shipping
+Yes,是,module,Magento_Signifyd
+No,否,module,Magento_Signifyd
 "Submit Guarantee Request","Submit Guarantee Request",module,Magento_Signifyd
 "Cancel Guarantee Request","Cancel Guarantee Request",module,Magento_Signifyd
 "Order id is required.","Order id is required.",module,Magento_Signifyd
@@ -10688,7 +10689,7 @@ Void,创建于,module,Magento_Support
 "Partial Refund Offline",部分退款离线,module,Magento_Support
 "Payments Functionality Matrix",付款功能矩阵,module,Magento_Support
 "Payment Methods",付款方式,module,Magento_Support
-"Shipping Methods",送货方式,module,Magento_Support
+"Shipping Methods",物流方式,module,Magento_Support
 "Job Code",作业代码,module,Magento_Support
 "Cron Expression","Cron 表达式",module,Magento_Support
 "Run Class",运行类,module,Magento_Support
@@ -11557,7 +11558,7 @@ Field,Field,module,Magento_Ups
 "is required.","is required.",module,Magento_Ups
 UPS,UPS,module,Magento_Ups
 "Access License Number",访问许可证号码,module,Magento_Ups
-"Enabled for Checkout",免费送货金额门槛,module,Magento_Ups
+"Enabled for Checkout",启用支付,module,Magento_Ups
 "Allowed Methods",允许的方法,module,Magento_Ups
 "Packages Request Type",包请求类型,module,Magento_Ups
 Container,货箱,module,Magento_Ups
@@ -11567,7 +11568,7 @@ Container,货箱,module,Magento_Ups
 "Free Method",免费的方法,module,Magento_Ups
 "Gateway URL",网关网址,module,Magento_Ups
 "Gateway XML URL","网关 XML URL",module,Magento_Ups
-"Calculate Handling Fee",显示不适用的方法,module,Magento_Ups
+"Calculate Handling Fee",计算处理费,module,Magento_Ups
 "Handling Applied",处理的应用,module,Magento_Ups
 "Handling Fee",处理费,module,Magento_Ups
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您的物流商)",module,Magento_Ups
@@ -11800,70 +11801,70 @@ Unlocked,已解锁,module,Magento_User
 "Retail Ground","Retail Ground",module,Magento_Usps
 "Media Mail",媒体的邮件,module,Magento_Usps
 "Library Mail",图书馆邮件,module,Magento_Usps
-"Priority Mail Express Flat Rate Envelope",优先邮件快递的扁平率信封,module,Magento_Usps
+"Priority Mail Express Flat Rate Envelope",优先邮件快递的统一运费信封,module,Magento_Usps
 "First-Class Mail Large Postcards",一流的邮件大明信片,module,Magento_Usps
-"Priority Mail Flat Rate Envelope",优先邮件扁平率信封,module,Magento_Usps
-"Priority Mail Medium Flat Rate Box",优先邮件中等扁平率的框,module,Magento_Usps
+"Priority Mail Flat Rate Envelope",优先邮件统一运费信封,module,Magento_Usps
+"Priority Mail Medium Flat Rate Box",优先邮件中等统一运费的框,module,Magento_Usps
 "Priority Mail Large Flat Rate Box",优先邮件箱大扁率,module,Magento_Usps
 "Priority Mail Express Sunday/Holiday Delivery",优先邮件快递周日/节假日,module,Magento_Usps
-"Priority Mail Express Sunday/Holiday Delivery Flat Rate Envelope",优先邮件表达周日/节假日送货扁平率信封,module,Magento_Usps
-"Priority Mail Express Flat Rate Envelope Hold For Pickup",优先邮件快递的扁平率信封舱为皮卡的,module,Magento_Usps
-"Priority Mail Small Flat Rate Box",优先邮件小扁平率的框,module,Magento_Usps
-"Priority Mail Padded Flat Rate Envelope",优先邮件软垫的扁平率信封,module,Magento_Usps
-"Priority Mail Express Legal Flat Rate Envelope",优先邮件表达法律的扁平率信封,module,Magento_Usps
-"Priority Mail Express Legal Flat Rate Envelope Hold For Pickup",优先邮件表达法律的扁平率信封等待皮卡,module,Magento_Usps
-"Priority Mail Express Sunday/Holiday Delivery Legal Flat Rate Envelope",优先邮件表达周日/节假日交付法律扁平率信封,module,Magento_Usps
+"Priority Mail Express Sunday/Holiday Delivery Flat Rate Envelope",优先邮件表达周日/节假日送货统一运费信封,module,Magento_Usps
+"Priority Mail Express Flat Rate Envelope Hold For Pickup",优先邮件快递的统一运费信封舱为皮卡的,module,Magento_Usps
+"Priority Mail Small Flat Rate Box",优先邮件小统一运费的框,module,Magento_Usps
+"Priority Mail Padded Flat Rate Envelope",优先邮件软垫的统一运费信封,module,Magento_Usps
+"Priority Mail Express Legal Flat Rate Envelope",优先邮件表达法律的统一运费信封,module,Magento_Usps
+"Priority Mail Express Legal Flat Rate Envelope Hold For Pickup",优先邮件表达法律的统一运费信封等待皮卡,module,Magento_Usps
+"Priority Mail Express Sunday/Holiday Delivery Legal Flat Rate Envelope",优先邮件表达周日/节假日交付法律统一运费信封,module,Magento_Usps
 "Priority Mail Hold For Pickup",皮卡的优先邮件舱,module,Magento_Usps
 "Priority Mail Large Flat Rate Box Hold For Pickup",优先邮件大扁率框舱为皮卡的,module,Magento_Usps
-"Priority Mail Medium Flat Rate Box Hold For Pickup",优先邮件中等扁平率盒舱为皮卡的,module,Magento_Usps
+"Priority Mail Medium Flat Rate Box Hold For Pickup",优先邮件中等统一运费盒舱为皮卡的,module,Magento_Usps
 "Priority Mail Small Flat Rate Box Hold For Pickup",优先邮件划一小框舱为皮卡的,module,Magento_Usps
-"Priority Mail Flat Rate Envelope Hold For Pickup",优先邮件扁平率信封舱为皮卡的,module,Magento_Usps
-"Priority Mail Gift Card Flat Rate Envelope",优先邮件礼物卡扁平率信封,module,Magento_Usps
-"Priority Mail Gift Card Flat Rate Envelope Hold For Pickup",优先邮件礼物卡扁平率信封舱为皮卡的,module,Magento_Usps
-"Priority Mail Window Flat Rate Envelope",优先邮件窗口扁平率信封,module,Magento_Usps
-"Priority Mail Window Flat Rate Envelope Hold For Pickup",优先邮件窗口扁平率信封舱为皮卡的,module,Magento_Usps
-"Priority Mail Small Flat Rate Envelope",优先邮件小扁平率信封,module,Magento_Usps
-"Priority Mail Small Flat Rate Envelope Hold For Pickup",优先邮件小扁平率信封舱为皮卡的,module,Magento_Usps
-"Priority Mail Legal Flat Rate Envelope",优先邮件法律扁平率信封,module,Magento_Usps
-"Priority Mail Legal Flat Rate Envelope Hold For Pickup",优先邮件法律扁平率信封舱为皮卡的,module,Magento_Usps
-"Priority Mail Padded Flat Rate Envelope Hold For Pickup",优先邮件填充拾取的扁平率信封举行,module,Magento_Usps
+"Priority Mail Flat Rate Envelope Hold For Pickup",优先邮件统一运费信封舱为皮卡的,module,Magento_Usps
+"Priority Mail Gift Card Flat Rate Envelope",优先邮件礼物卡统一运费信封,module,Magento_Usps
+"Priority Mail Gift Card Flat Rate Envelope Hold For Pickup",优先邮件礼物卡统一运费信封舱为皮卡的,module,Magento_Usps
+"Priority Mail Window Flat Rate Envelope",优先邮件窗口统一运费信封,module,Magento_Usps
+"Priority Mail Window Flat Rate Envelope Hold For Pickup",优先邮件窗口统一运费信封舱为皮卡的,module,Magento_Usps
+"Priority Mail Small Flat Rate Envelope",优先邮件小统一运费信封,module,Magento_Usps
+"Priority Mail Small Flat Rate Envelope Hold For Pickup",优先邮件小统一运费信封舱为皮卡的,module,Magento_Usps
+"Priority Mail Legal Flat Rate Envelope",优先邮件法律统一运费信封,module,Magento_Usps
+"Priority Mail Legal Flat Rate Envelope Hold For Pickup",优先邮件法律统一运费信封舱为皮卡的,module,Magento_Usps
+"Priority Mail Padded Flat Rate Envelope Hold For Pickup",优先邮件填充拾取的统一运费信封举行,module,Magento_Usps
 "Priority Mail Regional Rate Box A","优先邮件区域率框 A",module,Magento_Usps
 "Priority Mail Regional Rate Box A Hold For Pickup","优先邮件区域率框 A 持有的皮卡",module,Magento_Usps
 "Priority Mail Regional Rate Box B","优先邮件区域率框 B",module,Magento_Usps
 "Priority Mail Regional Rate Box B Hold For Pickup","优先邮件区域率框 B 举行为皮卡",module,Magento_Usps
 "First-Class Package Service Hold For Pickup",皮卡一流的包装服务暂停,module,Magento_Usps
-"Priority Mail Express Sunday/Holiday Delivery Flat Rate Boxes",优先邮件表达周日/节假日送货扁平率盒,module,Magento_Usps
+"Priority Mail Express Sunday/Holiday Delivery Flat Rate Boxes",优先邮件表达周日/节假日送货统一运费盒,module,Magento_Usps
 "Priority Mail Regional Rate Box C","优先邮件区域率框 C",module,Magento_Usps
 "Priority Mail Regional Rate Box C Hold For Pickup","优先邮件区域率框 C 举行为皮卡",module,Magento_Usps
 "First-Class Package Service",一流的包装服务,module,Magento_Usps
-"Priority Mail Express Padded Flat Rate Envelope",优先邮件快递软垫的扁平率信封,module,Magento_Usps
-"Priority Mail Express Padded Flat Rate Envelope Hold For Pickup",优先邮件快递软垫的扁平率信封舱为皮卡的,module,Magento_Usps
-"Priority Mail Express Sunday/Holiday Delivery Padded Flat Rate Envelope",优先邮件表达周日/节假日交付法律扁平率信封,module,Magento_Usps
+"Priority Mail Express Padded Flat Rate Envelope",优先邮件快递软垫的统一运费信封,module,Magento_Usps
+"Priority Mail Express Padded Flat Rate Envelope Hold For Pickup",优先邮件快递软垫的统一运费信封舱为皮卡的,module,Magento_Usps
+"Priority Mail Express Sunday/Holiday Delivery Padded Flat Rate Envelope",优先邮件表达周日/节假日交付法律统一运费信封,module,Magento_Usps
 "Priority Mail Express International",快递国际优先邮件,module,Magento_Usps
 "Priority Mail International",国际优先邮件,module,Magento_Usps
 "Global Express Guaranteed (GXG)","全球快递保证 (GXG)",module,Magento_Usps
 "Global Express Guaranteed Document",全球快递保证文档,module,Magento_Usps
 "Global Express Guaranteed Non-Document Rectangular",全球快递保证非文档矩形,module,Magento_Usps
 "Global Express Guaranteed Non-Document Non-Rectangular",全球快递保证非文档非矩形,module,Magento_Usps
-"Priority Mail International Flat Rate Envelope",优先邮件国际扁平率信封,module,Magento_Usps
-"Priority Mail International Medium Flat Rate Box",优先邮件国际中等扁平率的框,module,Magento_Usps
-"Priority Mail Express International Flat Rate Envelope",优先邮件表达国际扁平率信封,module,Magento_Usps
-"Priority Mail International Large Flat Rate Box",优先邮件国际大型扁平率的框,module,Magento_Usps
+"Priority Mail International Flat Rate Envelope",优先邮件国际统一运费信封,module,Magento_Usps
+"Priority Mail International Medium Flat Rate Box",优先邮件国际中等统一运费的框,module,Magento_Usps
+"Priority Mail Express International Flat Rate Envelope",优先邮件表达国际统一运费信封,module,Magento_Usps
+"Priority Mail International Large Flat Rate Box",优先邮件国际大型统一运费的框,module,Magento_Usps
 "USPS GXG Envelopes","美国邮政 GXG 信封",module,Magento_Usps
 "First-Class Mail International Letter",一流的邮件国际信,module,Magento_Usps
 "First-Class Mail International Large Envelope",一流国际大信封,module,Magento_Usps
 "First-Class Package International Service",一流的包国际服务,module,Magento_Usps
-"Priority Mail International Small Flat Rate Box",优先邮件国际小扁平率的框,module,Magento_Usps
-"Priority Mail Express International Legal Flat Rate Envelope",优先邮件表达国际软垫的扁平率信封,module,Magento_Usps
-"Priority Mail International Gift Card Flat Rate Envelope",优先邮件国际礼品卡扁平率信封,module,Magento_Usps
-"Priority Mail International Window Flat Rate Envelope",优先邮件国际窗口扁平率信封,module,Magento_Usps
-"Priority Mail International Small Flat Rate Envelope",优先邮件国际小扁平率信封,module,Magento_Usps
+"Priority Mail International Small Flat Rate Box",优先邮件国际小统一运费的框,module,Magento_Usps
+"Priority Mail Express International Legal Flat Rate Envelope",优先邮件表达国际软垫的统一运费信封,module,Magento_Usps
+"Priority Mail International Gift Card Flat Rate Envelope",优先邮件国际礼品卡统一运费信封,module,Magento_Usps
+"Priority Mail International Window Flat Rate Envelope",优先邮件国际窗口统一运费信封,module,Magento_Usps
+"Priority Mail International Small Flat Rate Envelope",优先邮件国际小统一运费信封,module,Magento_Usps
 "First-Class Mail International Postcard",一流的邮件国际明信片,module,Magento_Usps
-"Priority Mail International Legal Flat Rate Envelope",优先邮件国际法律扁平率信封,module,Magento_Usps
-"Priority Mail International Padded Flat Rate Envelope",优先邮件国际软垫的扁平率信封,module,Magento_Usps
-"Priority Mail International DVD Flat Rate priced box","优先邮件国际 DVD 扁平率定价框",module,Magento_Usps
-"Priority Mail International Large Video Flat Rate priced box",优先邮件国际大型视频扁平率定价框,module,Magento_Usps
-"Priority Mail Express International Padded Flat Rate Envelope",优先邮件表达国际软垫的扁平率信封,module,Magento_Usps
+"Priority Mail International Legal Flat Rate Envelope",优先邮件国际法律统一运费信封,module,Magento_Usps
+"Priority Mail International Padded Flat Rate Envelope",优先邮件国际软垫的统一运费信封,module,Magento_Usps
+"Priority Mail International DVD Flat Rate priced box","优先邮件国际 DVD 统一运费定价框",module,Magento_Usps
+"Priority Mail International Large Video Flat Rate priced box",优先邮件国际大型视频统一运费定价框,module,Magento_Usps
+"Priority Mail Express International Padded Flat Rate Envelope",优先邮件表达国际软垫的统一运费信封,module,Magento_Usps
 Letter,信,module,Magento_Usps
 Flat,单位,module,Magento_Usps
 Parcel,包裹,module,Magento_Usps
@@ -11871,7 +11872,7 @@ Variable,变量,module,Magento_Usps
 "Small Flat-Rate Box","Small Flat-Rate Box",module,Magento_Usps
 "Medium Flat-Rate Box","Medium Flat-Rate Box",module,Magento_Usps
 "Large Flat-Rate Box","Large Flat-Rate Box",module,Magento_Usps
-"Flat-Rate Envelope",扁平率信封,module,Magento_Usps
+"Flat-Rate Envelope",统一运费信封,module,Magento_Usps
 "Small Flat-Rate Envelope","Small Flat-Rate Envelope",module,Magento_Usps
 "Window Flat-Rate Envelope","Window Flat-Rate Envelope",module,Magento_Usps
 "Gift Card Flat-Rate Envelope","Gift Card Flat-Rate Envelope",module,Magento_Usps
@@ -11900,7 +11901,7 @@ None,无,module,Magento_Usps
 Field,Field,module,Magento_Usps
 "is required.","is required.",module,Magento_Usps
 USPS,美国邮政,module,Magento_Usps
-"Enabled for Checkout",免费送货金额门槛,module,Magento_Usps
+"Enabled for Checkout",启用支付,module,Magento_Usps
 "Gateway URL",网关网址,module,Magento_Usps
 "Secure Gateway URL","安全的网关的 URL",module,Magento_Usps
 Title,标题,module,Magento_Usps
@@ -11916,7 +11917,7 @@ Height,宽度,module,Magento_Usps
 Girth,长度,module,Magento_Usps
 Machinable,可加工,module,Magento_Usps
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您航运承运人)",module,Magento_Usps
-"Calculate Handling Fee",显示不适用的方法,module,Magento_Usps
+"Calculate Handling Fee",计算处理费,module,Magento_Usps
 "Handling Applied",处理的应用,module,Magento_Usps
 "Handling Fee",处理费,module,Magento_Usps
 "Allowed Methods",允许的方法,module,Magento_Usps
