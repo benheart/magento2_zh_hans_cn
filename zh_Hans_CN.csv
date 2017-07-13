@@ -1026,10 +1026,10 @@ YY,年年,module,Magento_Braintree
 "Please try again with another form of payment.",请再试一次与另一种付款方式。,module,Magento_Braintree
 "Sorry, but something went wrong.",抱歉，出错了。,module,Magento_Braintree
 Payment,Payment,module,Magento_Braintree
-Braintree,布伦特里,module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
+Braintree,Braintree,module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","在商店里接受信用卡和PayPal支付<br/>不需要安装和月费，并且客户可以不离开店铺完成支付。",module,Magento_Braintree
 "Enable this Solution",启用此解决方案,module,Magento_Braintree
-"Enable PayPal through Braintree",启用通过布伦特里PayPal,module,Magento_Braintree
+"Enable PayPal through Braintree",通过Braintree启用PayPal,module,Magento_Braintree
 "Vault Enabled","Vault Enabled",module,Magento_Braintree
 "Basic Braintree Settings","基本Braintree 设置",module,Magento_Braintree
 Title,标题,module,Magento_Braintree
@@ -1051,7 +1051,7 @@ Debug,调试,module,Magento_Braintree
 "Payment from Applicable Countries",来自特定国家的付款,module,Magento_Braintree
 "Payment from Specific Countries",具体国家的付款,module,Magento_Braintree
 "Country Specific Credit Card Types",国家特定的信用卡类型,module,Magento_Braintree
-"PayPal through Braintree",布伦特里通过PayPal,module,Magento_Braintree
+"PayPal through Braintree",Braintree通过PayPal,module,Magento_Braintree
 "Override Merchant Name",重写商户名称,module,Magento_Braintree
 "Require Customer's Billing Address",需要客户的帐单地址,module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side",允许编辑航运PayPal一边在结帐时输入地址,module,Magento_Braintree
@@ -4439,14 +4439,14 @@ Password,密码,module,Magento_Dhl
 "Account Number",帐户号码,module,Magento_Dhl
 "Content Type",内容类型,module,Magento_Dhl
 "Calculate Handling Fee",计算处理费,module,Magento_Dhl
-"Handling Applied",处理的应用,module,Magento_Dhl
+"Handling Applied",处理单位,module,Magento_Dhl
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""每个订单""允许为整个订单的单手续费。""每个包""允许单独的处理费用为每个包。",module,Magento_Dhl
 "Handling Fee",处理费,module,Magento_Dhl
 "Divide Order Weight",划分的排序权重,module,Magento_Dhl
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","选择此选项以允许 DHL 优化通过拆分订单，如果它超过 70 公斤的运费。",module,Magento_Dhl
 "Weight Unit",重量单位,module,Magento_Dhl
 Size,尺寸,module,Magento_Dhl
-"Allowed Methods",允许的方法,module,Magento_Dhl
+"Allowed Methods",允许的方式,module,Magento_Dhl
 "Displayed Error Message",显示的错误消息,module,Magento_Dhl
 "Free Method",免费的方法,module,Magento_Dhl
 "Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Dhl
@@ -4999,10 +4999,10 @@ Dropoff,摘下,module,Magento_Fedex
 "Weight Unit",重量单位,module,Magento_Fedex
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您航运承运人)",module,Magento_Fedex
 "Calculate Handling Fee",计算处理费,module,Magento_Fedex
-"Handling Applied",处理的应用,module,Magento_Fedex
+"Handling Applied",处理单位,module,Magento_Fedex
 "Handling Fee",处理费,module,Magento_Fedex
 "Residential Delivery",住宅交付,module,Magento_Fedex
-"Allowed Methods",允许的方法,module,Magento_Fedex
+"Allowed Methods",允许的方式,module,Magento_Fedex
 "Hub ID","集线器 ID",module,Magento_Fedex
 "The field is applicable if the Smart Post method is selected.","该字段是适用的如果选择了智能的 Post 方法。",module,Magento_Fedex
 "Free Method",免费的方法,module,Magento_Fedex
@@ -5012,7 +5012,7 @@ Dropoff,摘下,module,Magento_Fedex
 "Ship to Applicable Countries",运到适用的国家,module,Magento_Fedex
 "Ship to Specific Countries",运到特定国家,module,Magento_Fedex
 Debug,调试,module,Magento_Fedex
-"Show Method if Not Applicable","Show 方法如果不适用",module,Magento_Fedex
+"Show Method if Not Applicable","如果不适用显示此方式",module,Magento_Fedex
 "Sort Order",排序,module,Magento_Fedex
 "Gift Card Information",礼品卡信息,module,Magento_GiftCard
 Virtual,虚拟,module,Magento_GiftCard
@@ -6872,7 +6872,7 @@ Title,标题,module,Magento_OfflineShipping
 Type,类型,module,Magento_OfflineShipping
 "Ship to Applicable Countries",运到适用的国家,module,Magento_OfflineShipping
 "Ship to Specific Countries",运到特定国家,module,Magento_OfflineShipping
-"Show Method if Not Applicable","Show 方法如果不适用",module,Magento_OfflineShipping
+"Show Method if Not Applicable","如果不适用显示此方式",module,Magento_OfflineShipping
 "Displayed Error Message",显示的错误消息,module,Magento_OfflineShipping
 "Table Rates",费率表,module,Magento_OfflineShipping
 Condition,条款,module,Magento_OfflineShipping
@@ -7384,12 +7384,12 @@ Manage,Manage,module,Magento_Paypal
 "Place Order Using Billing Agreements","Place Order Using Billing Agreements",module,Magento_Paypal
 "Merchant Location",商家位置,module,Magento_Paypal
 "Merchant Country",商户国家,module,Magento_Paypal
-"If not specified, Default Country from General Config will be used",如果未指定，将使用默认的国家，从一般配置,module,Magento_Paypal
-"Recommended Solutions:","Recommended Solutions:",module,Magento_Paypal
+"If not specified, Default Country from General Config will be used",如果未指定，将使用常规配置中的默认国家,module,Magento_Paypal
+"Recommended Solutions:","推荐的解决方案:",module,Magento_Paypal
 "Other PayPal Payment Solutions:","Other PayPal Payment Solutions:",module,Magento_Paypal
-"Other Payment Methods:","Other Payment Methods:",module,Magento_Paypal
-"PayPal Express Checkout",PayPal快递签出,module,Magento_Paypal
-"Add another payment method to your existing solution or as a stand-alone option.",为现有的解决方案或作为一个独立的选项，将添加另一种付款方法。,module,Magento_Paypal
+"Other Payment Methods:","其他支付方式:",module,Magento_Paypal
+"PayPal Express Checkout","PayPal Express Checkout",module,Magento_Paypal
+"Add another payment method to your existing solution or as a stand-alone option.",为现有解决方案添加另一种付款方式，或作为一个独立的选项。,module,Magento_Paypal
 "PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.",选择安全捆绑的支付解决方案为您的业务。,module,Magento_Paypal
 "Payments Pro","Payments Pro",module,Magento_Paypal
@@ -11559,7 +11559,7 @@ Field,Field,module,Magento_Ups
 UPS,UPS,module,Magento_Ups
 "Access License Number",访问许可证号码,module,Magento_Ups
 "Enabled for Checkout",启用支付,module,Magento_Ups
-"Allowed Methods",允许的方法,module,Magento_Ups
+"Allowed Methods",允许的方式,module,Magento_Ups
 "Packages Request Type",包请求类型,module,Magento_Ups
 Container,货箱,module,Magento_Ups
 "Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Ups
@@ -11569,7 +11569,7 @@ Container,货箱,module,Magento_Ups
 "Gateway URL",网关网址,module,Magento_Ups
 "Gateway XML URL","网关 XML URL",module,Magento_Ups
 "Calculate Handling Fee",计算处理费,module,Magento_Ups
-"Handling Applied",处理的应用,module,Magento_Ups
+"Handling Applied",处理单位,module,Magento_Ups
 "Handling Fee",处理费,module,Magento_Ups
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您的物流商)",module,Magento_Ups
 "Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您的物流商)",module,Magento_Ups
@@ -11580,7 +11580,7 @@ Password,密码,module,Magento_Ups
 Title,标题,module,Magento_Ups
 "Tracking XML URL","跟踪 XML URL",module,Magento_Ups
 "UPS Type","UPS 类型",module,Magento_Ups
-"Live Account","Live Account",module,Magento_Ups
+"Live Account","真实账户",module,Magento_Ups
 "Weight Unit",重量单位,module,Magento_Ups
 "User ID","用户 ID",module,Magento_Ups
 "Enable Negotiated Rates",启用协议的价,module,Magento_Ups
@@ -11588,7 +11588,7 @@ Title,标题,module,Magento_Ups
 "Required for negotiated rates; 6-character UPS","所需的谈判达成率;6 个字符 UPS",module,Magento_Ups
 "Ship to Applicable Countries",运到适用的国家,module,Magento_Ups
 "Ship to Specific Countries",运到特定国家,module,Magento_Ups
-"Show Method if Not Applicable","Show 方法如果不适用",module,Magento_Ups
+"Show Method if Not Applicable","如果不适用显示此方式",module,Magento_Ups
 "Displayed Error Message",显示的错误消息,module,Magento_Ups
 Mode,模式,module,Magento_Ups
 "This enables or disables SSL verification of the Magento server by UPS.","这启用或禁用由 UPS 的 Magento 服务器 SSL 验证。",module,Magento_Ups
@@ -11918,9 +11918,9 @@ Girth,长度,module,Magento_Usps
 Machinable,可加工,module,Magento_Usps
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","最大包装重量 (最大支持运送的重量，请咨询您航运承运人)",module,Magento_Usps
 "Calculate Handling Fee",计算处理费,module,Magento_Usps
-"Handling Applied",处理的应用,module,Magento_Usps
+"Handling Applied",处理单位,module,Magento_Usps
 "Handling Fee",处理费,module,Magento_Usps
-"Allowed Methods",允许的方法,module,Magento_Usps
+"Allowed Methods",允许的方式,module,Magento_Usps
 "Free Method",免费的方法,module,Magento_Usps
 "Enable Free Shipping Threshold","Enable Free Shipping Threshold",module,Magento_Usps
 "Free Shipping Amount Threshold",免运费金额门槛,module,Magento_Usps
@@ -11928,7 +11928,7 @@ Machinable,可加工,module,Magento_Usps
 "Ship to Applicable Countries",运到适用的国家,module,Magento_Usps
 "Ship to Specific Countries",运到特定国家,module,Magento_Usps
 Debug,调试,module,Magento_Usps
-"Show Method if Not Applicable","Show 方法如果不适用",module,Magento_Usps
+"Show Method if Not Applicable","如果不适用显示此方式",module,Magento_Usps
 "Sort Order",排序,module,Magento_Usps
 "Custom Variables",自定义变量,module,Magento_Variable
 "Add New Variable",变量代码必须是唯一的。,module,Magento_Variable
