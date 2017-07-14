@@ -2148,8 +2148,8 @@ Sec,Sec,module,Magento_CatalogEvent
 "Preview Sale",预览出售,module,Magento_CatalogEvent
 "Go To Sale",转到销售,module,Magento_CatalogEvent
 "View Sale",查看销售,module,Magento_CatalogEvent
-Previous,上一个,module,Magento_CatalogEvent
-Next,下一个,module,Magento_CatalogEvent
+Previous,上一步,module,Magento_CatalogEvent
+Next,下一步,module,Magento_CatalogEvent
 "Catalog Events",目录事件,module,Magento_CatalogEvent
 "Enable Catalog Events Functionality",启用目录事件功能,module,Magento_CatalogEvent
 "Enable Catalog Event Widget on Storefront",启用目录事件窗口小部件在前端,module,Magento_CatalogEvent
@@ -2570,7 +2570,7 @@ State/Province,州/省,module,Magento_Checkout
 "My Cart (1 item)","我的购物车 (1 件)",module,Magento_Checkout
 "My Cart (%1 items)","我的购物车 (%1 件)",module,Magento_Checkout
 "My Cart",我的购物车,module,Magento_Checkout
-"For delivery questions.",为交货问题。,module,Magento_Checkout
+"For delivery questions.",方便配送时与您沟通。,module,Magento_Checkout
 "Customer is already registered",客户已注册,module,Magento_Checkout
 "Your session has expired",您的会话已过期,module,Magento_Checkout
 "A letter with further instructions will be sent to your email.",一封信进一步说明将发送到您的电子邮件。,module,Magento_Checkout
@@ -2673,11 +2673,11 @@ Total:,总数:,module,Magento_Checkout
 "Email Address",电子邮件地址,module,Magento_Checkout
 Password,密码,module,Magento_Checkout
 "Forgot Your Password?",忘记密码？,module,Magento_Checkout
-"My billing and shipping address are the same",我的帐单和发货使用相同地址,module,Magento_Checkout
+"My billing and shipping address are the same",帐单和物流使用相同地址,module,Magento_Checkout
 Update,更新,module,Magento_Checkout
 Cancel,取消,module,Magento_Checkout
 "Save in address book",保存到地址簿,module,Magento_Checkout
-"Estimated Total",估计总额,module,Magento_Checkout
+"Estimated Total",订单总额,module,Magento_Checkout
 "You can create an account after checkout.",您可以在结账后创建帐户。,module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.",您已经有账号了，可以登录或继续使用访客账号,module,Magento_Checkout
 Login,登录,module,Magento_Checkout
@@ -2738,7 +2738,7 @@ Shipping,送货,module,Magento_Checkout
 "Send Payment Failed Email Copy Method",发送支付失败邮件副本方法,module,Magento_Checkout
 Summary,摘要,module,Magento_Checkout
 "Order Total",订单金额,module,Magento_Checkout
-"We'll send your order confirmation here.",在这里，我们会给您的订单确认。,module,Magento_Checkout
+"We'll send your order confirmation here.",我们会通过邮件给您发送的订单信息。,module,Magento_Checkout
 Payment,付款,module,Magento_Checkout
 "Not yet calculated",尚未计算,module,Magento_Checkout
 "We received your order!",我们收到您的订单!,module,Magento_Checkout
@@ -3284,7 +3284,7 @@ Comparable,可比性,module,Magento_ConfigurableProductStaging
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.",发送邮件至,module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.",我们现在无法处理您的请求。抱歉，我们都知道。,module,Magento_Contact
 "* Required Fields",*必填字段,module,Magento_Contact
-"Write Us",给我们写信,module,Magento_Contact
+"Write Us",写信给我们,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.",我们会及时与您取得联系,module,Magento_Contact
 Name,名字,module,Magento_Contact
 Email,邮箱,module,Magento_Contact
@@ -3708,7 +3708,7 @@ or,或者,module,Magento_Customer
 "Delete Address",删除地址,module,Magento_Customer
 "You have no other address entries in your address book.",你有没有其他的地址条目在您的地址簿。,module,Magento_Customer
 "* Required Fields",*必要字段,module,Magento_Customer
-Company,地址,module,Magento_Customer
+Company,公司,module,Magento_Customer
 "Phone Number",电话号码,module,Magento_Customer
 Fax,传真,module,Magento_Customer
 Address,地址,module,Magento_Customer
@@ -5501,7 +5501,7 @@ Invitee,被邀请者,module,Magento_GiftRegistry
 "Add Invitee",添加被邀请者,module,Magento_GiftRegistry
 "Gift Registry Type",礼物的注册表类型,module,Magento_GiftRegistry
 "Please select a gift registry type.",请选择礼品注册表类型。,module,Magento_GiftRegistry
-Next,下一个,module,Magento_GiftRegistry
+Next,下一步,module,Magento_GiftRegistry
 "Last Name",姓,module,Magento_GiftRegistry
 "Registrant Information",注册信息,module,Magento_GiftRegistry
 "Maximum %1 registrants.","最大 %1 登记。",module,Magento_GiftRegistry
@@ -7965,7 +7965,7 @@ Customers,客户,module,Magento_Reports
 ID,ID,module,Magento_Reports
 "First Name",名,module,Magento_Reports
 "Last Name",姓,module,Magento_Reports
-"Items in Cart",购物车中,module,Magento_Reports
+"Items in Cart",件商品,module,Magento_Reports
 "Products in carts",购物车的商品,module,Magento_Reports
 Carts,购物车,module,Magento_Reports
 Name,名字,module,Magento_Reports
@@ -8109,7 +8109,7 @@ Review,商品评价,module,Magento_Review
 Previous,上一个,module,Magento_Review
 "Save and Previous",保存和以前,module,Magento_Review
 "Save and Next",保存和下一步,module,Magento_Review
-Next,下一个,module,Magento_Review
+Next,下一步,module,Magento_Review
 "Delete Review",删除审查,module,Magento_Review
 "Are you sure you want to do this?",您确认要这么做么？,module,Magento_Review
 "Edit Review '%1'","编辑审阅 '%1'",module,Magento_Review
@@ -9410,9 +9410,9 @@ Items,商品,module,Magento_Sales
 "Shipped By",运输由,module,Magento_Sales
 "Tracking Number",追踪号码,module,Magento_Sales
 "Billing Last Name",账单的姓,module,Magento_Sales
-"Find Order By",查找订单由,module,Magento_Sales
+"Find Order By",查找订单依据,module,Magento_Sales
 "ZIP Code",邮政编码,module,Magento_Sales
-"Billing ZIP Code",帐单邮政编码,module,Magento_Sales
+"Billing ZIP Code",邮政编码,module,Magento_Sales
 Continue,继续,module,Magento_Sales
 "Print All Refunds",打印所有退款,module,Magento_Sales
 "Refund #","退款 #",module,Magento_Sales
@@ -10085,7 +10085,7 @@ Delete,删除,module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","Are you sure you want to delete synonym group with id: %1?",module,Magento_Search
 View/Edit,查看/编辑,module,Magento_Search
 "Search entire store here...",输入关键词搜索...,module,Magento_Search
-"There are no search terms available.",没有搜索词可用。,module,Magento_Search
+"There are no search terms available.",暂无热门搜索词。,module,Magento_Search
 "Search Engine",搜索引擎,module,Magento_Search
 CSV,"Excel XML",module,Magento_Search
 "Excel XML","XML Excel",module,Magento_Search
@@ -11276,7 +11276,7 @@ Remove,删除,module,Magento_Theme
 Page,页面,module,Magento_Theme
 Previous,上一个,module,Magento_Theme
 "You're currently reading page",您当前正在阅读页,module,Magento_Theme
-Next,下一个,module,Magento_Theme
+Next,下一步,module,Magento_Theme
 Show,显示,module,Magento_Theme
 "per page",每页,module,Magento_Theme
 "About the calendar",分类,module,Magento_Theme
@@ -11463,7 +11463,7 @@ Keyword,关键词,module,Magento_Ui
 "Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",module,Magento_Ui
 "Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.",请输入问题编号或开关/独奏卡类型的开始日期。,module,Magento_Ui
-"This is a required field.",这是必填的字段。,module,Magento_Ui
+"This is a required field.",必填字段。,module,Magento_Ui
 "Please enter positive number in this field.",请在此字段中输入正数。,module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","请输入一个有效的值，: 10,20,30",module,Magento_Ui
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Ui
