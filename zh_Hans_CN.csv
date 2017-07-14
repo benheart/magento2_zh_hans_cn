@@ -1028,7 +1028,7 @@ YY,年年,module,Magento_Braintree
 Payment,Payment,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","在商店里接受信用卡和PayPal支付<br/>不需要安装和月费，并且客户可以不离开店铺完成支付。",module,Magento_Braintree
-"Enable this Solution",启用此解决方案,module,Magento_Braintree
+"Enable this Solution",启用此方案,module,Magento_Braintree
 "Enable PayPal through Braintree",通过Braintree启用PayPal,module,Magento_Braintree
 "Vault Enabled","Vault Enabled",module,Magento_Braintree
 "Basic Braintree Settings","基本Braintree 设置",module,Magento_Braintree
@@ -1038,10 +1038,10 @@ Environment,环境,module,Magento_Braintree
 "Merchant ID",商家ID,module,Magento_Braintree
 "Public Key",公共密钥,module,Magento_Braintree
 "Private Key",密钥,module,Magento_Braintree
-"Advanced Braintree Settings","先进的Braintree 设置",module,Magento_Braintree
+"Advanced Braintree Settings","高级Braintree设置",module,Magento_Braintree
 "Vault Title",保密支付标题,module,Magento_Braintree
 "Merchant Account ID","商户 ID",module,Magento_Braintree
-"Advanced Fraud Protection",先进的防欺诈保护,module,Magento_Braintree
+"Advanced Fraud Protection",高级防欺诈保护,module,Magento_Braintree
 "Kount Merchant ID",Kount自动欺诈交易检查服务账号ID,module,Magento_Braintree
 Debug,调试,module,Magento_Braintree
 "CVV Verification",CVV验证,module,Magento_Braintree
@@ -1062,9 +1062,9 @@ Debug,调试,module,Magento_Braintree
 "Threshold Amount",阈值金额,module,Magento_Braintree
 "Verify for Applicable Countries",为适用的国家验证,module,Magento_Braintree
 "Verify for Specific Countries",为特定的国家验证,module,Magento_Braintree
-"Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
-Name,Name,module,Magento_Braintree
-Phone,Phone,module,Magento_Braintree
+"Dynamic Descriptors","动态描述符",module,Magento_Braintree
+Name,姓名,module,Magento_Braintree
+Phone,电话,module,Magento_Braintree
 URL,URL,module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","将筛选器应用才能得到结果。只有前 100 条记录将显示在网格中，您将能够下载完整版本的.csv 格式报告。",module,Magento_Braintree
 Select...,选择...,module,Magento_Braintree
@@ -1138,7 +1138,7 @@ YY,年,module,Magento_BraintreeTwo
 "Sorry, but something went wrong.",抱歉，出错了。,module,Magento_BraintreeTwo
 BraintreeTwo,BraintreeTwo,module,Magento_BraintreeTwo
 &nbsp;,&nbsp;,module,Magento_BraintreeTwo
-"Enable this Solution",启用此解决方案,module,Magento_BraintreeTwo
+"Enable this Solution",启用此方案,module,Magento_BraintreeTwo
 "Enable PayPal through Braintree",通过Batintree启用PayPal,module,Magento_BraintreeTwo
 "Basic BraintreeTwo Settings","基本的 BraintreeTwo 设置",module,Magento_BraintreeTwo
 Title,标题,module,Magento_BraintreeTwo
@@ -1147,9 +1147,9 @@ Environment,环境,module,Magento_BraintreeTwo
 "Merchant ID",商家ID,module,Magento_BraintreeTwo
 "Public Key",公共密钥,module,Magento_BraintreeTwo
 "Private Key",密钥,module,Magento_BraintreeTwo
-"Advanced Braintree Settings","先进的Braintree 设置",module,Magento_BraintreeTwo
+"Advanced Braintree Settings","高级Braintree设置",module,Magento_BraintreeTwo
 "Merchant Account ID","商户 ID",module,Magento_BraintreeTwo
-"Advanced Fraud Protection",先进的防欺诈保护,module,Magento_BraintreeTwo
+"Advanced Fraud Protection",高级防欺诈保护,module,Magento_BraintreeTwo
 "Kount Merchant ID","把商人 ID",module,Magento_BraintreeTwo
 Debug,调试,module,Magento_BraintreeTwo
 "CVV Verification",CVV验证,module,Magento_BraintreeTwo
@@ -7400,13 +7400,13 @@ Manage,Manage,module,Magento_Paypal
 "Accept payments with a completely customizable checkout page.",接受支付完全可定制的结帐页面。,module,Magento_Paypal
 "Process payments using your own internet merchant account.",使用您自己的互联网商家帐户的处理付款。,module,Magento_Paypal
 "Website Payments Pro","Website Payments Pro",module,Magento_Paypal
-"Express Checkout",快速结帐,module,Magento_Paypal
+"Express Checkout",快速结账,module,Magento_Paypal
 "Add PayPal as an additional payment method to your checkout page.",PayPal作为一种额外的付款方法添加到结帐页面。,module,Magento_Paypal
-"Required PayPal Settings",所需的PayPal设置,module,Magento_Paypal
-"Email Associated with PayPal Merchant Account (Optional)","与PayPal商户 (可选) 关联的电子邮件",module,Magento_Paypal
+"Required PayPal Settings",PayPal必要设置,module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","PayPal商户关联的电子邮箱（可选）",module,Magento_Paypal
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal""> 开始接受通过PayPal付款!</a>",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","难道没有一个 PayPal 帐户吗?只需输入您的电子邮件地址。",module,Magento_Paypal
-"API Authentication Methods","API 的身份验证方法",module,Magento_Paypal
+"API Authentication Methods","API 身份验证方法",module,Magento_Paypal
 "API Username","API 用户名",module,Magento_Paypal
 "API Password","API 密码",module,Magento_Paypal
 "Get Credentials from PayPal",从PayPal获取凭据,module,Magento_Paypal
@@ -7414,8 +7414,8 @@ Manage,Manage,module,Magento_Paypal
 "API Uses Proxy","API 使用代理服务器",module,Magento_Paypal
 "Proxy Host",代理主机,module,Magento_Paypal
 "Proxy Port",代理服务器端口,module,Magento_Paypal
-"Enable this Solution",启用此解决方案,module,Magento_Paypal
-"Enable In-Context Checkout Experience","Enable In-Context Checkout Experience",module,Magento_Paypal
+"Enable this Solution",启用此方案,module,Magento_Paypal
+"Enable In-Context Checkout Experience","启用上下文结算体验",module,Magento_Paypal
 "See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.",module,Magento_Paypal
 "Merchant Account ID","商户 ID",module,Magento_Paypal
 "Enable PayPal Credit",启用PayPal信用,module,Magento_Paypal
@@ -7446,7 +7446,7 @@ Title,标题,module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","孩子授权在您的PayPal帐户的默认数量为 1。要做多个授权请联系PayPal要求增加。",module,Magento_Paypal
 "Advanced Settings",高级设置,module,Magento_Paypal
 "Display on Shopping Cart",在购物车上显示,module,Magento_Paypal
-"Also affects mini-shopping cart.",也会影响迷你购物车。,module,Magento_Paypal
+"Also affects mini-shopping cart.",会影响购物车。,module,Magento_Paypal
 "Payment Applicable From",适用的付款,module,Magento_Paypal
 "Countries Payment Applicable From",适用的国家付款,module,Magento_Paypal
 "Debug Mode",调试模式,module,Magento_Paypal
@@ -7464,7 +7464,7 @@ Title,标题,module,Magento_Paypal
 "Whether to create a billing agreement, if there are no active billing agreements available.",是否要创建一个计费的协议，如果没有积极的自动扣款协议。,module,Magento_Paypal
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","商人需要向 PayPal 申请启用计费协议功能。直到PayPal确认你的商户启用的自动扣款协议，请不要启用此选项。",module,Magento_Paypal
 "Skip Order Review Step",跳过顺序审查步骤,module,Magento_Paypal
-"PayPal Billing Agreement Settings",paypal付款协议设置,module,Magento_Paypal
+"PayPal Billing Agreement Settings",Paypal付款协议设置,module,Magento_Paypal
 Enabled,启用,module,Magento_Paypal
 "Will appear as a payment option only for customers who have at least one active billing agreement.",将只对客户有至少一个活跃的账单协议作为付款选项出现。,module,Magento_Paypal
 "Allow in Billing Agreement Wizard",允许自动扣款协议向导,module,Magento_Paypal
@@ -7479,12 +7479,12 @@ Password,密码,module,Magento_Paypal
 "Scheduled Fetching",预定取,module,Magento_Paypal
 "Enable Automatic Fetching",启用自动取,module,Magento_Paypal
 Schedule,计划任务,module,Magento_Paypal
-"PayPal retains reports for 45 days.","paypal将报告保留 45 天。",module,Magento_Paypal
+"PayPal retains reports for 45 days.","Paypal将报告保留 45 天。",module,Magento_Paypal
 "Time of Day",一天的时间,module,Magento_Paypal
 "Frontend Experience Settings",前端体验设置,module,Magento_Paypal
-"PayPal Product Logo",paypal商品标志,module,Magento_Paypal
+"PayPal Product Logo",Paypal商品标志,module,Magento_Paypal
 "Displays on catalog pages and homepage.",在目录页和主页上显示。,module,Magento_Paypal
-"PayPal Merchant Pages Style",paypal商人页样式,module,Magento_Paypal
+"PayPal Merchant Pages Style",Paypal商人页样式,module,Magento_Paypal
 "Page Style",页面样式,module,Magento_Paypal
 "Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","允许的值:""paypal""，""主""(默认值)，your_custom_value (从你的商户配置文件自定义付款页面样式)。",module,Magento_Paypal
 "Header Image URL","标题图像 URL",module,Magento_Paypal
@@ -10393,7 +10393,7 @@ Error,Error,module,Magento_Signifyd
 "Fraud Protection Section","Fraud Protection Section",module,Magento_Signifyd
 "Fraud Protection","Fraud Protection",module,Magento_Signifyd
 Signifyd,Signifyd,module,Magento_Signifyd
-"Enable this Solution","Enable this Solution",module,Magento_Signifyd
+"Enable this Solution",启用此方案,module,Magento_Signifyd
 "API Key","API Key",module,Magento_Signifyd
 "API URL","API URL",module,Magento_Signifyd
 Debug,Debug,module,Magento_Signifyd
