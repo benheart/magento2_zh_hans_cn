@@ -2644,7 +2644,7 @@ Subtotal,小计,module,Magento_Checkout
 "Edit item parameters",修改参数,module,Magento_Checkout
 Edit,编辑,module,Magento_Checkout
 "Remove item",删除项目,module,Magento_Checkout
-"You have no items in your shopping cart.",你的购物车中没有任何商品。,module,Magento_Checkout
+"You have no items in your shopping cart.",购物车为空,module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","单击 <a href=""%1"">此处</a> 继续购物。",module,Magento_Checkout
 "Estimate Tax",估计税,module,Magento_Checkout
 "Estimate Shipping and Tax",估计运费和税,module,Magento_Checkout
