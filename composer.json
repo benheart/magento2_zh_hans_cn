@@ -3,7 +3,7 @@
   "description": "Chinese language package for Magento 2",
   "homepage": "https://github.com/benheart/magento2_zh_hans_cn",
   "require": {
-    "magento/framework": "~100.0"
+    "magento/framework": "*"
   },
   "type": "magento2-language",
   "version": "1.0.0",
